@@ -148,11 +148,11 @@ http://51.222.105.5:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
 http://51.222.105.5:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80118_dark_360w_270h.png",HBO FAMILY
 http://51.222.105.5:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="p/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png",HBO XTREME
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80115_dark_360w_270h.png",HBO XTREME
 http://xgtv.club:8080/gratis3315921/gtv4817385/109883.ts
-#EXTINF:-1 group-title="Cine" tvg-logo="http://ky-iptv.com:25461/images/fea2c7bc1534ae8e1371c00017050757.png",HBO POP
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91408_dark_360w_270h.png",HBO POP
 http://xgtv.club:8080/gratis3315921/gtv4817385/109885.ts
-#EXTINF:-1 group-title="Cine" tvg-logo="https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png",HBO MUNDI
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87164_dark_360w_270h.png",HBO MUNDI
 http://pelicanhosting.xyz/MoeMoe/MoeMoe/171496
 #EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74450_dark_360w_270h.png",HBO SIGNATURE
 http://51.222.105.5:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
