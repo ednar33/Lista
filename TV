@@ -153,7 +153,7 @@ http://planettvweb.com:8091/isaias2020/isaias2020/11945
 #EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91408_dark_360w_270h.png",HBO POP
 http://s0lc.net:8080/Michelle/Michelle/370
 #EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87164_dark_360w_270h.png",HBO MUNDI
-http://pelicanhosting.xyz/MoeMoe/MoeMoe/171496
+http://s0lc.net:8080/Michelle/Michelle/15942
 #EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74450_dark_360w_270h.png",HBO SIGNATURE
 http://51.222.105.5:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png",STAR CHANNEL
