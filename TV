@@ -156,7 +156,7 @@ http://p1w2.info:25461/dddd/dddd/70913
 http://s0lc.net:8080/Michelle/Michelle/15942
 #EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74450_dark_360w_270h.png",HBO SIGNATURE
 http://51.222.105.5:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png",STAR CHANNEL
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://spoiler.bolavip.com/export/sites/bolavip/img/2020/12/17/starjpg.jpg_929788380.jpg",STAR CHANNEL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=46&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s49263_dark_360w_270h.png",STAR LIFE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=77&format=HLS&f=.m3u8
