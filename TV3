@@ -1,46 +1,15 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS" tvg-logo="http://www.teleamazonas.com/wp-content/uploads/2015/09/WhatsApp-Image-20160715.jpeg" group-title="ECUADOR",TELEAMAZONAS
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/3166.m3u8
-#EXTINF:-1 tvg-id="rcn.co" tvg-name="LA_HD:RCN" tvg-logo="https://i.ytimg.com/vi/HivPwc0IWXc/hqdefault.jpg" group-title="COLOMBIA",LA_HD:RCN
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/3121.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV ECUADOR FHD (e)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="ECUADOR",DIRECTV ECUADOR FHD (e)
 http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2690.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Goltv.gif" group-title="ECUADOR",GOL TV ECUADOR 
 http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2689.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONA FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONA FHD 
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2687.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TC TELEVISION HD" tvg-logo="" group-title="ECUADOR",TC TELEVISION HD
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2686.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TC TELEVISION FHD (EC) (e)" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/TC-Televisi%C3%B3n.png" group-title="ECUADOR",TC TELEVISION FHD (EC) (e)
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2685.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OROMAR TV SD (EC) (m)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/300px-Oromar_logo.png" group-title="ECUADOR",OROMAR TV SD (EC) (m)
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2681.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GAMA TV " tvg-logo="https://4.bp.blogspot.com/-A4NS5Y030Lc/Wx7kK6S5L1I/AAAAAAAAGB4/-WpiCM0fcEkxwN2v3HR-vIRxThhyqa9CQCLcBGAs/s200/Nuevologo-Gamavisi%25C3%25B3n.png" group-title="ECUADOR",GAMA TV 
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2680.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA SD (EC) (m)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/52/Logo_9.png/revision/latest/scale-to-width-down/220?cb=20180130013250&path-prefix=es" group-title="ECUADOR",ECUAVISA SD (EC) (m)
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2677.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA SIERRA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="ECUADOR",ECUAVISA SIERRA
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2676.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/Ecuavisa-01.png/revision/latest?cb=20171021235852" group-title="ECUADOR",ECUAVISA 
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2675.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TV " tvg-logo="https://pbs.twimg.com/profile_images/986225858879873024/JZugB3pF_400x400.jpg" group-title="ECUADOR",ECUADOR TV 
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2674.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TV OPCION 2" tvg-logo="https://pbs.twimg.com/profile_images/986225858879873024/JZugB3pF_400x400.jpg" group-title="ECUADOR",ECUADOR TV OPCION 2
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2673.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL UNO " tvg-logo="https://3.bp.blogspot.com/-FL1zUnUXJYY/W0plHsjff7I/AAAAAAAAGXE/NwHQA09f5QEoJxd4PQzsOdJ6yn0ymbanQCLcBGAs/s1600/uno%2Becuador.png" group-title="ECUADOR",CANAL UNO 
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2672.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL UNO HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTR7HrYde0IhHrbHaSdEhEobsSEKawQWimZ8aT8xgTx0plRwDTu" group-title="ECUADOR",CANAL UNO HD 
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2671.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL UNO OPCION 3" tvg-logo="http://www.conmicelu.com/wp-content/uploads/2017/04/canal-uno-en-vivo-ecuador.jpg" group-title="ECUADOR",CANAL UNO OPCION 3
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2670.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:CDO Basico CHILE" tvg-logo="https://1.bp.blogspot.com/-VqTF4cSp34k/XCuUsIL3lgI/AAAAAAAACSQ/nAkBo6c_OhoZXCuIoo9vOwbqu6ycYrrGACLcBGAs/w640/cdo-tv.jpg" group-title="CHILE",LA_SD:CDO Basico CHILE
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2669.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD:CDO BASICO" tvg-logo="" group-title="CHILE",LA_SD:CDO BASICO
 http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2668.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:CDN 37 RD" tvg-logo="" group-title="CHILE",LA_SD:CDN 37 RD
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2667.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD:CDF Premium" tvg-logo="" group-title="CHILE",LA_SD:CDF Premium
 http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2666.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_13_C CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Canal_13_de_Chile_%28Isotipo_2018%29.svg/1200px-Canal_13_de_Chile_%28Isotipo_2018%29.svg.png" group-title="CHILE",LA_SD:SUR_13_C CHILE
@@ -49,66 +18,8 @@ http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2665.m3u8
 http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2664.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_CDF PREMIUM" tvg-logo="" group-title="CHILE",LA_SD:SUR_CDF PREMIUM
 http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2663.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_GLOBOVISION" tvg-logo="https://www.elnacional.com/wp-content/uploads/2019/01/trabajadores-globovision-evadieron-preguntas-sobre-sanciones_265831.jpg" group-title="VENEZUELA",LA_SD:SUR_GLOBOVISION
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2662.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD:FOX SPORT VEN" tvg-logo="https://www.elespectador.com/sites/default/files/4d12b192dddf76d6ffa285d41301d915.jpg" group-title="VENEZUELA",LA_SD:FOX SPORT VEN
 http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2661.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_VE_Vive" tvg-logo="https://pbs.twimg.com/profile_images/862094963718402049/GhI4FsOG_400x400.jpg" group-title="VENEZUELA",LA_SD:SUR_VE_Vive
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2660.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_VE_Venezolana de Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1200px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="VENEZUELA",LA_SD:SUR_VE_Venezolana de Television
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2659.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_VE_VALE TV" tvg-logo="" group-title="VENEZUELA",LA_SD:SUR_VE_VALE TV
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2658.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_VE_Conciencia" tvg-logo="" group-title="VENEZUELA",LA_SD:SUR_VE_Conciencia
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2657.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_VE_Canal I" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/Vive-TV-Venezuela-en-vivo-Online.png" group-title="VENEZUELA",LA_SD:SUR_VE_Canal I
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2656.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_VE_ANTV" tvg-logo="" group-title="VENEZUELA",LA_SD:SUR_VE_ANTV
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2655.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:TELETRAK" tvg-logo="" group-title="VENEZUELA",LA_SD:TELETRAK
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2654.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_VE_meridiano" tvg-logo="" group-title="VENEZUELA",LA_SD:SUR_VE_meridiano
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2653.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD:**VTV." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="URUGUAY",LA_HD:**VTV.
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2652.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD:**CANAL 4" tvg-logo="https://i.ytimg.com/vi/t6pDdMZUoPg/hqdefault.jpg" group-title="URUGUAY",LA_HD:**CANAL 4
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2651.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD:** CANAL A+V" tvg-logo="https://pbs.twimg.com/profile_images/1153150302603894784/MUFOdCa3_400x400.jpg" group-title="URUGUAY",LA_HD:** CANAL A+V
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2650.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:RD_Telesistema" tvg-logo="https://forounivers.com/uploads/monthly_2017_11/large.sponsor_telesistema.png.b73279cb46d61dd1442b02a3fa46e0ce.png" group-title="REPUBLICA DOMINICANA",LA_SD:RD_Telesistema
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2639.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:RD_TeleMicro" tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-telemicro-hd-republica-dominicana-en-vivo.jpg" group-title="REPUBLICA DOMINICANA",LA_SD:RD_TeleMicro
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2638.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:RD_Telecentro" tvg-logo="" group-title="REPUBLICA DOMINICANA",LA_SD:RD_Telecentro
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2637.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:RD_Digital 15" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/digital-15.png" group-title="REPUBLICA DOMINICANA",LA_SD:RD_Digital 15
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2635.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:RD_Color Vision 9" tvg-logo="http://dominicanchannels.net/wp-content/uploads/2015/10/colorvision.png" group-title="REPUBLICA DOMINICANA",LA_SD:RD_Color Vision 9
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2634.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:RD_CDN 37" tvg-logo="" group-title="REPUBLICA DOMINICANA",LA_SD:RD_CDN 37
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2633.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:RD_Antena Latina" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antena7.png" group-title="REPUBLICA DOMINICANA",LA_SD:RD_Antena Latina
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2632.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:EWTN" tvg-logo="http://telefides.com/wp-content/uploads/2017/06/logo_ewtn_G.jpg" group-title="RELIGION",LA_SD:EWTN
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2631.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:Enlace TV" tvg-logo="" group-title="RELIGION",LA_SD:Enlace TV
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2630.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_Enlace" tvg-logo="" group-title="RELIGION",LA_SD:SUR_Enlace
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2629.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:SEMBRADOR" tvg-logo="" group-title="RELIGION",LA_SD:SEMBRADOR
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2628.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_PR:Wipr Canal 6" tvg-logo="https://www.wipr.pr/wp-content/uploads/2018/11/logo-big-blue.png" group-title="PUERTO RICO",LA_PR:Wipr Canal 6
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2625.m3u8
-#EXTINF:-1 tvg-id="univision.eastern.us" tvg-name="LA_PR:Univision" tvg-logo="https://st1.uvnimg.com/dims4/default/e0b96b8/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F19%2F43%2Fa8903a484770b4b7fcd15c3a827a%2Fdesktop-univision-puerto-rico-298x168.jpg" group-title="PUERTO RICO",LA_PR:Univision
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2623.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_PR:Teleoro Canal 13" tvg-logo="https://rec-end.elnuevodia.com/images/tn/0/0/1089/542/900/447/2017/11/13/cana13.jpg" group-title="PUERTO RICO",LA_PR:Teleoro Canal 13
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2621.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RETRO TV MUSIC" tvg-logo="https://lh3.googleusercontent.com/P5dE0k5wUTJg4MQUga2FfqITwqaHxlQtqWF4OSMb1qBAjatsr9II2O9Yn9t3XonVB1k" group-title="PERU",RETRO TV MUSIC
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2620.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_PE_PERU MAGICO" tvg-logo="" group-title="PERU",LA_SD:SUR_PE_PERU MAGICO
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2619.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:PE_PANAMERICANA" tvg-logo="" group-title="PERU",LA_SD:PE_PANAMERICANA
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2618.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_PE_LATINA" tvg-logo="http://www.brandemia.org/sites/default/files/logo_latina_brandlab.jpg" group-title="PERU",LA_SD:SUR_PE_LATINA
 http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2617.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD:PE_GOLPERU" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/golperu_logo_horizontal1-1.jpg" group-title="PERU",LA_SD:PE_GOLPERU
@@ -131,26 +42,6 @@ http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2609.m3u8
 http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2608.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_PARAGUAY:Sur TV" tvg-logo="" group-title="PARAGUAY",LA_SD:SUR_PARAGUAY:Sur TV
 http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2607.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_PARAGUAY:RPC" tvg-logo="" group-title="PARAGUAY",LA_SD:SUR_PARAGUAY:RPC
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2606.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_PARAGUAY:Paraguay TV" tvg-logo="" group-title="PARAGUAY",LA_SD:SUR_PARAGUAY:Paraguay TV
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2605.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:PAN_NEXT TV 21" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pa-nex-tv-canal-21-3964.jpg" group-title="PANAMA",LA_SD:PAN_NEXT TV 21
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2604.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:PAN_MAS TV 23" tvg-logo="https://pbs.twimg.com/profile_images/980811722855510016/-MzqySuf.jpg" group-title="PANAMA",LA_SD:PAN_MAS TV 23
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2603.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:PAN_RPC 4" tvg-logo="https://forounivers.com/uploads/monthly_2017_01/unnamed.png.2506449d078fd6f92beeadbb0bbe3c65.png" group-title="PANAMA",LA_SD:PAN_RPC 4
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2602.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:PAN_TVN 2" tvg-logo="http://www.paginasamarillasdepanama.com/uploads/logos/12289733_10153741600428838_8536168085383445505_n.png" group-title="PANAMA",LA_SD:PAN_TVN 2
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2601.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:PAN_TELEMETRO 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png" group-title="PANAMA",LA_SD:PAN_TELEMETRO 13
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD:PAN:SER TV 11" tvg-logo="https://sertv.gob.pa/wp-content/uploads/2018/10/log_sertv-80-retina.png" group-title="PANAMA",LA_SD:PAN:SER TV 11
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2599.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD:PAN: H VISION" tvg-logo="" group-title="PANAMA",LA_HD:PAN: H VISION
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2598.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD:PAN_SER TV CANAL 11" tvg-logo="" group-title="PANAMA",LA_HD:PAN_SER TV CANAL 11
-http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2597.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD:PAN_RPC 4" tvg-logo="https://forounivers.com/uploads/monthly_2017_01/unnamed.png.2506449d078fd6f92beeadbb0bbe3c65.png" group-title="PANAMA",LA_HD:PAN_RPC 4
 http://redcoliptv.com:8090/live/user2021558/x4cmSeXhEL/2596.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD:PAN_TELEMETRO 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png" group-title="PANAMA",LA_HD:PAN_TELEMETRO 13
