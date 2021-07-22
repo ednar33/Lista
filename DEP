@@ -17,6 +17,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 ,FOX SPORTS 3 MEX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=178&format=HLS&f=.m3u8
 #EXTINF:-1 ,AFIZZIONADOS
+http://51.222.105.5:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
 #EXTINF:-1 ,TUDN MEX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=174&format=HLS&f=.m3u8
 #EXTINF:-1 ,TVC DEPORTES
