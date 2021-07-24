@@ -740,24 +740,39 @@ http://stalkertvlatino.com:8080/play1/play1/913
 
 
 #EXTINF:-1,Univision Los Angeles
-http://ytv.plus:25461/alex/1234/341
+http://ytv.plus:25461/diegotv/1234/341
 #EXTINF:-1,UNIVISION (WUVP-Philadelphia PA)
-http://ytv.plus:25461/alex/1234/316
+http://ytv.plus:25461/diegotv/1234/316
 #EXTINF:-1,Univision (KAKW-Austin)
-http://ytv.plus:25461/alex/1234/328
+http://ytv.plus:25461/diegotv/1234/328
 #EXTINF:-1,Univision (KDTV-San Francisco-Oak-San Jose)
-http://ytv.plus:25461/alex/1234/329
+http://ytv.plus:25461/diegotv/1234/329
 #EXTINF:-1,Univision (WQHS-Cleveland-Akron Canton)
-http://ytv.plus:25461/alex/1234/332
+http://ytv.plus:25461/diegotv/1234/332
 #EXTINF:-1,Univision 41
-http://ytv.plus:25461/alex/1234/334
+http://ytv.plus:25461/diegotv/1234/334
 #EXTINF:-1,Univision Houston
-http://ytv.plus:25461/alex/1234/340
+http://ytv.plus:25461/diegotv/1234/340
 #EXTINF:-1,Univision Austin
-http://ytv.plus:25461/alex/1234/336
+http://ytv.plus:25461/diegotv/1234/336
 #EXTINF:-1,MX | Galavisión
-http://ytv.plus:25461/alex/1234/150
-
+http://ytv.plus:25461/diegotv/1234/150
+#EXTINF:-1,NBC Universo ESP
+http://ytv.plus:25461/diegotv/1234/217
+#EXTINF:-1,UNIVISION SPORTS USA
+http://ytv.plus:25461/diegotv/1234/13202
+#EXTINF:-1,UNIVISION MIAMI USA
+http://ytv.plus:25461/diegotv/1234/13204
+#EXTINF:-1,UNIVISION
+http://ytv.plus:25461/diegotv/1234/752
+#EXTINF:-1,UNIVISION NEW YORK
+http://ytv.plus:25461/diegotv/1234/1598
+#EXTINF:-1,UNIVISION ATLANTA
+http://ytv.plus:25461/diegotv/1234/2332
+#EXTINF:-1,UNIVISION CHICAGO
+http://ytv.plus:25461/diegotv/1234/1836
+#EXTINF:-1,UNIVISION PHOENIX
+http://ytv.plus:25461/diegotv/1234/2333
 
 
 
