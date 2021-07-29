@@ -80,15 +80,15 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=117&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Animación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png",DISNEY CHANNEL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=113&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Animación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1966px-Disney_XD_-_2015.svg.png",DISNEY XD
+#EXTINF:-1 group-title="Animación" tvg-logo="http://ky-iptv.com:25461/images/7c4c4678948724debd031dccf68d3c3d.png",DISNEY XD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=111&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Animación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr._logo.png",DISNEY JR
+#EXTINF:-1 group-title="Animación" tvg-logo="http://ky-iptv.com:25461/images/098d475f76e6a0860e4da430c897cd64.png",DISNEY JR
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=118&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s45955_dark_360w_270h.png",DISCOVERY KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=109&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s56036_dark_360w_270h.png",BABY FIRST
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1984&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Animación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png",BABY TV
+#EXTINF:-1 group-title="Animación" tvg-logo="http://ky-iptv.com:25461/images/93f73ccbb1b6c3e0e8ae92c4552a5542.png",BABY TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=116&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TPLEY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngk.png",NAT GEO KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2373&format=HLS&f=.m3u8
@@ -196,7 +196,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=52&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Universal_Pictures_logo.svg/2418px-Universal_Pictures_logo.svg.png",UNIVERSAL CHANNEL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=57&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s30259_dark_360w_270h.png",E!
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://ky-iptv.com:25461/images/29f2ca19b1e504fca8ab554dbe3f6d3a.png",E!
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=55&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvWE9kNiyxUK9laC_Fs0AM4Tu7IX6QG3Xv5A&usqp=CAU",SYFY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=59&format=HLSAD&f=.m3u8
@@ -222,9 +222,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=79&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s90682_dark_360w_270h.png",LIFETIME
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=94&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png",COMEDY CENTRAL
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://ky-iptv.com:25461/images/5daae38532c46bb29b2f71930b4f2d82.png",COMEDY CENTRAL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=340&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png",COMEDY CENTRAL HD
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://ky-iptv.com:25461/images/5daae38532c46bb29b2f71930b4f2d82.png",COMEDY CENTRAL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=340&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",FOOD NETWORK
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2145&format=HLS&f=.m3u8
