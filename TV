@@ -238,9 +238,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=168&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s96876_dark_360w_270h.png",ESPN 2 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=168&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s25595_dark_360w_270h.png",ESPN 3
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png",ESPN 3
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=345&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s25595_dark_360w_270h.png",ESPN 3 HD
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png",ESPN 3 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=345&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://alruckershow.com/wp-content/uploads/2018/04/espn-plus-logo.png",ESPN +
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=167&format=HLS&f=.m3u8
@@ -340,7 +340,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=184&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s82353_dark_360w_270h.png",EXCELSIOR TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1449&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",CNN
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://cherry-brightspot.s3.amazonaws.com/media/2010/10/06/cnn-espanol-nuevo-logo-imagen.jpg",CNN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=185&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s27773_dark_360w_270h.png",CNN Ñ
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=187&format=HLS&f=.m3u8
