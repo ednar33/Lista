@@ -230,33 +230,33 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2145&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s34412_dark_360w_270h.png",MAS CHIC
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1842&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",ESPN 1
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg",ESPN 1
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=169&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",ESPN 1 HD
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg",ESPN 1 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=169&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s110964_dark_360w_270h.png",ESPN 2
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png",ESPN 2
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=168&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s96876_dark_360w_270h.png",ESPN 2 HD
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png",ESPN 2 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=168&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png",ESPN 3
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn3.png",ESPN 3
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=345&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png",ESPN 3 HD
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn3.png",ESPN 3 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=345&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://alruckershow.com/wp-content/uploads/2018/04/espn-plus-logo.png",ESPN +
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png",ESPN +
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=167&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://alruckershow.com/wp-content/uploads/2018/04/espn-plus-logo.png",ESPN + HD
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png",ESPN + HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=167&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s59307_dark_360w_270h.png",FOX SPORTS
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png",FOX SPORTS 1
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=170&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s59307_dark_360w_270h.png",FOX SPORTS HD
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png",FOX SPORTS 1 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=170&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-khgI3_BK3q8/WQkXNAtWOEI/AAAAAAAAAYU/KLoE9uxXLNMyBOIvcEp2hVrZi-C1wIEpwCLcB/s640/fox-sports-2.jpg",FOX SPORTS 2
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=172&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-khgI3_BK3q8/WQkXNAtWOEI/AAAAAAAAAYU/KLoE9uxXLNMyBOIvcEp2hVrZi-C1wIEpwCLcB/s640/fox-sports-2.jpg",FOX SPORTS 2 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=172&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s59307_dark_360w_270h.png",FOX SPORTS 3
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png",FOX SPORTS 3
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=178&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s59307_dark_360w_270h.png",FOX SPORTS 3 HD
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png",FOX SPORTS 3 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=178&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-6geNExNmVKo/X3eyfgRzSeI/AAAAAAAALNw/jyKffcXYx7gsF4duHSJKExFmSzq69UKSwCLcBGAsYHQ/s0/E%2521%2B%252837%2529.png",CLARO SPORTS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2564&format=HLS&f=.m3u8
@@ -308,7 +308,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=89&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80374_dark_360w_270h.png",H2
 http://p1w2.info:25461/dddd/dddd/73060
-#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2181px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET
+#EXTINF:-1 tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/a4609b184b2e592475a5d72b7cecf53b.jpg",ANIMAL PLANET
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2378&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cultura" tvg-logo="http://lonewolftvpr.com/logos/garage.png",GARAGE TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=75&format=HLS&f=.m3u8
