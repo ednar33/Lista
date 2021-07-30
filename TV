@@ -54,9 +54,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2362&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtdmx4.png",MVS
 https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
-#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16292_dark_360w_270h.png" ,TVC
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://ky-iptv.com:25461/images/1d5f8ab98adca6c1a02e0dff8c761f3f.png" ,TVC
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2156&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91703_dark_360w_270h.png",TELEVISA PUEBLA
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://ky-iptv.com:25461/images/9f940713311727d5d3a9b9c0bfa27f58.png",TELEVISA PUEBLA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2312&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s104892_dark_360w_270h.png",A+
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2348&format=HLS&f=.m3u8
