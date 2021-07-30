@@ -108,7 +108,7 @@ http://planettvweb.com:8091/isaias2020/isaias2020/20352
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=123&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://lonewolftvpr.com/logos/goldenplus.png",GOLDEN +
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=122&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="http://ky-iptv.com:25461/images/f8662bc16bd391e67a0f17f2a0d475ce.png",GOLDEN EDGE
+#EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/latino/golden_edge.png",GOLDEN EDGE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=124&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://lonewolftvpr.com/logos/goldenpremier.png",GOLDEN PREMIER
 http://51.222.105.5:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
