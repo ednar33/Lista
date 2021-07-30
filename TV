@@ -146,7 +146,7 @@ http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/47784
 http://51.222.105.5:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/HBOPLUS.png",HBO +
 http://51.222.105.5:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="http://ky-iptv.com:25461/images/caa37c82ccf195b1d36ffa21a49d2975.png",HBO FAMILY
+#EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/HBO_FAMILY.png",HBO FAMILY
 http://51.222.105.5:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/hbo_extreme.png",HBO XTREME
 http://planettvweb.com:8091/isaias2020/isaias2020/16285
