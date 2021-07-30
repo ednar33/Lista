@@ -188,7 +188,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1726&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://ky-iptv.com:25461/images/2712172e46070ead867362c4850c7b68.png",AZTECA CINEMA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1787&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdFmr4AU0B2pcm5mcgHL0rEN3FqoKAPNsj9g&usqp=CAU",SONY
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://xtream-coders.com/x0/latino/sony_channel.png",SONY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=48&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUohMtK-kJBqczKHNrpt9PISuzjDNheEgJAA&usqp=CAU",WARNER
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=52&format=HLS&f=.m3u8
