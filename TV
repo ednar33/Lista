@@ -190,9 +190,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1787&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://xtream-coders.com/x0/latino/sony_channel.png",SONY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=48&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUohMtK-kJBqczKHNrpt9PISuzjDNheEgJAA&usqp=CAU",WARNER
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://011011011.com:8080/images/cae76fb0e8738177e5b55075707d947f.png",WARNER
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=52&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUohMtK-kJBqczKHNrpt9PISuzjDNheEgJAA&usqp=CAU",WARNER HD
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://011011011.com:8080/images/cae76fb0e8738177e5b55075707d947f.png",WARNER HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=52&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Universal_Pictures_logo.svg/2418px-Universal_Pictures_logo.svg.png",UNIVERSAL CHANNEL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=57&format=HLS&f=.m3u8
