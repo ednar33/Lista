@@ -2,9 +2,9 @@
 
 
 
-#EXTINF:-1 group-title="TV Abierta" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png",AZTECA UNO HD
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://ky-iptv.com:25461/images/9966f7cd88549ec590609184270e0501.png",AZTECA UNO HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=7&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="TV Abierta" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png",AZTECA UNO -2HORA
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://ky-iptv.com:25461/images/9966f7cd88549ec590609184270e0501.png",AZTECA UNO -2HORA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2195&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://ky-iptv.com:25461/images/dde6586de833c6bd54d9affe68b5cf7a.png",AZ CLIC HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=223&format=HLS&f=.m3u8
@@ -26,7 +26,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=24&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png",ONCE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=25&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="TV Abierta" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png",AZTECA UNO
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://ky-iptv.com:25461/images/9966f7cd88549ec590609184270e0501.png",AZTECA UNO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=7&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://ky-iptv.com:25461/images/a7a7f77d5db129e456db369ca6aebd70.png",TELEFORMULA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=32&format=HLS&f=.m3u8
