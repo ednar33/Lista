@@ -234,9 +234,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=74&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://xtream-coders.com/x0/latino/mas_chic.png",MAS CHIC
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1842&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg",ESPN 1
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://xtream-coders.com/x0/deportes/espn.png",ESPN 1
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=169&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg",ESPN 1 HD
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://xtream-coders.com/x0/deportes/espn.png",ESPN 1 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=169&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png",ESPN 2
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=168&format=HLS&f=.m3u8
