@@ -264,9 +264,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=178&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png",CLARO SPORTS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2564&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/mptxVUO.png",TUDN
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://ky-iptv.com:25461/images/9ed7bff992d63629a4fdace761679342.png",TUDN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1049&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/mptxVUO.png",TUDN HD
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://ky-iptv.com:25461/images/9ed7bff992d63629a4fdace761679342.png",TUDN HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=174&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="http://alltvpremiere.online/logo/afizzionados.jpg",AFIZZIONADOS
 http://51.222.105.5:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
