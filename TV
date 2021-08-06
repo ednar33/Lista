@@ -280,7 +280,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2157&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://xtream-coders.com/x0/deportes/aymsports.png",AYM SPORTS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=180&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://ky-iptv.com:25461/images/973a471569d4d270f3501767f9bc75ce.png",ADRENALINA SPORTS
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/asn.png",ADRENALINA SPORTS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2404&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://xtream-coders.com/x0/deportes/nbcgolf.png",GOLF
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=179&format=HLS&f=.m3u8
