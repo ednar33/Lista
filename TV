@@ -214,9 +214,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=85&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://xtream-coders.com/x0/latino/unicable.png",UNICABLE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1499&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s55980_dark_360w_270h.png",DISTRITO COMEDIA
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://xtream-coders.com/x0/latino/distrito_comedia.png",DISTRITO COMEDIA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=78&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s55980_dark_360w_270h.png",DISTRITO COMEDIA HD
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://xtream-coders.com/x0/latino/distrito_comedia.png",DISTRITO COMEDIA HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=78&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s37232_dark_360w_270h.png",TL NOVELAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=83&format=HLS&f=.m3u8
