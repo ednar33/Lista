@@ -154,7 +154,7 @@ http://51.222.105.5:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
 http://planettvweb.com:8091/isaias2020/isaias2020/16285
 #EXTINF:-1 group-title="Cine" tvg-logo="http://ky-iptv.com:25461/images/fea2c7bc1534ae8e1371c00017050757.png",HBO POP
 http://p1w2.info:25461/dddd/dddd/72657
-#EXTINF:-1 group-title="Cine" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/9095fa697aeaa3d31a7e2356d7cf2cb6.jpg",HBO MUNDI
+#EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/UWB6lC9.jpg",HBO MUNDI
 http://p1w2.info:25461/dddd/dddd/72655
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/HBOSIGN.png",HBO SIGNATURE
 http://51.222.105.5:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
@@ -168,9 +168,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=146&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png",STAR ACTION
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=336&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starfamily.png",STAR FUN
+#EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/49Z7vBe.png",STAR FUN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1724&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starfamily.png",STAR FUN
+#EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/49Z7vBe.png",STAR FUN
 http://51.222.105.5:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-comedy_m.png",STAR COMEDY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1725&format=HLS&f=.m3u8
