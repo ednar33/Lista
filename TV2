@@ -1052,68 +1052,6 @@ http://51.222.43.170:36995/live/5580661750r/JWCzEkHaZBuV/10982.m3u8
 http://51.222.43.170:36995/live/5580661750r/JWCzEkHaZBuV/113.m3u8
 #EXTINF:-1 tvg-id="tntseries.mx" tvg-name="MX | TNT Series 2" tvg-logo="http://51.222.43.170:36995/images/97df19b7dd8f5510a493a17b6caa6d86.png" group-title="CINE",MX | TNT Series 2
 http://51.222.43.170:36995/live/5580661750r/JWCzEkHaZBuV/239679.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A volar, joven (1947)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZwcRgOxJHcf7xPpvAr68pqi4wu.jpg" group-title="CLASICOS DE MEXICO",A volar, joven (1947)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231748.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Águila o Sol (1938)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lL6FIv3lybx4Huyw4y5GG83Qgc.jpg" group-title="CLASICOS DE MEXICO",Águila o Sol (1938)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231749.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ahí está el detalle (1940)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udMhIkYPB6NebQrcGgRsuUtG1Kg.jpg" group-title="CLASICOS DE MEXICO",Ahí está el detalle (1940)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231750.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Así es mi tierra (1937)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUDvE0DYZwNs8GYNFj6wnzzdqaY.jpg" group-title="CLASICOS DE MEXICO",Así es mi tierra (1937)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231751.avi
-#EXTINF:-1 tvg-id="" tvg-name="Caballero a la Medida (1954)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKljwYqNA569Gbj9NnF6ESou6TG.jpg" group-title="CLASICOS DE MEXICO",Caballero a la Medida (1954)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231752.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Carnaval en el trópico (1942)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2m4ZvNGXEDn3YQ7fhdL1iFZ0e56.jpg" group-title="CLASICOS DE MEXICO",Carnaval en el trópico (1942)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231753.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Conserje para todo (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faP3MqeaMu7eDtTuJtxS3zHxITS.jpg" group-title="CLASICOS DE MEXICO",Conserje para todo (1974)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231754.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Analfabeto (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tr4hwkmx0GPUDWVt8rfPEoKxJ3q.jpg" group-title="CLASICOS DE MEXICO",El Analfabeto (1961)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231755.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El barrendero (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRi5BXDpBRKFhHQYUKvUGS3Y5D0.jpg" group-title="CLASICOS DE MEXICO",El barrendero (1982)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231756.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Bolero de Raquel (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTnNcQIIkghGyYmNIGMCtgy4BoN.jpg" group-title="CLASICOS DE MEXICO",El Bolero de Raquel (1957)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231757.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El bombero atómico (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90mVE4ClMT6Dq8mSRGhBqqjg2RQ.jpg" group-title="CLASICOS DE MEXICO",El bombero atómico (1952)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231758.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Extra (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvrFgYWXABlUd69HfPyNBImc279.jpg" group-title="CLASICOS DE MEXICO",El Extra (1962)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231759.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Gendarme Desconocido (1941)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqv69ruL7APgVQizjD2bsQRRinO.jpg" group-title="CLASICOS DE MEXICO",El Gendarme Desconocido (1941)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231760.avi
-#EXTINF:-1 tvg-id="" tvg-name="El Mago (1949)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJM8PjiRh4jk83raqYhZbGCOA6d.jpg" group-title="CLASICOS DE MEXICO",El Mago (1949)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231761.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El ministro y yo (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibgXsi4lJZIsRJ2cap6HIUjEpvj.jpg" group-title="CLASICOS DE MEXICO",El ministro y yo (1977)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231762.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Padrecito (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tir2ztLk0UG2nEaEZ1qkV8FApqq.jpg" group-title="CLASICOS DE MEXICO",El Padrecito (1964)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231763.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Patrullero 777 (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvKNyUKczXCWA9dg5IoHfOIfj2e.jpg" group-title="CLASICOS DE MEXICO",El Patrullero 777 (1978)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231764.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Portero (1950)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVYiY770FoAHduzyEIE8zNccEiv.jpg" group-title="CLASICOS DE MEXICO",El Portero (1950)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231765.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El profe (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdjL0R0c1rS9tld2dx9l9ptr9wf.jpg" group-title="CLASICOS DE MEXICO",El profe (1971)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231766.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El señor fotógrafo (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xV3GNFLdR4Gi1ZORfoEEn4psS7N.jpg" group-title="CLASICOS DE MEXICO",El señor fotógrafo (1953)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231767.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Siete Machos (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/stghzuBSuhiBbvAIxrm8D0G8m1z.jpg" group-title="CLASICOS DE MEXICO",El Siete Machos (1951)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231768.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Signo de la Muerte (1939)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rD2Sw5wex8Zp1JCvWnEKscOKHbj.jpg" group-title="CLASICOS DE MEXICO",El Signo de la Muerte (1939)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231769.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Supersabio (1948)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvwIm6TwYAeruu02vgCk6V4FVxu.jpg" group-title="CLASICOS DE MEXICO",El Supersabio (1948)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231770.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Festival de la comedia (1939)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cnD0EioVun4kfcNg9VXiAJi2xT.jpg" group-title="CLASICOS DE MEXICO",Festival de la comedia (1939)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231771.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los Tres Mosqueteros (1942)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLjpIN5HkFeW4sZZqThLvhCuWwK.jpg" group-title="CLASICOS DE MEXICO",Los Tres Mosqueteros (1942)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231772.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ni sangre ni arena (1941)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kR6QVdmiHQ9eYOO4VOh1bUgZn1.jpg" group-title="CLASICOS DE MEXICO",Ni sangre ni arena (1941)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231773.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Por mis pistolas (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qSWIHSwohqeZTFartIE3qzzV4i0.jpg" group-title="CLASICOS DE MEXICO",Por mis pistolas (1968)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231774.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Su excelencia (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ERL6U2Vlxc8w5j7wwXgUFUHMrI.jpg" group-title="CLASICOS DE MEXICO",Su excelencia (1967)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231775.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sube y baja (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zeKCrxzTUZQqy6DeUvLhDz9kAPx.jpg" group-title="CLASICOS DE MEXICO",Sube y baja (1959)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Un día con el Diablo (1945)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyaahRe35jJTmwN91PUsL92vhjo.jpg" group-title="CLASICOS DE MEXICO",Un día con el Diablo (1945)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/231777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Bestia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/we2KbLJQAkyQ9RbO9nMOIs6MMeC.jpg" group-title="RECIENTES DE LA SEMANA",La Bestia (2020)
-http://51.222.43.170:36995/movie/5580661750r/JWCzEkHaZBuV/245481.mkv
 #EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="MX | Animal Planet" tvg-logo="http://51.222.43.170:36995/images/8a811a16c351ca1104861e22de520c01.png" group-title="MUNDO & CULTURA",MX | Animal Planet
 http://51.222.43.170:36995/live/5580661750r/JWCzEkHaZBuV/79.m3u8
 #EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="MX | Discovery Channel" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-channel_m.png" group-title="MUNDO & CULTURA",MX | Discovery Channel
