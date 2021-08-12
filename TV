@@ -658,85 +658,85 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=139&f=HLS&p=PROFILE01&s=zecp
 
 
 
-#EXTINF:-1 ,ESPN 1 MEX
+#EXTINF:-1 group-title="Deportes" tvg-logo="",ESPN 1 MEX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=169&format=HLS&f=.m3u8
-#EXTINF:-1 ,ESPN 2 MEX
+#EXTINF:-1 group-title="Deportes" tvg-logo=",ESPN 2 MEX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=168&format=HLS&f=.m3u8
-#EXTINF:-1 ,ESPN 3 MEX
+#EXTINF:-1 group-title="Deportes" tvg-logo="",ESPN 3 MEX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=345&format=HLS&f=.m3u8
-#EXTINF:-1 ,ESPN + MEX
+#EXTINF:-1 group-title="Deportes" tvg-logo="",ESPN + MEX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=167&format=HLS&f=.m3u8
-#EXTINF:-1 ,FOX SPORTS 1 MEX
+#EXTINF:-1 group-title="Deportes" tvg-logo="",FOX SPORTS 1 MEX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=170&format=HLS&f=.m3u8
-#EXTINF:-1 ,FOX SPORTS 2 MEX
+#EXTINF:-1 group-title="Deportes" tvg-logo="",FOX SPORTS 2 MEX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=172&format=HLS&f=.m3u8
-#EXTINF:-1 ,FOX SPORTS 3 MEX
+#EXTINF:-1 group-title="Deportes" tvg-logo="",FOX SPORTS 3 MEX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=178&format=HLS&f=.m3u8
-#EXTINF:-1 ,AFIZZIONADOS
+#EXTINF:-1 group-title="Deportes" tvg-logo="",AFIZZIONADOS
 http://51.222.105.5:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
-#EXTINF:-1 ,TUDN MEX
+#EXTINF:-1 group-title="Deportes" tvg-logo="",TUDN MEX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=174&format=HLS&f=.m3u8
-#EXTINF:-1 ,TVC DEPORTES
+#EXTINF:-1 group-title="Deportes" tvg-logo="",TVC DEPORTES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2157&format=HLS&f=.m3u8
-#EXTINF:-1 ,AYM SPORTS
+#EXTINF:-1 group-title="Deportes" tvg-logo="",AYM SPORTS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=180&format=HLS&f=.m3u8
-#EXTINF:-1 ,CLARO SPORTS
+#EXTINF:-1 group-title="Deportes" tvg-logo="",CLARO SPORTS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2564&format=HLS&f=.m3u8
-#EXTINF:-1 ,ADRENALINA SPORTS
+#EXTINF:-1 group-title="Deportes" tvg-logo="",ADRENALINA SPORTS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2404&format=HLS&f=.m3u8
-#EXTINF:-1 ,ESPN 1 ARG
+#EXTINF:-1 group-title="Deportes" tvg-logo="",ESPN 1 ARG
 http://tvready.org:25461/23763235/36984944/11270
-#EXTINF:-1 ,ESPN 2 ARG
+#EXTINF:-1 group-title="Deportes" tvg-logo="",ESPN 2 ARG
 http://tvready.org:25461/23763235/36984944/11271
-#EXTINF:-1 ,ESPN 3 ARG
+#EXTINF:-1 group-title="Deportes" tvg-logo="",ESPN 3 ARG
 http://zeroxtv.xyz:2082/MAGISTV/NpCzkb8BfY/71634
-#EXTINF:-1 ,FOX SPORTS 1 ARG
+#EXTINF:-1 group-title="Deportes" tvg-logo="",FOX SPORTS 1 ARG
 http://stalkertvlatino.com:8080/play1/play1/6263
-#EXTINF:-1 ,FOX SPORTS 2 ARG
+#EXTINF:-1 group-title="Deportes" tvg-logo="",FOX SPORTS 2 ARG
 http://stalkertvlatino.com:8080/play1/play1/927
-#EXTINF:-1 ,FOX SPORTS 3 ARG
+#EXTINF:-1 group-title="Deportes" tvg-logo="",FOX SPORTS 3 ARG
 http://stalkertvlatino.com:8080/play1/play1/926
-#EXTINF:-1 ,FOX SPORTS PREMIUM
+#EXTINF:-1 group-title="Deportes" tvg-logo="",FOX SPORTS PREMIUM
 http://stalkertvlatino.com:8080/play1/play1/945
-#EXTINF:-1 ,TYC SPORTS
+#EXTINF:-1 group-title="Deportes" tvg-logo="",TYC SPORTS
 http://stalkertvlatino.com:8080/play1/play1/6267
-#EXTINF:-1 ,TNT SPORTS
+#EXTINF:-1 group-title="Deportes" tvg-logo="",TNT SPORTS
 http://stalkertvlatino.com:8080/play1/play1/6266
-#EXTINF:-1 ,DIRECTV 1 ARG
+#EXTINF:-1 group-title="Deportes" tvg-logo="",DIRECTV 1 ARG
 http://stalkertvlatino.com:8080/play1/play1/944
-#EXTINF:-1 ,DIRECTV 2 ARG
+#EXTINF:-1 group-title="Deportes" tvg-logo="",DIRECTV 2 ARG
 http://planettvweb.com:8091/isaias2020/isaias2020/12042
-#EXTINF:-1 ,DIRECTV + ARG
+#EXTINF:-1 group-title="Deportes" tvg-logo="",DIRECTV + ARG
 http://stalkertvlatino.com:8080/play1/play1/942
-#EXTINF:-1 ,TUDN USA
+#EXTINF:-1 group-title="Deportes" tvg-logo="",TUDN USA
 http://zeroxtv.xyz:2082/MAGISTV/NpCzkb8BfY/94255
-#EXTINF:-1 ,FOX DEPORTES
+#EXTINF:-1 group-title="Deportes" tvg-logo="",FOX DEPORTES
 http://tvready.org:25461/23763235/36984944/11282
-#EXTINF:-1 ,BEIN SPORTS Ñ
+#EXTINF:-1 group-title="Deportes" tvg-logo="",BEIN SPORTS Ñ
 http://stalkertvlatino.com:8080/play1/play1/933
-#EXTINF:-1 ,UNIVERSO
+#EXTINF:-1 group-title="Deportes" tvg-logo="",UNIVERSO
 http://tvready.org:25461/23763235/36984944/11336
-#EXTINF:-1 ,WWE
+#EXTINF:-1 group-title="Deportes" tvg-logo="",WWE
 http://stalkertvlatino.com:8080/play1/play1/6268
-#EXTINF:-1 ,UFC NETWORK
+#EXTINF:-1 group-title="Deportes" tvg-logo="",UFC NETWORK
 http://zeroxtv.xyz:2082/MAGISTV/NpCzkb8BfY/92561
-#EXTINF:-1 ,NBA TV
+#EXTINF:-1 group-title="Deportes" tvg-logo="",NBA TV
 http://stalkertvlatino.com:8080/play1/play1/6265
-#EXTINF:-1 ,ESPN DEPORTES
+#EXTINF:-1 group-title="Deportes" tvg-logo="",ESPN DEPORTES
 http://tvready.org:25461/23763235/36984944/1003
-#EXTINF:-1 ,TNT SPORTS CHILE
+#EXTINF:-1 group-title="Deportes" tvg-logo="",TNT SPORTS CHILE
 http://planettvweb.com:8091/isaias2020/isaias2020/12045
-#EXTINF:-1 ,GOL PERU
+#EXTINF:-1 group-title="Deportes" tvg-logo="",GOL PERU
 http://zeroxtv.xyz:2082/MAGISTV/NpCzkb8BfY/57104
-#EXTINF:-1 ,GOL TV ECUADOR
+#EXTINF:-1 group-title="Deportes" tvg-logo="",GOL TV ECUADOR
 http://stalkertvlatino.com:8080/play1/play1/937
-#EXTINF:-1 ,TIGO SPORTS + PY
+#EXTINF:-1 group-title="Deportes" tvg-logo="",TIGO SPORTS + PY
 http://planettvweb.com:8091/isaias2020/isaias2020/16535
-#EXTINF:-1 ,WIN SPORTS
+#EXTINF:-1 group-title="Deportes" tvg-logo="",WIN SPORTS
 http://stalkertvlatino.com:8080/play1/play1/925
-#EXTINF:-1 ,WIN SPORTS+
+#EXTINF:-1 group-title="Deportes" tvg-logo="",WIN SPORTS+
 http://zeroxtv.xyz:2082/MAGISTV/NpCzkb8BfY/92566
-#EXTINF:-1 ,M.LIGA DE CAMPEONES
+#EXTINF:-1 group-title="Deportes" tvg-logo="",M.LIGA DE CAMPEONES
 http://stalkertvlatino.com:8080/play1/play1/913
 
 
