@@ -22,7 +22,7 @@ https://5fa5de1a545ae.streamlock.net/turistik/turistik/playlist.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1785&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="http://ky-iptv.com:25461/images/2188f3bbdbb08e268f77e21776499edf.png",CANAL 5 -1HORAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2038&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="TV Abierta" tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/siete.png",AZTECA 7
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="https://i.picasion.com/pic91/756b69ed03f724dca50a0ea2cd893531.gif",AZTECA 7
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=317&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://xtream-coders.com/x0/latino/nu9ve.png",NU9VE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=24&format=HLS&f=.m3u8
@@ -38,7 +38,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=70&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://ky-iptv.com:25461/images/45fbcc169fb50e688aa9d95aa167f230.png",AZ MUNDO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=84&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="TV Abierta" tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/siete.png",AZTECA 7 HD
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="https://i.picasion.com/pic91/756b69ed03f724dca50a0ea2cd893531.gif",AZTECA 7 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=317&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://ky-iptv.com:25461/images/f8bc7bb05f3275b810bfe807df15e42c.png",IMAGEN TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2298&format=HLS&f=.m3u8
