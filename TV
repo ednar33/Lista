@@ -268,6 +268,60 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=174&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/deportes/afizzionados.png",AFIZZIONADOS
 http://51.222.105.5:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-0tklgW-NrF8/X5NpCyVE-OI/AAAAAAAALYo/R_F-jRuRRS0qHBoSGCHOYNAYCyC9C6jhwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%252810%2529.png",ESPN 1 ARG
+http://tvready.org:25461/23763235/36984944/11270
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-TceearkArQE/X5NpC2LgGZI/AAAAAAAALYk/A2YhotFvwYIclFw2qDMsmruWz6_1ULsBQCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%252811%2529.png",ESPN 2 ARG
+http://zeroxtv.xyz:2082/MAGISTV/NpCzkb8BfY/71633
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-evt-Jw1JfWI/X5zgxqfPx4I/AAAAAAAALbs/Wda9c1JhsHMVx4dwrcokQIEMXa09Co9GgCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%252828%2529.png",ESPN 3 ARG
+http://zeroxtv.xyz:2082/MAGISTV/NpCzkb8BfY/71634
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-0BXMPKoomNQ/XpPFOERwaiI/AAAAAAAAKbI/FciWrGQg9HUgUA_1fIQL5z-NywQfCgkrwCLcBGAsYHQ/s1600/FOX%2BSPOR.png",FOX SPORTS 1 ARG
+http://stalkertvlatino.com:8080/play1/play1/6263
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-7CjFdsyCuMo/XpUideMQO1I/AAAAAAAAKhY/zslihPXuYaIxh-fQlKmr-AO6x4EhA2OzQCLcBGAsYHQ/s1600/FOX%2B2.png",FOX SPORTS 2 ARG
+http://stalkertvlatino.com:8080/play1/play1/927
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-r3TBjfTiUGg/XpUi6TJI43I/AAAAAAAAKhg/-SPA5M8Qi8QfCdLbAaLA-MHT8_Yl05cnACLcBGAsYHQ/s1600/FOX%2B3.png",FOX SPORTS 3 ARG
+http://stalkertvlatino.com:8080/play1/play1/926
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-la1TeGCMUGY/X5N4VB08e_I/AAAAAAAALY0/57v5_fi6DIoYXYvr3n6v4248OKNc-j07wCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%252812%2529.png",FOX SPORTS PREMIUM
+http://stalkertvlatino.com:8080/play1/play1/945
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-SZj1yeL8ltU/X4msupPcSnI/AAAAAAAALUc/ZzzWZclDH-s1o4-YHGKttOPiUpxMfWsugCLcBGAsYHQ/s0/E%2521%2B%252878%2529.png",TYC SPORTS
+http://stalkertvlatino.com:8080/play1/play1/6267
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-wJ49zNaNs6A/X5L7ZRpD0QI/AAAAAAAALXg/VhsjxeL5KEUvCOFyAghyKH6ir-qvhpjcwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25284%2529.png",TNT SPORTS
+http://stalkertvlatino.com:8080/play1/play1/6266
+#EXTINF:-1 group-title="Deportes" tvg-logo="",DIRECTV 1 ARG
+http://stalkertvlatino.com:8080/play1/play1/944
+#EXTINF:-1 group-title="Deportes" tvg-logo="",DIRECTV 2 ARG
+http://planettvweb.com:8091/isaias2020/isaias2020/12042
+#EXTINF:-1 group-title="Deportes" tvg-logo="",DIRECTV + ARG
+http://stalkertvlatino.com:8080/play1/play1/942
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-TEGttQ4ZqUI/XpZf1QeGyhI/AAAAAAAAKk0/AhXh6BWbM48OhIrlA0FkblZOkqMhiqG1QCLcBGAsYHQ/s1600/TUDN.png",TUDN USA
+http://zeroxtv.xyz:2082/MAGISTV/NpCzkb8BfY/94255
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-0BXMPKoomNQ/XpPFOERwaiI/AAAAAAAAKbI/FciWrGQg9HUgUA_1fIQL5z-NywQfCgkrwCLcBGAsYHQ/s1600/FOX%2BSPOR.png",FOX DEPORTES
+http://tvready.org:25461/23763235/36984944/11282
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-9rUcjngdgfM/X3iaFAsNLEI/AAAAAAAALRE/uRHM3BTYZUQfBLmTc85QP2kmAVW7l5jJwCLcBGAsYHQ/s0/E%2521%2B%252863%2529.png",BEIN SPORTS Ñ
+http://stalkertvlatino.com:8080/play1/play1/933
+#EXTINF:-1 group-title="Deportes" tvg-logo="",UNIVERSO
+http://tvready.org:25461/23763235/36984944/11336
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-KUdu9IBvMbI/X3eaJ52XCjI/AAAAAAAALNY/g6rxZBJCq4Es9ic6s2IMX5vxYHQbt0u5wCLcBGAsYHQ/s0/E%2521%2B%252833%2529.png",WWE
+http://stalkertvlatino.com:8080/play1/play1/6268
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-Vo0xfTdbQOc/X4XT1wshXLI/AAAAAAAALT4/0RWKQn4opvYhQ3-iCKEplO6EgkmNavV0ACLcBGAsYHQ/s0/E%2521%2B%252875%2529.png",UFC NETWORK
+http://zeroxtv.xyz:2082/MAGISTV/NpCzkb8BfY/92561
+#EXTINF:-1 group-title="Deportes" tvg-logo="",NBA TV
+http://stalkertvlatino.com:8080/play1/play1/6265
+#EXTINF:-1 group-title="Deportes" tvg-logo="",ESPN DEPORTES
+http://tvready.org:25461/23763235/36984944/1003
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-wJ49zNaNs6A/X5L7ZRpD0QI/AAAAAAAALXg/VhsjxeL5KEUvCOFyAghyKH6ir-qvhpjcwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25284%2529.png",TNT SPORTS CHILE
+http://planettvweb.com:8091/isaias2020/isaias2020/12045
+#EXTINF:-1 group-title="Deportes" tvg-logo="",GOL PERU
+http://zeroxtv.xyz:2082/MAGISTV/NpCzkb8BfY/57104
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-HkcMdydFENI/X4Rw6FYCuTI/AAAAAAAALSQ/SU1a3AqH--wxJhMVSzJsyHxwS-_bTZvrgCLcBGAsYHQ/s0/E%2521%2B%252866%2529.png",GOL TV ECUADOR
+http://stalkertvlatino.com:8080/play1/play1/937
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-z5SLyA7wGIg/X5dny0TaIEI/AAAAAAAALa4/3ejNqC8zoUEUay52X9uNI9ImMNv3MXv5QCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%252823%2529.png",TIGO SPORTS + PY
+http://planettvweb.com:8091/isaias2020/isaias2020/16535
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-5AsZqMh4VQs/X4RzUhOjtsI/AAAAAAAALSc/ddl9yDp8-VEDlEeInl8O7XuCyvP-pj9mgCLcBGAsYHQ/s0/E%2521%2B%252867%2529.png",WIN SPORTS
+http://stalkertvlatino.com:8080/play1/play1/925
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-5AsZqMh4VQs/X4RzUhOjtsI/AAAAAAAALSc/ddl9yDp8-VEDlEeInl8O7XuCyvP-pj9mgCLcBGAsYHQ/s0/E%2521%2B%252867%2529.png",WIN SPORTS+
+http://zeroxtv.xyz:2082/MAGISTV/NpCzkb8BfY/92566
+#EXTINF:-1 group-title="Deportes" tvg-logo="",M.LIGA DE CAMPEONES
+http://stalkertvlatino.com:8080/play1/play1/913
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/U-Beat.svg",U-BEAT
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=3335&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/las.png",LAS 
@@ -656,124 +710,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=139&f=HLS&p=PROFILE01&s=zecp
 
 
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-ZBot0N5ICeY/XpNBN23kXEI/AAAAAAAAKaI/9bGRsDQKF7QaGT2w-wUgEKsihrGp1oDcACLcBGAsYHQ/s1600/ESPN%2B%25281%2529.png",ESPN 1 MEX
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=169&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-74JXOuNRH9M/XpUcTMwC9sI/AAAAAAAAKgc/pKAblTVJNn88ZhB8A1BQU6KNIGB7tz0awCLcBGAsYHQ/s1600/ESPN%2B2.png",ESPN 2 MEX
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=168&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-hiRy1QFgVvY/XpUcxNbrN2I/AAAAAAAAKgk/98iHfZm7lEQi2sQ9j2fnnJzBtxD4T84bACLcBGAsYHQ/s1600/ESPN%2B3.png",ESPN 3 MEX
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=345&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-AldnawQ-1qY/XpUdvJN_8_I/AAAAAAAAKgw/6tF31yNbInEPDnb4wGv3wyGPrQrVFgnSACLcBGAsYHQ/s1600/ESPN%2BPLUS.png",ESPN + MEX
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=167&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-QJrA59JSSaE/YB6yjcjLHTI/AAAAAAAAMCY/brHzMV8RceIlpLZs3sBk_XxIDeNy_uMIQCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%252820%2529.png",FOX SPORTS 1 MEX
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=170&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-7CjFdsyCuMo/XpUideMQO1I/AAAAAAAAKhY/zslihPXuYaIxh-fQlKmr-AO6x4EhA2OzQCLcBGAsYHQ/s1600/FOX%2B2.png",FOX SPORTS 2 MEX
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=172&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-r3TBjfTiUGg/XpUi6TJI43I/AAAAAAAAKhg/-SPA5M8Qi8QfCdLbAaLA-MHT8_Yl05cnACLcBGAsYHQ/s1600/FOX%2B3.png",FOX SPORTS 3 MEX
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=178&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-yJfGaWHWR7U/X4W7c8KJYkI/AAAAAAAALTU/_BLOTavtRb49zlHt3FSw6-COMH2nT_6ywCLcBGAsYHQ/s0/E%2521%2B%252872%2529.png",AFIZZIONADOS
-http://51.222.105.5:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-TEGttQ4ZqUI/XpZf1QeGyhI/AAAAAAAAKk0/AhXh6BWbM48OhIrlA0FkblZOkqMhiqG1QCLcBGAsYHQ/s1600/TUDN.png",TUDN MEX
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=174&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-ew2Fu-0L3Wk/X3fLI_mh8LI/AAAAAAAALOc/AecloDHYo8IkV2XTrpLvV8SbEshdfxs5gCLcBGAsYHQ/s0/E%2521%2B%252842%2529.png",TVC DEPORTES
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2157&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="",AYM SPORTS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=180&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-6geNExNmVKo/X3eyfgRzSeI/AAAAAAAALNw/jyKffcXYx7gsF4duHSJKExFmSzq69UKSwCLcBGAsYHQ/s0/E%2521%2B%252837%2529.png",CLARO SPORTS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2564&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="",ADRENALINA SPORTS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2404&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-0tklgW-NrF8/X5NpCyVE-OI/AAAAAAAALYo/R_F-jRuRRS0qHBoSGCHOYNAYCyC9C6jhwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%252810%2529.png",ESPN 1 ARG
-http://tvready.org:25461/23763235/36984944/11270
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-TceearkArQE/X5NpC2LgGZI/AAAAAAAALYk/A2YhotFvwYIclFw2qDMsmruWz6_1ULsBQCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%252811%2529.png",ESPN 2 ARG
-http://zeroxtv.xyz:2082/MAGISTV/NpCzkb8BfY/71633
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-evt-Jw1JfWI/X5zgxqfPx4I/AAAAAAAALbs/Wda9c1JhsHMVx4dwrcokQIEMXa09Co9GgCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%252828%2529.png",ESPN 3 ARG
-http://zeroxtv.xyz:2082/MAGISTV/NpCzkb8BfY/71634
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-0BXMPKoomNQ/XpPFOERwaiI/AAAAAAAAKbI/FciWrGQg9HUgUA_1fIQL5z-NywQfCgkrwCLcBGAsYHQ/s1600/FOX%2BSPOR.png",FOX SPORTS 1 ARG
-http://stalkertvlatino.com:8080/play1/play1/6263
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-7CjFdsyCuMo/XpUideMQO1I/AAAAAAAAKhY/zslihPXuYaIxh-fQlKmr-AO6x4EhA2OzQCLcBGAsYHQ/s1600/FOX%2B2.png",FOX SPORTS 2 ARG
-http://stalkertvlatino.com:8080/play1/play1/927
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-r3TBjfTiUGg/XpUi6TJI43I/AAAAAAAAKhg/-SPA5M8Qi8QfCdLbAaLA-MHT8_Yl05cnACLcBGAsYHQ/s1600/FOX%2B3.png",FOX SPORTS 3 ARG
-http://stalkertvlatino.com:8080/play1/play1/926
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-la1TeGCMUGY/X5N4VB08e_I/AAAAAAAALY0/57v5_fi6DIoYXYvr3n6v4248OKNc-j07wCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%252812%2529.png",FOX SPORTS PREMIUM
-http://stalkertvlatino.com:8080/play1/play1/945
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-SZj1yeL8ltU/X4msupPcSnI/AAAAAAAALUc/ZzzWZclDH-s1o4-YHGKttOPiUpxMfWsugCLcBGAsYHQ/s0/E%2521%2B%252878%2529.png",TYC SPORTS
-http://stalkertvlatino.com:8080/play1/play1/6267
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-wJ49zNaNs6A/X5L7ZRpD0QI/AAAAAAAALXg/VhsjxeL5KEUvCOFyAghyKH6ir-qvhpjcwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25284%2529.png",TNT SPORTS
-http://stalkertvlatino.com:8080/play1/play1/6266
-#EXTINF:-1 group-title="Deportes" tvg-logo="",DIRECTV 1 ARG
-http://stalkertvlatino.com:8080/play1/play1/944
-#EXTINF:-1 group-title="Deportes" tvg-logo="",DIRECTV 2 ARG
-http://planettvweb.com:8091/isaias2020/isaias2020/12042
-#EXTINF:-1 group-title="Deportes" tvg-logo="",DIRECTV + ARG
-http://stalkertvlatino.com:8080/play1/play1/942
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-TEGttQ4ZqUI/XpZf1QeGyhI/AAAAAAAAKk0/AhXh6BWbM48OhIrlA0FkblZOkqMhiqG1QCLcBGAsYHQ/s1600/TUDN.png",TUDN USA
-http://zeroxtv.xyz:2082/MAGISTV/NpCzkb8BfY/94255
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-0BXMPKoomNQ/XpPFOERwaiI/AAAAAAAAKbI/FciWrGQg9HUgUA_1fIQL5z-NywQfCgkrwCLcBGAsYHQ/s1600/FOX%2BSPOR.png",FOX DEPORTES
-http://tvready.org:25461/23763235/36984944/11282
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-9rUcjngdgfM/X3iaFAsNLEI/AAAAAAAALRE/uRHM3BTYZUQfBLmTc85QP2kmAVW7l5jJwCLcBGAsYHQ/s0/E%2521%2B%252863%2529.png",BEIN SPORTS Ñ
-http://stalkertvlatino.com:8080/play1/play1/933
-#EXTINF:-1 group-title="Deportes" tvg-logo="",UNIVERSO
-http://tvready.org:25461/23763235/36984944/11336
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-KUdu9IBvMbI/X3eaJ52XCjI/AAAAAAAALNY/g6rxZBJCq4Es9ic6s2IMX5vxYHQbt0u5wCLcBGAsYHQ/s0/E%2521%2B%252833%2529.png",WWE
-http://stalkertvlatino.com:8080/play1/play1/6268
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-Vo0xfTdbQOc/X4XT1wshXLI/AAAAAAAALT4/0RWKQn4opvYhQ3-iCKEplO6EgkmNavV0ACLcBGAsYHQ/s0/E%2521%2B%252875%2529.png",UFC NETWORK
-http://zeroxtv.xyz:2082/MAGISTV/NpCzkb8BfY/92561
-#EXTINF:-1 group-title="Deportes" tvg-logo="",NBA TV
-http://stalkertvlatino.com:8080/play1/play1/6265
-#EXTINF:-1 group-title="Deportes" tvg-logo="",ESPN DEPORTES
-http://tvready.org:25461/23763235/36984944/1003
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-wJ49zNaNs6A/X5L7ZRpD0QI/AAAAAAAALXg/VhsjxeL5KEUvCOFyAghyKH6ir-qvhpjcwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25284%2529.png",TNT SPORTS CHILE
-http://planettvweb.com:8091/isaias2020/isaias2020/12045
-#EXTINF:-1 group-title="Deportes" tvg-logo="",GOL PERU
-http://zeroxtv.xyz:2082/MAGISTV/NpCzkb8BfY/57104
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-HkcMdydFENI/X4Rw6FYCuTI/AAAAAAAALSQ/SU1a3AqH--wxJhMVSzJsyHxwS-_bTZvrgCLcBGAsYHQ/s0/E%2521%2B%252866%2529.png",GOL TV ECUADOR
-http://stalkertvlatino.com:8080/play1/play1/937
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-z5SLyA7wGIg/X5dny0TaIEI/AAAAAAAALa4/3ejNqC8zoUEUay52X9uNI9ImMNv3MXv5QCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%252823%2529.png",TIGO SPORTS + PY
-http://planettvweb.com:8091/isaias2020/isaias2020/16535
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-5AsZqMh4VQs/X4RzUhOjtsI/AAAAAAAALSc/ddl9yDp8-VEDlEeInl8O7XuCyvP-pj9mgCLcBGAsYHQ/s0/E%2521%2B%252867%2529.png",WIN SPORTS
-http://stalkertvlatino.com:8080/play1/play1/925
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://1.bp.blogspot.com/-5AsZqMh4VQs/X4RzUhOjtsI/AAAAAAAALSc/ddl9yDp8-VEDlEeInl8O7XuCyvP-pj9mgCLcBGAsYHQ/s0/E%2521%2B%252867%2529.png",WIN SPORTS+
-http://zeroxtv.xyz:2082/MAGISTV/NpCzkb8BfY/92566
-#EXTINF:-1 group-title="Deportes" tvg-logo="",M.LIGA DE CAMPEONES
-http://stalkertvlatino.com:8080/play1/play1/913
-
-
-
-
-#EXTINF:-1,Univision Los Angeles
-http://ytv.plus:25461/diegotv/1234/341
-#EXTINF:-1,UNIVISION (WUVP-Philadelphia PA)
-http://ytv.plus:25461/diegotv/1234/316
-#EXTINF:-1,Univision (KAKW-Austin)
-http://ytv.plus:25461/diegotv/1234/328
-#EXTINF:-1,Univision (KDTV-San Francisco-Oak-San Jose)
-http://ytv.plus:25461/diegotv/1234/329
-#EXTINF:-1,Univision (WQHS-Cleveland-Akron Canton)
-http://ytv.plus:25461/diegotv/1234/332
-#EXTINF:-1,Univision 41
-http://ytv.plus:25461/diegotv/1234/334
-#EXTINF:-1,Univision Houston
-http://ytv.plus:25461/diegotv/1234/340
-#EXTINF:-1,Univision Austin
-http://ytv.plus:25461/diegotv/1234/336
-#EXTINF:-1,MX | Galavisión
-http://ytv.plus:25461/diegotv/1234/150
-#EXTINF:-1,NBC Universo ESP
-http://ytv.plus:25461/diegotv/1234/217
-#EXTINF:-1,UNIVISION SPORTS USA
-http://ytv.plus:25461/diegotv/1234/13202
-#EXTINF:-1,UNIVISION MIAMI USA
-http://ytv.plus:25461/diegotv/1234/13204
-#EXTINF:-1,UNIVISION
-http://ytv.plus:25461/diegotv/1234/752
-#EXTINF:-1,UNIVISION NEW YORK
-http://ytv.plus:25461/diegotv/1234/1598
-#EXTINF:-1,UNIVISION ATLANTA
-http://ytv.plus:25461/diegotv/1234/2332
-#EXTINF:-1,UNIVISION CHICAGO
-http://ytv.plus:25461/diegotv/1234/1836
-#EXTINF:-1,UNIVISION PHOENIX
-http://ytv.plus:25461/diegotv/1234/2333
 
 
 
