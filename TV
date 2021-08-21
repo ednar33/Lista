@@ -149,9 +149,9 @@ http://51.222.105.5:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/HBO_FAMILY.png",HBO FAMILY
 http://51.222.105.5:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/hbo_extreme.png",HBO XTREME
-http://planettvweb.com:8091/isaias2020/isaias2020/16285
+http://51.222.105.5:8081/tecno/HboXtreme.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://ky-iptv.com:25461/images/fea2c7bc1534ae8e1371c00017050757.png",HBO POP
-http://stalkertvlatino.com:8080/play1/play1/72
+http://51.222.105.5:8081/tecno/HboPop.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/UWB6lC9.jpg",HBO MUNDI
 http://stalkertvlatino.com:8080/play1/play1/83683
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/HBOSIGN.png",HBO SIGNATURE
