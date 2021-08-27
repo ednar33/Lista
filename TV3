@@ -1,6 +1,873 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-logo=" ", AXN
+http://23.237.132.90:8081/ENTRETENIMIENTO/AXN_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", A&E
+http://23.237.132.90:8081/ENTRETENIMIENTO/A&E_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", TNT SERIES
+http://23.237.132.90:8081/ENTRETENIMIENTO/TNT_SERIES_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", TNT 
+http://23.237.132.90:8081/ENTRETENIMIENTO/TNT_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", HBO
+http://23.237.132.90:8081/PREMIUM/HBO_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", HBO PLUS
+http://23.237.132.90:8081/PREMIUM/HBO_PLUS_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", HBO 2
+http://23.237.132.90:8081/PREMIUM/HBO2_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", HBO MUNDI 
+http://23.237.132.90:8081/PREMIUM/HBO_MUNDI_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", HBO EXTREME
+http://23.237.132.90:8081/PREMIUM/HBO_XTREME_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", HBO POP
+http://23.237.132.90:8081/PREMIUM/HBO_POP_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", HBO FAMILY 
+http://23.237.132.90:8081/PREMIUM/HBO_FAMILY_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", HBO SIGNATURE
+http://23.237.132.90:8081/PREMIUM/HBO_SIGNATURE_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", STAR ACTION 
+http://23.237.132.90:8081/PREMIUM/STAR_ACTION_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", STAR CHANNEL 
+http://23.237.132.90:8081/ENTRETENIMIENTO/STAR_CHENNEL_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", STAR SERIES 
+http://23.237.132.90:8081/PREMIUM/STAR_SERIES_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", STAR CLASIC 
+http://23.237.132.90:8081/PREMIUM/STAR_CLASIC_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", STAR COMEDY
+http://23.237.132.90:8081/PREMIUM/STAR_COMEDY_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", STAR FUN 
+http://23.237.132.90:8081/PREMIUM/STAR_FUN_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", STAR LIFE
+http://23.237.132.90:8081/ENTRETENIMIENTO/STAR_LIFE_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", STARZ SUSPENSE 
+http://23.237.132.90:8081/PREMIUM/stz_suspence/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", STARZ ENCORE 
+http://23.237.132.90:8081/PREMIUM/stz_encore/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", STARZ 
+http://23.237.132.90:8081/PREMIUM/stz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", STARZ EDGE 
+http://23.237.132.90:8081/PREMIUM/stz_edge/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", STARZ FAMILY 
+http://23.237.132.90:8081/PREMIUM/Stz_enc_Family/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", LIFETIME
+http://23.237.132.90:8081/ENTRETENIMIENTO/LIFETIME_TWO/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=" ", SPACE
+http://23.237.132.90:8081/ENTRETENIMIENTO/SPACE_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", PARAMOUNT
+http://23.237.132.90:8081/PREMIUM/PARAMOUNT_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", CINEMAX 
+http://23.237.132.90:8081/ENTRETENIMIENTO/CINEMAX_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", CINECANAL
+http://23.237.132.90:8081/PREMIUM/CINECANAL1_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", SONY
+http://23.237.132.90:8081/ENTRETENIMIENTO/SONY_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" ", WARNER
+http://23.237.132.90:8081/ENTRETENIMIENTO/WARNER_TWO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="ENTRETENIMIENTO", WARNER HD http://201.220.141.118:8000/play/a0eq/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/Clarospng" group-title="DEPORTES", Claro Sports
+https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/Clarospng" group-title="DEPORTES", Claro Sports
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+
+#EXTINF:-1 tvg-logo=" " grupo-title="DEPORTES", DIRECTV SPORTS
+http://23.237.132.90:8081/live/dt_sp_1_wirehtiwa/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=" " grupo-title="DEPORTES",  DIRECTV SPORTS +
+http://23.237.132.90:8081/live/dt_sp_plus_ehwkth/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=" " grupo-title="DEPORTES", BEIN LA LIGA
+http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " grupo-title="DEPORTES", GOL
+http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES", Fox Sports Argentina
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORTS/hls/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=" " grupo-title="DEPORTES", BARZA TV
+http://91.126.138.141:1935/live/barza/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/REALMADRIDTVpng" group-title="DEPORTES", REAl Madrid TV
+http://91.126.39.101:1935/live/realmadridnntv/chunklist_w2140406843.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/EUROS1png" group-title="DEPORTES", EURO SPORT 1
+http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="DEPORTES", All Sports Brasil
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/5r8wpecm" group-title="DEPORTES", ESPN Mexico
+http://balancer1.iptvmx.com:8081/tecno/Espn1.BKR/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/LogoESPN2png" group-title="DEPORTES", ESPN 2 Mexico
+http://balancer1.iptvmx.com:8081/tecno/Espn2.BKR/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/LogoESPN3png" group-title="DEPORTES", ESPN 3 Mexico
+http://balancer1.iptvmx.com:8081/tecno/Espn3.BKR/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="DEPORTES", ESPN 2 Argentina
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES", ESPN 3
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="group-title=" group-title="DEPORTES", MOVISTAR LA LIGA HD
+http://yassooo.com:8080/benAlaa/829293992/81951?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo=" " grupo-title="DEPORTES", ARENA SPORTS 3
+http://93.157.62.180:80/ArenaSport3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=" " grupo-title="DEPORTES", ARENA SPORTS 4
+http://93.157.62.180:80/ArenaSport4/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="ENTRETENIMIENTO", Telemundo Internacional
+http://balancer1.iptvmx.com:8081/tecno/Telemundoint.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png/556px-Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="ENTRETENIMIENTO", Caracol
+http://mdstrm.com:80/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="ENTRETENIMIENTO", Animal Planet
+http://balancer1.iptvmx.com:8081/tecno/AnimalPlanet.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="ENTRETENIMIENTO", Discovery Channel
+http://balancer1.iptvmx.com:8081/tecno/DiscoveryChannel.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="ENTRETENIMIENTO", Discovery Home & Health
+http://balancer1.iptvmx.com:8081/tecno/DiscoveryHH.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="ENTRETENIMIENTO", Investigation Discovery
+http://balancer1.iptvmx.com:8081/tecno/ID.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="ENTRETENIMIENTO", Discovery Theater
+http://balancer1.iptvmx.com:8081/tecno/Discovery_Theater.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://clairglobal.com/wp-content/uploads/2016/10/History_Channel_2015.png" group-title="ENTRETENIMIENTO", History
+http://balancer1.iptvmx.com:8081/tecno/HistoryChann.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="ENTRETENIMIENTO", HBO Signature
+http://balancer1.iptvmx.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop
+http://balancer1.iptvmx.com:8081/tecno/HBOPOP.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="ENTRETENIMIENTO", Star Action
+http://balancer1.iptvmx.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/2000?cb=20201202010915&path-prefix=es" group-title="ENTRETENIMIENTO", Golden Premier
+http://balancer1.iptvmx.com:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Golden_Plus_LA_2020.png/revision/latest/scale-to-width-down/284?cb=2020120521134" group-title="ENTRETENIMIENTO", Golden Plus
+http://balancer1.iptvmx.com:8081/tecno/GoldenPlus.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="ENTRETENIMIENTO", Discovery World
+http://balancer1.iptvmx.com:8081/tecno/DiscoveryWorld.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="ENTRETENIMIENTO", Discovery Turbo
+http://balancer1.iptvmx.com:8081/tecno/DISCOVERYTURBO.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1024px-Logo_Studio_Universal.svg.png" group-title="ENTRETENIMIENTO", Studio Universal
+http://balancer1.iptvmx.com:8081/tecno/StudioUniversal.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="ENTRETENIMIENTO 2", WARNER
+http://161.132.222.196:20000/play/a0fo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="ENTRETENIMIENTO", TCM
+http://balancer1.iptvmx.com:8081/tecno/TCM.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png" group-title="ENTRETENIMIENTO", Nick
+http://balancer1.iptvmx.com:8081/tecno/Nick.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="ENTRETENIMIENTO", ADN 40
+http://balancer1.iptvmx.com:8081/tecno/ADN40.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="ENTRETENIMIENTO", Tooncast
+http://balancer1.iptvmx.com:8081/tecno/Tooncast.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", 6 - Repretel
+http://201.220.141.118:8000/play/a02q/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", 7-Teletica
+http://201.220.141.118:8000/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", A&E HD
+http://201.220.141.118:8000/play/a0cg/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", AMC HD
+http://201.220.141.118:8000/play/a0ch/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", AXN HD
+http://201.220.141.118:8000/play/a05g/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", AZ click HD
+http://201.220.141.118:8000/play/a05v/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Animal Planet HD
+http://201.220.141.118:8000/play/a0ew/index.m3u8
+
+#EXTINF:-1 tvg-logo="antena 3 png" group-title="ENTRETENIMIENTO 2", Antena 3
+http://201.220.141.118:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Antena 7- RD
+http://201.220.141.118:8000/play/a01b/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Atres Series
+http://201.220.141.118:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Azcorazon
+http://201.220.141.118:8000/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Azmundo
+http://201.220.141.118:8000/play/a09e/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", BBC World
+http://201.220.141.118:8000/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Baby TV
+http://201.220.141.118:8000/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Boomerang
+http://201.220.141.118:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", CARTOON NT HD
+http://201.220.141.118:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", CCN
+http://201.220.141.118:8000/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", CERTV
+http://201.220.141.118:8000/play/a04h/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", CINECANAL HD
+http://201.220.141.118:8000/play/a09w/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", CNN Internacional
+http://201.220.141.118:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", CNNE
+http://201.220.141.118:8000/play/a021/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Canal 3 - GUA
+http://201.220.141.118:8000/play/a0ct/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Canal 4 - PAN
+http://201.220.141.118:8000/play/a04k/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Canal Antigua - GUA
+http://201.220.141.118:8000/play/a098/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Cine Latino
+http://201.220.141.118:8000/play/a052/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", CineMax
+http://201.220.141.118:8000/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Cinema Dinamita
+http://201.220.141.118:8000/play/a055/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Comedy Central HD
+http://201.220.141.118:8000/play/a066/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", DHE HD
+http://201.220.141.118:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", DISCOVERY THEATHER HD
+http://201.220.141.118:8000/play/a063/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Digital 15 - RD
+http://201.220.141.118:8000/play/a02h/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Discovery Channel HD
+http://201.220.141.118:8000/play/a06m/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Discovery Civilization
+http://201.220.141.118:8000/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Discovery Home & Health
+http://201.220.141.118:8000/play/a04t/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Discovery ID HD
+http://201.220.141.118:8000/play/a06r/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Discovery Kids HD
+http://201.220.141.118:8000/play/a06n/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Discovery Science
+http://201.220.141.118:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", 7-Teletica
+http://201.220.141.118:8000/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", A&E HD
+http://201.220.141.118:8000/play/a0cg/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", AMC HD
+http://201.220.141.118:8000/play/a0ch/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", AXN HD
+http://201.220.141.118:8000/play/a05g/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", AZ click HD
+http://201.220.141.118:8000/play/a05v/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Animal Planet HD
+http://201.220.141.118:8000/play/a0ew/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Antena 3
+http://201.220.141.118:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", ESPN HD
+http://201.220.141.118:8000/play/a06h/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", ESPN 2 HD
+http://201.220.141.118:8000/play/a06f/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", ESPN 3 HD
+http://201.220.141.118:8000/play/a06g/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", ESPN2
+http://201.220.141.118:8000/play/a09p/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", EWTN
+http://201.220.141.118:8000/play/a025/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", El Gourmet
+http://201.220.141.118:8000/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Europa HD
+http://201.220.141.118:8000/play/a05s/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Exa TV
+http://201.220.141.118:8000/play/a09q/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", FOX SPORTS 2 HD
+http://201.220.141.118:8000/play/a061/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", FOX SPORTS 3 HD
+http://201.220.141.118:8000/play/a06i/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", FUTV HD CR
+http://201.220.141.118:8000/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", FX HD
+http://201.220.141.118:8000/play/a05r/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", FX Movies HD
+http://201.220.141.118:8000/play/a05t/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Film & arts HD
+http://201.220.141.118:8000/play/a0cf/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Fox News
+http://201.220.141.118:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Fox Sports HD
+http://201.220.141.118:8000/play/a05f/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Golden
+http://201.220.141.118:8000/play/a039/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Golf Channel HD
+http://201.220.141.118:8000/play/a05x/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Guatevision - GUA
+http://201.220.141.118:8000/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", H2
+http://201.220.141.118:8000/play/a033/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", HBO
+http://201.220.141.118:8000/play/a057/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", HBO Family HD
+http://201.220.141.118:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", HBO HD
+http://201.220.141.118:8000/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", HBO Plus HD
+http://201.220.141.118:8000/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", HBO XTREME
+http://201.220.141.118:8000/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", HBO2 HD
+http://201.220.141.118:8000/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", HOLA! TV HD
+http://201.220.141.118:8000/play/a065/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", History HD
+http://201.220.141.118:8000/play/a026/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Home & Health HD
+http://201.220.141.118:8000/play/a064/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", LIFE TIME
+http://201.220.141.118:8000/play/a01u/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", MASTV - PAN
+http://201.220.141.118:8000/play/a02p/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", MTV Hits
+http://201.220.141.118:8000/play/a01w/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", MTV SIM HD
+http://201.220.141.118:8000/play/a067/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Mas Chic
+http://201.220.141.118:8000/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Multimedios
+http://201.220.141.118:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Multipremier
+http://201.220.141.118:8000/play/a051/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Nat Geo HD
+http://201.220.141.118:8000/play/a06j/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Nat Geo Kids
+http://201.220.141.118:8000/play/a02y/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Nat Geo Wild
+http://201.220.141.118:8000/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", National Geographic
+http://201.220.141.118:8000/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Nick 2 HD
+http://201.220.141.118:8000/play/a05z/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Nick Jr
+http://201.220.141.118:8000/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Nick SIM HD
+http://201.220.141.118:8000/play/a060/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Nickelodeon
+http://201.220.141.118:8000/play/a04p/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", PXTV
+http://201.220.141.118:8000/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Paramount HD
+http://201.220.141.118:8000/play/a06k/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Pasiones HD
+http://201.220.141.118:8000/play/a06p/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Playboy
+http://201.220.141.118:8000/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", RCN - GUA
+http://201.220.141.118:8000/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", RCN Novelas
+http://201.220.141.118:8000/play/a030/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", RHEMA TV
+http://201.220.141.118:8000/play/a05e/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", STAR CHANELL
+http://201.220.141.118:8000/play/a04r/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", STAR Action HD
+http://201.220.141.118:8000/play/a06b/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", STAR Comedy HD
+http://201.220.141.118:8000/play/a06s/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", STAR Family HD
+http://201.220.141.118:8000/play/a06c/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", STAR CHANELL HD
+http://201.220.141.118:8000/play/a09t/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", STAR LIFE
+http://201.220.141.118:8000/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", STAR Series HD
+http://201.220.141.118:8000/play/a069/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", STAR Movies HD
+http://201.220.141.118:8000/play/a06a/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", FOX Series HD
+http://201.220.141.118:8000/play/a069/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Fox Classic HD
+http://201.220.141.118:8000/play/a06d/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", SEMILLITAS
+http://201.220.141.118:8000/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", SERTV - PAN
+http://201.220.141.118:8000/play/a002/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", SONY HD
+http://201.220.141.118:8000/play/a09v/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", SPACE HD
+http://201.220.141.118:8000/play/a05h/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Sembrador
+http://201.220.141.118:8000/play/a03e/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Star TVE HD
+http://201.220.141.118:8000/play/a0co/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Studio Universal HD
+http://201.220.141.118:8000/play/a0cb/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Sun Channel
+http://201.220.141.118:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", SyFy HD
+http://201.220.141.118:8000/play/a05k/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", TBN Enlace
+http://201.220.141.118:8000/play/a024/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", TCM
+http://201.220.141.118:8000/play/a03a/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", TLC
+http://201.220.141.118:8000/play/a09n/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", TNT HD
+http://201.220.141.118:8000/play/a062/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", TNT Series HD
+http://201.220.141.118:8000/play/a06l/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", TV Max - PAN
+http://201.220.141.118:8000/play/a04j/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", TVChile
+http://201.220.141.118:8000/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", TVE
+http://201.220.141.118:8000/play/a09s/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Telemundo HD
+http://201.220.141.118:8000/play/a05q/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Telesistema RD
+http://201.220.141.118:8000/play/a01c/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Teleuniverso - RD
+http://201.220.141.118:8000/play/a0f0/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Universal
+http://201.220.141.118:8000/play/a0eo/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", Univision HD
+http://201.220.141.118:8000/play/a0et/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", VENUS
+http://201.220.141.118:8000/play/a0ex/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", VH1 Classic
+http://201.220.141.118:8000/play/a0ev/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", VH1 HD
+http://201.220.141.118:8000/play/a0es/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", WARNER HD
+http://201.220.141.118:8000/play/a0eq/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO 2", ZooMoo
+http://201.220.141.118:8000/play/a0er/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.E-Entertainment-Logo.png.48ac164a4fda8a995b93d1917bb2fed2.png" group-title="ENTRETENIMIENTO", E! ENTERTANMENT
+http://190.210.221.119/Processor3_1_chunklist_b1300000.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="ENTRETENIMIENTO", CANAL 5
+http://balancer1.iptvmx.com:8081/tecno/Canal5.TecnoByte/chunks.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", TOP Latino TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Telefe Rosario
+http://telefewhitehls-lh.akamaihd.net:80/i/whitelist_hls@302302/master.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", TV Azteca Honduras
+http://190.122.96.187:8888/http/002
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Ve Plus
+http://190.122.96.187:8888/http/006
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Locomotion TV
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Star Action
+http://cdn.stg.cvattv.com.ar/live/live2/FoxActionHD/SA_Live_fta/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", History
+http://cdn.stg.cvattv.com.ar/live/live2/HistoryHD/SA_Live_fta/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="ENTRETENIMIENTO", Discovery
+http://edge1.stg.cvattv.com.ar/live/live2/DiscoveryHD/SA_Live_fta/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Discovery H&H
+http://edge1.stg.cvattv.com.ar/live/live2/DiscoveryHomeHealthHD/SA_Live_fta/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="ENTRETENIMIENTO", Disney Channel
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="ENTRETENIMIENTO", NatGeo Kids
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOKIDS/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="ENTRETENIMIENTO", Disney XD
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", NatGeo
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEO/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", National Geographic
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEO/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", National Geographic Wild
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOWILD/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Nat Geo Wild
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOWILD/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", FX Movies
+https://qlobbidev.s.llnwi.net/bpk-tv/FXM/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", De Pelicula
+https://qlobbidev.s.llnwi.net/bpk-tv/DEPELICULA/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="ENTRETENIMIENTO", AMC
+https://qlobbidev.s.llnwi.net/bpk-tv/AMC/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Golden
+https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Golden Edge
+https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", DHE
+https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Syfy
+https://qlobbidev.s.llnwi.net:443/bpk-tv/SYFY/hls/SYFY-audio_132113_spa=128000-video=1900000.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Distrito Comedia
+https://qlobbidev.s.llnwi.net/bpk-tv/HISTORY2/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Las Estrellas
+https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Venus
+https://qlobbidev.s.llnwi.net/bpk-tv/VENUS/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Canal RCN
+https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Europa Europa
+https://qlobbidev.s.llnwi.net/bpk-tv/EUROPA/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Azteca Corazon
+https://qlobbidev.s.llnwi.net/bpk-tv/AZCORAZON/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Azteca Clic
+https://qlobbidev.s.llnwi.net/bpk-tv/AZLIC/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Azteca Cinema
+https://qlobbidev.s.llnwi.net/bpk-tv/AZCINEMA/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Azteca Mundo
+https://qlobbidev.s.llnwi.net/bpk-tv/AZMUNDO/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Canal RCN
+https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Telefé
+http://edge1.stg.cvattv.com.ar/live/live2/TelefeHD/SA_Live_fta/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", El Trece
+http://edge1.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Todo Noticias
+http://edge1.stg.cvattv.com.ar/live/live2/TodoNoticias/SA_Live_fta/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.E-Entertainment-Logo.png.48ac164a4fda8a995b93d1917bb2fed2.png" group-title="ENTRETENIMIENTO", E! ENTERTANMENT
+http://190.210.221.119/Processor3_1_chunklist_b1300000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="ENTRETENIMIENTO", CANAL 5
+http://balancer1.iptvmx.com:8081/tecno/Canal5.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="ENTRETENIMIENTO", Telemundo
+http://balancer1.iptvmx.com:8081/tecno/Telemundoint.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", TOP Latino TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Telefe Rosario
+http://telefewhitehls-lh.akamaihd.net:80/i/whitelist_hls@302302/master.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Caracol
+http://mdstrm.com:80/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", TV Azteca Honduras
+http://190.122.96.187:8888/http/002
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Ve Plus
+http://190.122.96.187:8888/http/006
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Locomotion TV
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Star Action
+http://cdn.stg.cvattv.com.ar/live/live2/FoxActionHD/SA_Live_fta/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", History
+http://cdn.stg.cvattv.com.ar/live/live2/HistoryHD/SA_Live_fta/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="ENTRETENIMIENTO", Discovery
+http://edge1.stg.cvattv.com.ar/live/live2/DiscoveryHD/SA_Live_fta/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Discovery H&H
+http://edge1.stg.cvattv.com.ar/live/live2/DiscoveryHomeHealthHD/SA_Live_fta/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="ENTRETENIMIENTO", Disney Channel
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="ENTRETENIMIENTO", NatGeo Kids
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOKIDS/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="ENTRETENIMIENTO", Disney XD
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", NatGeo
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEO/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", National Geographic
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEO/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="ENTRETENIMIENTO", A&E
+http://195.181.163.39:8080/LAT_A&E_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="ENTRETENIMIENTO", TNT Series
+http://195.181.163.39:8080/LAT_TNT_Series_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="ENTRETENIMIENTO", TNT
+http://195.181.163.39:8080/LAT_TNT_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
+http://195.181.163.39/ARG_HBO/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="ENTRETENIMIENTO", HBO 2
+http://195.181.163.39/ARG_HBO_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
+http://195.181.163.39/ARG_HBO_PLUS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="ENTRETENIMIENTO", HBO Family
+http://195.181.163.39/ARG_HBO_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", DHE
+https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Syfy
+https://qlobbidev.s.llnwi.net:443/bpk-tv/SYFY/hls/SYFY-audio_132113_spa=128000-video=1900000.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Distrito Comedia
+https://qlobbidev.s.llnwi.net/bpk-tv/HISTORY2/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Las Estrellas
+https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Venus
+https://qlobbidev.s.llnwi.net/bpk-tv/VENUS/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Canal RCN
+https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Europa Europa
+https://qlobbidev.s.llnwi.net/bpk-tv/EUROPA/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Azteca Corazon
+https://qlobbidev.s.llnwi.net/bpk-tv/AZCORAZON/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Azteca Clic
+https://qlobbidev.s.llnwi.net/bpk-tv/AZLIC/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Azteca Cinema
+https://qlobbidev.s.llnwi.net/bpk-tv/AZCINEMA/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Azteca Mundo
+https://qlobbidev.s.llnwi.net/bpk-tv/AZMUNDO/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Canal RCN
+https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Telefé
+http://edge1.stg.cvattv.com.ar/live/live2/TelefeHD/SA_Live_fta/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", El Trece
+http://edge1.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Todo Noticias
+http://edge1.stg.cvattv.com.ar/live/live2/TodoNoticias/SA_Live_fta/index.m3u8
+
+
+
+
 #EXTINF:-1  tvg-id="Canal Azteca Uno" tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/AztecaUno.png", Azteca Uno
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=u77iemvd0bgw1el&lchId=7&format=HLS&f=.m3u8
 
