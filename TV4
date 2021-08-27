@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | AZTECA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/AZSINCOPY.png/200px-AZSINCOPY.png" group-title="GUATEMALA",GUATEMALA | AZTECA
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/28775.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOTICIAS l TELEMUNDO LOS ANGELES" tvg-logo="http://compitv.info:8080/images/7aef114b546dc92d1b1bfc3d61d399b4.png" group-title="TELEMUNDO  =  NOTICIAS",NOTICIAS l TELEMUNDO LOS ANGELES
@@ -57,16 +59,6 @@ http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/57660.m3u8
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64451.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="URUGUAY | VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/LogoVTV2015.png/150px-LogoVTV2015.png" group-title="URUGUAY",URUGUAY | VTV
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64452.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URUGUAY | CANAL 4" tvg-logo="http://compitv.info:8080/images/e02bc60138bc7be031bca7acfa3bdc84.png" group-title="URUGUAY",URUGUAY | CANAL 4
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64454.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URUGUAY | CANAL 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/LogoTeledoce2019Azul.png/120px-LogoTeledoce2019Azul.png" group-title="URUGUAY",URUGUAY | CANAL 12
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64455.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URUGUAY | CANAL 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal10_Logo_Actual.jpg/200px-Canal10_Logo_Actual.jpg" group-title="URUGUAY",URUGUAY | CANAL 10
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64456.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URUGUAY | LA RED" tvg-logo="http://compitv.info:8080/images/41886b05375d519f3aaa0d0d782ac463.png" group-title="URUGUAY",URUGUAY | LA RED
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64458.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URUGUAY | CANAL 4 PAYSANDU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Canalcuatrovivoparavos.png/120px-Canalcuatrovivoparavos.png" group-title="URUGUAY",URUGUAY | CANAL 4 PAYSANDU
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64461.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 l DRAGON BALL GT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="⭐ 24-7",24/7 l DRAGON BALL GT
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64637.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 l INSPECTOR GADGET" tvg-logo="https://blogs.lasprovincias.es/elsindromededarrin/wp-content/uploads/sites/21/2013/03/inspector_gadget.jpg" group-title="⭐ 24-7",24/7 l INSPECTOR GADGET
@@ -79,24 +71,10 @@ http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64662.m3u8
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64665.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | EL TRECE OPC" tvg-logo="http://compitv.info:8080/images/2cbb3884f8065dd58ab8012fda9bef2c.png" group-title="ARGENTINA",ARGENTINA | EL TRECE OPC
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64666.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | NET TV" tvg-logo="http://compitv.info:8080/images/03aa60846a79abc06a8288506a3b048a.png" group-title="ARGENTINA",ARGENTINA | NET TV
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64669.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | CINE CANAL AR" tvg-logo="http://compitv.info:8080/images/205ff8c870ef7acb641760dcf8992828.png" group-title="ARGENTINA",ARGENTINA | CINE CANAL AR
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64672.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | CINE AR" tvg-logo="http://compitv.info:8080/images/3ab1fbe99a00b0966cb69446876f955e.png" group-title="ARGENTINA",ARGENTINA | CINE AR
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64673.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TN" tvg-logo="http://compitv.info:8080/images/54e92236958b19249cd3b23afe65419b.png" group-title="ARGENTINA",ARGENTINA | TN
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64694.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TELEMAX" tvg-logo="http://compitv.info:8080/images/2f20ef4e3d5c78423e2a3deed7cf1f54.png" group-title="ARGENTINA",ARGENTINA | TELEMAX
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64695.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | FOX CINE ARG" tvg-logo="http://compitv.info:8080/images/afd033639c9a27199dc3004e1ad7cb6e.png" group-title="ARGENTINA",ARGENTINA | FOX CINE ARG
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64697.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TELEVISION PUBLICA" tvg-logo="http://compitv.info:8080/images/5312e4d3b7543fb54b5896d857f67d86.png" group-title="ARGENTINA",ARGENTINA | TELEVISION PUBLICA
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64701.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TELEFE" tvg-logo="http://compitv.info:8080/images/a28c8bf6dd4917f6d01c1e7091985eac.png" group-title="ARGENTINA",ARGENTINA | TELEFE
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64704.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | C5N " tvg-logo="http://compitv.info:8080/images/3c716eaab471014adb705e823a904e9f.png" group-title="ARGENTINA",ARGENTINA | C5N 
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64708.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | EL TRECE FHD" tvg-logo="http://compitv.info:8080/images/2cbb3884f8065dd58ab8012fda9bef2c.png" group-title="ARGENTINA",ARGENTINA | EL TRECE FHD
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64710.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE PREMIUM l LATINO STARZ " tvg-logo="https://i.pinimg.com/564x/27/04/d4/2704d438b2596f6de4aa21cfd6124fd8.jpg" group-title="CINE STARZ Y SHOWTIME",CINE PREMIUM l LATINO STARZ 
@@ -155,10 +133,6 @@ http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64871.m3u8
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64872.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEXICO l  UNICABLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO",MEXICO l  UNICABLE
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/64873.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA | CABLE ONDA SPORTS " tvg-logo="" group-title="PANAMA",PANAMA | CABLE ONDA SPORTS 
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/67119.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA | CAMPUS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNOtlbG1HxqV5tPWtv1kAsU6IFFmoIjvStboa7OmASk3XIf-tl" group-title="PANAMA",PANAMA | CAMPUS TV
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/67165.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PARAGUAY | TIGO SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/245px-Tigo_Sports_logo.svg.png" group-title="LIGA PARAGUAYA",PARAGUAY | TIGO SPORT 3
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/70608.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PARAGUAY | TIGO SPORTS " tvg-logo="http://compitv.info:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="LIGA PARAGUAYA",PARAGUAY | TIGO SPORTS 
@@ -303,26 +277,6 @@ http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/77426.m3u8
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/77428.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | TELECINCO" tvg-logo="http://compitv.info:8080/images/4c503c22b2ae8399650fe5e280550ebd.png" group-title="ESPAÑA",ESPAÑA | TELECINCO
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/77429.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NIC | CANAL 10" tvg-logo="http://compitv.info:8080/images/84c8c53d9eb69744023cc8b983d0dbd9.jpeg" group-title="NICARAGUA",NIC | CANAL 10
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/78114.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NIC | CANAL 12" tvg-logo="http://compitv.info:8080/images/3109616ca672c95c59d44126d9f01e9e.png" group-title="NICARAGUA",NIC | CANAL 12
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/78115.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NIC | CANAL 13" tvg-logo="http://compitv.info:8080/images/0973d1d706da05fae9c69e0afc1669c9.png" group-title="NICARAGUA",NIC | CANAL 13
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/78116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NIC | CANAL 6" tvg-logo="http://compitv.info:8080/images/5a246807694e7b7fb5da3b1fcbadd6bc.png" group-title="NICARAGUA",NIC | CANAL 6
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/78117.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NIC | CANAL 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Canal2_ni.jpg" group-title="NICARAGUA",NIC | CANAL 2
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/78118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NIC | CANAL 4" tvg-logo="http://compitv.info:8080/images/23dc707dec3e9e0306a36d06ecd98a99.png" group-title="NICARAGUA",NIC | CANAL 4
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/78119.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NIC | CANAL 14" tvg-logo="https://www.vostv.com.ni/static/images/logo-footer.png" group-title="NICARAGUA",NIC | CANAL 14
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/78120.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NIC | CANAL 8" tvg-logo="http://compitv.info:8080/images/6aa7c885739fe6764a45f65a61c56fad.png" group-title="NICARAGUA",NIC | CANAL 8
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/78121.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | Sportsnet EAST" tvg-logo="http://compitv.info:8080/images/af985280b9d935e68b8fcbe1ff5ab059.png" group-title="CANADA",CANADA | Sportsnet EAST
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/78476.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | TSN 3" tvg-logo="http://compitv.info:8080/images/3407cc9ee7c9b66df18beab643b2af4b.png" group-title="CANADA",CANADA | TSN 3
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/78483.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USA | Fox Sports New " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/FoxSportsNewOrleans.png/200px-FoxSportsNewOrleans.png" group-title="DEPORTES USA",USA | Fox Sports New 
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/78500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USA | ESPN" tvg-logo="http://compitv.info:8080/images/1e7ac020066a9fdb96023c8ab61bec9b.png" group-title="DEPORTES USA",USA | ESPN
@@ -395,10 +349,6 @@ http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/86320.m3u8
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/86321.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEXICO | CANAL A+" tvg-logo="" group-title="MEXICO",MEXICO | CANAL A+
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/86865.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 2" tvg-logo="" group-title="EL SALVADOR",EL SALVADOR | CANAL 2
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/87169.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CUBA |  CUBAVISION " tvg-logo="" group-title="CUBA",CUBA |  CUBAVISION 
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/91966.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USA | DESTINATION " tvg-logo="https://e7.pngegg.com/pngimages/292/14/png-clipart-united-states-destination-america-television-channel-logo-destination-television-text-thumbnail.png" group-title="USA PREMIUM",USA | DESTINATION 
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/99295.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAVO TV" tvg-logo="https://4.bp.blogspot.com/-nWqBA2g0Wcs/W5l1pOvzEGI/AAAAAAAAJFA/Bgzma_NxsKoGOjW62CgV_6NqGu5eiSY9QCEwYBhgL/s1600/V6iMOM4.png" group-title="⭐ 24-7",24/7 EL CHAVO TV
@@ -407,56 +357,6 @@ http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/101897.m3u8
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/101899.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Mundo" tvg-logo="" group-title="TELEMUNDO  =  NOTICIAS",Zee Mundo
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/101901.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSICA | THE RETRO CHANNEL" tvg-logo="" group-title="MUSICA",MUSICA | THE RETRO CHANNEL
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/101902.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSICA | LATINOS UP! TV" tvg-logo="" group-title="MUSICA",MUSICA | LATINOS UP! TV
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/101906.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telesistema" tvg-logo="" group-title="HONDURAS",Telesistema
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/101911.m3u8
-#EXTINF:-1 tvg-id="mega.cl" tvg-name="CHILE | MEGA  》》 +" tvg-logo="https://i.imgur.com/3iZT356.png" group-title="CHILE",CHILE | MEGA  》》 +
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/30249.m3u8
-#EXTINF:-1 tvg-id="mega.cl" tvg-name="CHILE |  MEGA *" tvg-logo="https://i.imgur.com/3iZT356.png" group-title="CHILE",CHILE |  MEGA *
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/28400.m3u8
-#EXTINF:-1 tvg-id="mega.cl" tvg-name="CHILE | MEGA 》》" tvg-logo="https://i.imgur.com/3iZT356.png" group-title="CHILE",CHILE | MEGA 》》
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/28384.m3u8
-#EXTINF:-1 tvg-id="canal13chile.cl" tvg-name="CHILE | 13 HD ☆☆☆" tvg-logo="https://i.imgur.com/CPFCUvK.png" group-title="CHILE",CHILE | 13 HD ☆☆☆
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/30264.m3u8
-#EXTINF:-1 tvg-id="canal13chile.cl" tvg-name="CHILE | 13 HQ☆☆ " tvg-logo="https://i.imgur.com/CPFCUvK.png" group-title="CHILE",CHILE | 13 HQ☆☆ 
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/30274.m3u8
-#EXTINF:-1 tvg-id="canal13chile.cl" tvg-name="CHILE | CANAL 13 " tvg-logo="https://i.imgur.com/CPFCUvK.png" group-title="CHILE",CHILE | CANAL 13 
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/32327.m3u8
-#EXTINF:-1 tvg-id="13c.cl" tvg-name="CHILE  | 13C" tvg-logo="http://compitv.info:8080/images/1d8c399c9d77857c212366113548f5cb.png" group-title="CHILE",CHILE  | 13C
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/30256.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | CANAL  13i" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_13i.png" group-title="CHILE",CHILE | CANAL  13i
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/32088.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | REC 13" tvg-logo="http://compitv.info:8080/images/031d830e147643a54d94aad1f150b0b1.png" group-title="CHILE",CHILE | REC 13
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/74651.m3u8
-#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CHILE | CHV HD ☆☆☆" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="CHILE",CHILE | CHV HD ☆☆☆
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/30295.m3u8
-#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CHILE | CHV HQ☆☆" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="CHILE",CHILE | CHV HQ☆☆
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/30285.m3u8
-#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CHILE | CHV SD ☆" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="CHILE",CHILE | CHV SD ☆
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/30281.m3u8
-#EXTINF:-1 tvg-id="tvnchile.cl" tvg-name="CHILE | TVN HD ☆☆☆" tvg-logo="https://www.ecured.cu/images/2/2e/TVNChile2016.png" group-title="CHILE",CHILE | TVN HD ☆☆☆
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/30301.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | TVN  ☆☆ " tvg-logo="https://www.ecured.cu/images/2/2e/TVNChile2016.png" group-title="CHILE",CHILE | TVN  ☆☆ 
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/30283.m3u8
-#EXTINF:-1 tvg-id="tvn24.cl" tvg-name="CHILE | 《 24HORAS 》" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/24_Horas_TVN_logo.png/1280px-24_Horas_TVN_logo.png" group-title="CHILE",CHILE | 《 24HORAS 》
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/32089.m3u8
-#EXTINF:-1 tvg-id="tvn24.cl" tvg-name="CHILE | 24 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/24_Horas_TVN_logo.png/1280px-24_Horas_TVN_logo.png" group-title="CHILE",CHILE | 24 HORAS
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/30254.m3u8
-#EXTINF:-1 tvg-id="cnnchile.cl" tvg-name="CHILE | CNN CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="CHILE",CHILE | CNN CHILE
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/30266.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | LA RED ⭐" tvg-logo="https://www.entel.cl/public/logos/canales/la-red-hd.png" group-title="CHILE",CHILE | LA RED ⭐
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/30267.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | CANAL  TV EDUCA CHILE" tvg-logo="http://compitv.info:8080/images/99aa3c6dac587e85916fc616b1440c5c.png" group-title="CHILE",CHILE | CANAL  TV EDUCA CHILE
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/49303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHILE  | LOCOMOTION" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1129e3db-69e7-4f40-832b-0f0fff744418/d1qrwov-5905c510-30aa-4500-ad6c-809e5b89b960.png/v1/fill/w_600,h_600,q_75,strp/locomotion_by_minino.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8xMTI5ZTNkYi02OWU3LTRmNDAtODMyYi0wZjBmZmY3NDQ0MTgvZDFxcndvdi01OTA1YzUxMC0zMGFhLTQ1MDAtYWQ2Yy04MDllNWI4OWI5NjAucG5nIiwid2lkdGgiOiI8PTYwMCIsImhlaWdodCI6Ijw9NjAwIn1dXX0.lSGAVLZ0Yv5o2WV4TFCJI0A1XQuZ6BcFwvuyTmEGe40" group-title="CHILE",CHILE  | LOCOMOTION
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/31418.m3u8
-#EXTINF:-1 tvg-id="etc.cl" tvg-name="CHILE | CANAL  ETC SD" tvg-logo="http://compitv.info:8080/images/d2a200db7ec1e0f6db03093940fe6851.png" group-title="CHILE",CHILE | CANAL  ETC SD
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/32107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | CANAL  CACHIPUN" tvg-logo="http://compitv.info:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="CHILE",CHILE | CANAL  CACHIPUN
-http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/49304.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHILE | CDO BASICO" tvg-logo="http://compitv.info:8080/images/502513dd868506b084f50ce6e9e0f43b.jpg" group-title="CHILE",CHILE | CDO BASICO
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/99802.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHILE |  ESPN ☆" tvg-logo="https://www.gador.com.ar/wp-content/uploads/2017/04/espn-logo-red-850x316.png" group-title="CHILE",CHILE |  ESPN ☆
