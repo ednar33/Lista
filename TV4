@@ -1,3 +1,7 @@
+#EXTM3U
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 21" tvg-logo="" group-title="EL SALVADOR",EL SALVADOR | CANAL 21
 http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/26235.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VENE l TVES" tvg-logo="http://compitv.info:8080/images/c50c33e852499d0977c8e8469e2138af.PNG" group-title="VENEZUELA ",VENE l TVES
