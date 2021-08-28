@@ -147,7 +147,7 @@ http://23.237.132.90:8081/PREMIUM/HBO2_TWO/playlist.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/HBOPLUS.png",HBO +
 http://51.222.105.5:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/HBO_FAMILY.png",HBO FAMILY
-http://51.222.105.5:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
+http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/47773
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/hbo_extreme.png",HBO XTREME
 http://23.237.132.90:8081/PREMIUM/HBO_XTREME_TWO/playlist.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://ky-iptv.com:25461/images/fea2c7bc1534ae8e1371c00017050757.png",HBO POP
