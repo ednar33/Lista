@@ -386,3 +386,25 @@ http://stalkertvlatino.com:8080/play1/play1/925
 http://zeroxtv.xyz:2082/MAGISTV/NpCzkb8BfY/92566
 #EXTINF:-1 group-title="Deportes" tvg-logo="",M.LIGA DE CAMPEONES
 http://stalkertvlatino.com:8080/play1/play1/913
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 1" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="TUDN EXTRA",TUDN XTRA 1
+http://stalkertvlatino.com:8080/play1/play1/104155
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 2" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="TUDN EXTRA",TUDN XTRA 2
+http://stalkertvlatino.com:8080/play1/play1/104156
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 3" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="TUDN EXTRA",TUDN XTRA 3
+http://stalkertvlatino.com:8080/play1/play1/104157
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 4" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="TUDN EXTRA",TUDN XTRA 4
+http://stalkertvlatino.com:8080/play1/play1/104158
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 5" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="TUDN EXTRA",TUDN XTRA 5
+http://stalkertvlatino.com:8080/play1/play1/104159
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 6" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="TUDN EXTRA",TUDN XTRA 6
+http://stalkertvlatino.com:8080/play1/play1/104160
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 7" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="TUDN EXTRA",TUDN XTRA 7
+http://stalkertvlatino.com:8080/play1/play1/104161
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 8" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="TUDN EXTRA",TUDN XTRA 8
+http://stalkertvlatino.com:8080/play1/play1/104162
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 9" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="TUDN EXTRA",TUDN XTRA 9
+http://stalkertvlatino.com:8080/play1/play1/104163
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 10" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="TUDN EXTRA",TUDN XTRA 10
+http://stalkertvlatino.com:8080/play1/play1/104164
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 11" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="TUDN EXTRA",TUDN XTRA 11
+http://stalkertvlatino.com:8080/play1/play1/104165
