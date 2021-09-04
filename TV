@@ -249,9 +249,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3x
 #EXTINF:-1 group-title="Deportes" tvg-logo="",BASKET AMERICAS TV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=2090&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://xtream-coders.com/x0/deportes/nbcgolf.png",GOLF
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=2148&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="",HAVOC  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=179&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="",HAVOC  
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=2148&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cultura" tvg-logo="https://i.pinimg.com/280x280_RS/1b/f1/d4/1bf1d4bf0ed8c37e1c8efc5b17401467.jpg",HGTV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=3105&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cultura" tvg-logo="http://ky-iptv.com:25461/images/f756578ec005c2ab8da7a8334173509c.png",DISCOVERY CHANNEL
