@@ -137,7 +137,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3x
 #EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/latino/fxm.png" group-title="ENTRETENIMIENTO", FXM
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=138&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://ewscripps.brightspotcdn.com/2c/7a/2284f50e49c1b7595592ddfc51f5/hbo.png",HBO
-http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/47784
+http://compitv.info:8080/live/MauricioCavieres231/JTFCEgyLOa/252392.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/HBO2HD.png",HBO 2
 http://stalkertvlatino.com:8080/play1/play1/6236
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/HBOPLUS.png",HBO +
