@@ -3,7 +3,6 @@
 
 
 
-
 #EXTINF:-1 tvg-logo=" " grupo-title="DEPORTES", DIRECTV SPORTS
 http://23.237.132.90:8081/live/dt_sp_1_wirehtiwa/chunks.m3u8
 
@@ -361,4 +360,170 @@ http://edge1.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Todo Noticias
 http://edge1.stg.cvattv.com.ar/live/live2/TodoNoticias/SA_Live_fta/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  xmen" tvg-logo="" group-title="24/7",24/7:  xmen
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22254
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Alf" tvg-logo="" group-title="24/7",24/7: Alf
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22226
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Bob Esponja" tvg-logo="" group-title="24/7",24/7: Bob Esponja
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22227
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Dinosaurios" tvg-logo="" group-title="24/7",24/7: Dinosaurios
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22230
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Dragon ball GT" tvg-logo="" group-title="24/7",24/7: Dragon ball GT
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22231
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Dragon Ball Super" tvg-logo="" group-title="24/7",24/7: Dragon Ball Super
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22232
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Dragon ball z" tvg-logo="" group-title="24/7",24/7: Dragon ball z
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22233
+#EXTINF:-1 tvg-id="" tvg-name="24/7: El chapuli­n colorado" tvg-logo="" group-title="24/7",24/7: El chapuli­n colorado
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22234
+#EXTINF:-1 tvg-id="" tvg-name="24/7: El chavo del 8" tvg-logo="" group-title="24/7",24/7: El chavo del 8
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22235
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Escobar el patron del mal" tvg-logo="" group-title="24/7",24/7: Escobar el patron del mal
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22255
+#EXTINF:-1 tvg-id="" tvg-name="24/7: he man" tvg-logo="" group-title="24/7",24/7: he man
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22236
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Los locos Addams" tvg-logo="" group-title="24/7",24/7: Los locos Addams
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22256
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Malcolm" tvg-logo="" group-title="24/7",24/7: Malcolm
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22237
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Mazingerz" tvg-logo="" group-title="24/7",24/7: Mazingerz
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22238
+#EXTINF:-1 tvg-id="" tvg-name="24/7: naruto" tvg-logo="" group-title="24/7",24/7: naruto
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22239
+#EXTINF:-1 tvg-id="" tvg-name="24/7: peliculas estrenos" tvg-logo="" group-title="24/7",24/7: peliculas estrenos
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22240
+#EXTINF:-1 tvg-id="" tvg-name="24/7: pinky" tvg-logo="" group-title="24/7",24/7: pinky
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22241
+#EXTINF:-1 tvg-id="" tvg-name="24/7: pokemon" tvg-logo="" group-title="24/7",24/7: pokemon
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22242
+#EXTINF:-1 tvg-id="" tvg-name="24/7: robotech" tvg-logo="" group-title="24/7",24/7: robotech
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22243
+#EXTINF:-1 tvg-id="" tvg-name="24/7: sailor" tvg-logo="" group-title="24/7",24/7: sailor
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22244
+#EXTINF:-1 tvg-id="" tvg-name="24/7: shera" tvg-logo="" group-title="24/7",24/7: shera
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22245
+#EXTINF:-1 tvg-id="" tvg-name="24/7: simpsons" tvg-logo="" group-title="24/7",24/7: simpsons
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22246
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Smallville" tvg-logo="" group-title="24/7",24/7: Smallville
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22247
+#EXTINF:-1 tvg-id="" tvg-name="24/7: South" tvg-logo="" group-title="24/7",24/7: South
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22248
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Spiderman" tvg-logo="" group-title="24/7",24/7: Spiderman
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22249
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Strangerthings" tvg-logo="" group-title="24/7",24/7: Strangerthings
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22250
+#EXTINF:-1 tvg-id="" tvg-name="24/7: The walking dead" tvg-logo="" group-title="24/7",24/7: The walking dead
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22252
+#EXTINF:-1 tvg-id="" tvg-name="24/7: thundercats" tvg-logo="" group-title="24/7",24/7: thundercats
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/22253
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: Argentinisima Satelital" tvg-logo="https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png" group-title="Argentina",AR: Argentinisima Satelital
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38788
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 10 Cordoba" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_06/large.C10CORDOBA2.png.b049969ed7ca2de98eee93b71c9f11e2.png" group-title="Argentina",AR: Canal 10 Cordoba
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38789
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 13 Max" tvg-logo="http://iptv.tvxtremegold.com:25461/images/fa13bcb2ac7ef825242b3d89397f7b98.jpg" group-title="Argentina",AR: Canal 13 Max
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38790
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 13 San Luis" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1IctUNBuMMcqEoUYmdB0l_iPgEjLdXfmNVQKSbHRRCNHGr650LsYcXhuUl9ri5zx4LM8&usqp=CAU" group-title="Argentina",AR: Canal 13 San Luis
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38791
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 4 Jujuy" tvg-logo="http://iptv.tvxtremegold.com:25461/images/f5b8f9e0f48a83ea9fe7c6933d146b89.png" group-title="Argentina",AR: Canal 4 Jujuy
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38792
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 7 Jujuy" tvg-logo="http://iptv.tvxtremegold.com:25461/images/f53e29f5312ddffde1ac0b58c8fd57f5.png" group-title="Argentina",AR: Canal 7 Jujuy
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38793
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal IP FHD" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png" group-title="Argentina",AR: Canal IP FHD
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38794
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal IP HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png" group-title="Argentina",AR: Canal IP HD
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38795
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal IP SD" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png" group-title="Argentina",AR: Canal IP SD
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38796
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal Rural" tvg-logo="http://iptv.tvxtremegold.com:25461/images/0bf6300f6183fba60e67b146d99f3456.png" group-title="Argentina",AR: Canal Rural
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38797
+#EXTINF:-1 tvg-id="" tvg-name="AR: Cine Ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/2560px-Cine.Ar_logo.svg.png" group-title="Argentina",AR: Cine Ar
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38798
+#EXTINF:-1 tvg-id="" tvg-name="AR: Deportv" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="Argentina",AR: Deportv
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38799
+#EXTINF:-1 tvg-id="" tvg-name="AR: El Garaje" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.5acd523361c47_ElGarage.png.2d99f55f7fd0742a8dd7a8ee94cbab10.png" group-title="Argentina",AR: El Garaje
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38800
+#EXTINF:-1 tvg-id="" tvg-name="AR: Europa Europa" tvg-logo="http://iptv.tvxtremegold.com:25461/images/eed7049ccac70dffce8a41c0514a5586.png" group-title="Argentina",AR: Europa Europa
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38801
+#EXTINF:-1 tvg-id="" tvg-name="AR: Gen Tv" tvg-logo="http://iptv.tvxtremegold.com:25461/images/daffed346e29c5654f54133d1fc65ccb.png" group-title="Argentina",AR: Gen Tv
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38802
+#EXTINF:-1 tvg-id="" tvg-name="AR: Locomotion" tvg-logo="http://iptv.tvxtremegold.com:25461/images/3811df09781371cf50559056df301dc0.jpg" group-title="Argentina",AR: Locomotion
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38803
+#EXTINF:-1 tvg-id="" tvg-name="AR: Multivision" tvg-logo="http://iptv.tvxtremegold.com:25461/images/eda711ba3b91e0e9eb5f6d90e555dd2e.png" group-title="Argentina",AR: Multivision
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38804
+#EXTINF:-1 tvg-id="" tvg-name="AR: Net Tv" tvg-logo="http://iptv.tvxtremegold.com:25461/images/869d7cba42d53a29a7db919263f7fabf.png" group-title="Argentina",AR: Net Tv
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38805
+#EXTINF:-1 tvg-id="" tvg-name="AR: Paka Paka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="Argentina",AR: Paka Paka
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38806
+#EXTINF:-1 tvg-id="" tvg-name="AR: Telefe FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",AR: Telefe FHD
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38807
+#EXTINF:-1 tvg-id="" tvg-name="AR: Telefe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",AR: Telefe HD
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38808
+#EXTINF:-1 tvg-id="" tvg-name="AR: Telefe SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",AR: Telefe SD
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38809
+#EXTINF:-1 tvg-id="" tvg-name="AR: TN" tvg-logo="http://iptv.tvxtremegold.com:25461/images/66c4111646226c8ee4b6439212f36e48.png" group-title="Argentina",AR: TN
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38816
+#EXTINF:-1 tvg-id="" tvg-name="AR: Trece FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Argentina",AR: Trece FHD
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38810
+#EXTINF:-1 tvg-id="" tvg-name="AR: Trece HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Argentina",AR: Trece HD
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38811
+#EXTINF:-1 tvg-id="" tvg-name="AR: Trece SD" tvg-logo="" group-title="Argentina",AR: Trece SD
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38812
+#EXTINF:-1 tvg-id="" tvg-name="AR: Tv Publica FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="Argentina",AR: Tv Publica FHD
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38813
+#EXTINF:-1 tvg-id="" tvg-name="AR: Tv Publica HD" tvg-logo="" group-title="Argentina",AR: Tv Publica HD
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38814
+#EXTINF:-1 tvg-id="" tvg-name="AR: Tv Publica SD" tvg-logo="" group-title="Argentina",AR: Tv Publica SD
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38815
+
+#EXTINF:-1 tvg-id="" tvg-name="CL: Chilevision" tvg-logo="https://www.numeroservicioalcliente.com/wp-content/uploads/2021/08/57104103_2774459089273434_1936527777977073664_n.png" group-title="Chile",CL: Chilevision
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38687
+#EXTINF:-1 tvg-id="" tvg-name="CL: CNN Chile" tvg-logo="http://iptv.tvxtremegold.com:25461/images/214c3dceb0eb001135c058cfd85459af.png" group-title="Chile",CL: CNN Chile
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38691
+#EXTINF:-1 tvg-id="" tvg-name="CL: La Red" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" group-title="Chile",CL: La Red
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38694
+#EXTINF:-1 tvg-id="" tvg-name="CL: Teletrak" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Logoteletrak2008.png/revision/latest?cb=20190903233759&path-prefix=es" group-title="Chile",CL: Teletrak
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38688
+#EXTINF:-1 tvg-id="" tvg-name="CL: TV +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logotipo_de_TV_Chile_%282016-2020%29.png" group-title="Chile",CL: TV +
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38693
+#EXTINF:-1 tvg-id="" tvg-name="CL: TVN  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Televisi%C3%B3n_Nacional_de_Chile_wordmark.svg/1200px-Televisi%C3%B3n_Nacional_de_Chile_wordmark.svg.png" group-title="Chile",CL: TVN  HD
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38689
+#EXTINF:-1 tvg-id="" tvg-name="CL: TVN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Televisi%C3%B3n_Nacional_de_Chile_wordmark.svg/1200px-Televisi%C3%B3n_Nacional_de_Chile_wordmark.svg.png" group-title="Chile",CL: TVN SD
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38692
+#EXTINF:-1 tvg-id="" tvg-name="CL: UCV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Ucvtv2008oficial.png" group-title="Chile",CL: UCV
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38690
+#EXTINF:-1 tvg-id="" tvg-name="CO: Cali Tv" tvg-logo="http://iptv.tvxtremegold.com:25461/images/9584d35fe9e496dc07ae924fa6035251.png" group-title="Colombia",CO: Cali Tv
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38897
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal 1" tvg-logo="http://iptv.tvxtremegold.com:25461/images/e2c87102055a284e21400d35fc35805e.jpeg" group-title="Colombia",CO: Canal 1
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38892
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal Capital" tvg-logo="http://iptv.tvxtremegold.com:25461/images/049332ffb1f6059dff9fc3b74f1b1b40.png" group-title="Colombia",CO: Canal Capital
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38905
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal Caracol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1200px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Colombia",CO: Canal Caracol HD
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38898
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal Caracol SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1200px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Colombia",CO: Canal Caracol SD
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38887
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal Institucional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWZn_Ugr66YDz8m1-rVTdlDqq6xmpQQKqH0_B1116R3ehoGJE3HdZGnN_Jm0JcjKAfFxU&usqp=CAU" group-title="Colombia",CO: Canal Institucional
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38899
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal RCN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/1200px-LogoNTyLR.svg.png" group-title="Colombia",CO: Canal RCN FHD
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38893
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal RCN SD" tvg-logo="http://iptv.tvxtremegold.com:25461/images/bd8fd048a22d73fd12a60493b5264be6.png" group-title="Colombia",CO: Canal RCN SD
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38888
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal Trece" tvg-logo="https://seeklogo.com/images/C/canal-trece-colombia-2005-2012-logo-CF87FBA249-seeklogo.com.png" group-title="Colombia",CO: Canal Trece
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38900
+#EXTINF:-1 tvg-id="" tvg-name="CO: City Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1200px-City_tv_Bogot%C3%A1_logo.svg.png" group-title="Colombia",CO: City Tv
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38889
+#EXTINF:-1 tvg-id="" tvg-name="CO: CNC Medellin" tvg-logo="http://iptv.tvxtremegold.com:25461/images/0e78901dbcff4345f97e7ffef1be4a10.png" group-title="Colombia",CO: CNC Medellin
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38906
+#EXTINF:-1 tvg-id="" tvg-name="CO: Cosmovision" tvg-logo="http://iptv.tvxtremegold.com:25461/images/cc89a93461fb9cf15343227b73fb651a.png" group-title="Colombia",CO: Cosmovision
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38901
+#EXTINF:-1 tvg-id="" tvg-name="CO: CTV Barranquilla" tvg-logo="http://iptv.tvxtremegold.com:25461/images/7cc8936c1b40b85b21b9110d87dbc2ae.jpg" group-title="Colombia",CO: CTV Barranquilla
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38904
+#EXTINF:-1 tvg-id="" tvg-name="CO: La Kalle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/La_Kalle_Colombia_logo.svg/640px-La_Kalle_Colombia_logo.svg.png" group-title="Colombia",CO: La Kalle
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38896
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN Novelas" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/small.RCNnovelas2019.png.102c5239fc0288000fa8c28167afabed.png" group-title="Colombia",CO: RCN Novelas
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38890
 
