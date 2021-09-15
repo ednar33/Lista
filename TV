@@ -464,3 +464,27 @@ http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/34378
 http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/34379
 #EXTINF:-1 tvg-id="" tvg-name="GALAVISION SAN FRANCISCO" tvg-logo="http://home-playtv.com:25461/images/d487a67282a39a57d0039f4b3e243718.png" group-title="Pack Galavision",GALAVISION SAN FRANCISCO
 http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/34392
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="" group-title="Telemundo",TELEMUNDO
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/32926
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 39 DALLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Telemundo_Logo_2018-1.svg/1200px-Telemundo_Logo_2018-1.svg.png" group-title="Telemundo",TELEMUNDO 39 DALLAS
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/26361
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 47 NEW YORK" tvg-logo="http://iptv.tvxtremegold.com:25461/images/6e17e284265d0b9754393eb6fd425cd0.jpg" group-title="Telemundo",TELEMUNDO 47 NEW YORK
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/32686
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 48" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Telemundo_Logo_2018-1.svg/1200px-Telemundo_Logo_2018-1.svg.png" group-title="Telemundo",TELEMUNDO 48
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/29871
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 52 LOS ANGELES" tvg-logo="http://iptv.tvxtremegold.com:25461/images/a4f978fd5a5487db4087f1280bf338bd.jpg" group-title="Telemundo",TELEMUNDO 52 LOS ANGELES
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/32687
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 60 SAN ANTONIO" tvg-logo="https://pbs.twimg.com/profile_images/859099140445396997/wX92o4PO_400x400.jpg" group-title="Telemundo",TELEMUNDO 60 SAN ANTONIO
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/32688
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO BOSTON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Telemundo_Logo_2018-1.svg/1200px-Telemundo_Logo_2018-1.svg.png" group-title="Telemundo",TELEMUNDO BOSTON
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/26368
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO HOUSTON" tvg-logo="https://pbs.twimg.com/profile_images/1118626272664530945/QHg2vOhc_400x400.png" group-title="Telemundo",TELEMUNDO HOUSTON
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/32689
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO LAS VEGAS" tvg-logo="http://iptv.tvxtremegold.com:25461/images/c394704cb880f5433410e60d577a25ad.jpg" group-title="Telemundo",TELEMUNDO LAS VEGAS
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/32690
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO LAT." tvg-logo="" group-title="Telemundo",TELEMUNDO LAT.
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/32691
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Phoenix" tvg-logo="" group-title="Telemundo",Telemundo Phoenix
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/33089
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO Tucson" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Telemundo_Logo_2018-1.svg/1200px-Telemundo_Logo_2018-1.svg.png" group-title="Telemundo",TELEMUNDO Tucson
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/26369
