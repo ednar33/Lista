@@ -434,3 +434,33 @@ http://stalkertvlatino.com:8080/play1/play1/104163
 http://stalkertvlatino.com:8080/play1/play1/104164
 #EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 11" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="TUDN EXTRA",TUDN XTRA 11
 http://stalkertvlatino.com:8080/play1/play1/104165
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION ALBUQUERQUE" tvg-logo="http://home-playtv.com:25461/images/1abda7c4e61fa91e60b3a01e73e9790d.png" group-title="Pack Galavision",GALAVISION ALBUQUERQUE
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/34355
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION ATLANTA" tvg-logo="http://home-playtv.com:25461/images/c388c242c79f90d2faa6ea5a561bb9e9.png" group-title="Pack Galavision",GALAVISION ATLANTA
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/34356
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION AUSTIN" tvg-logo="http://home-playtv.com:25461/images/074aad96a5ed0ce5d5ecce5817b634ad.png" group-title="Pack Galavision",GALAVISION AUSTIN
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/34359
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION CHICAGO" tvg-logo="http://home-playtv.com:25461/images/46fe8ba256e2ddd2d87d6a4f3c89676a.png" group-title="Pack Galavision",GALAVISION CHICAGO
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/34396
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION CLEVELAND" tvg-logo="http://home-playtv.com:25461/images/e6b0612c0b621a848c0792cf5fdf956c.png" group-title="Pack Galavision",GALAVISION CLEVELAND
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/34361
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION DALLAS(0)" tvg-logo="http://home-playtv.com:25461/images/78b48f4d9cd735474a28e122132a36d1.png" group-title="Pack Galavision",GALAVISION DALLAS(0)
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/34363
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION HOUSTON" tvg-logo="http://home-playtv.com:25461/images/0539dfd5b40aee1fdce8be923982be20.png" group-title="Pack Galavision",GALAVISION HOUSTON
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/34369
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION LA" tvg-logo="http://home-playtv.com:25461/images/434fc3232f448901bbca09d1106baeb6.png" group-title="Pack Galavision",GALAVISION LA
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/34372
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION LAS VEGAS" tvg-logo="http://home-playtv.com:25461/images/637b14fec69c1c89563f3b4196b8eebe.png" group-title="Pack Galavision",GALAVISION LAS VEGAS
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/34373
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION NY" tvg-logo="http://home-playtv.com:25461/images/747ce1379c3332219c372af1ec06ecab.png" group-title="Pack Galavision",GALAVISION NY
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/34378
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION PHILADELPHIA" tvg-logo="http://home-playtv.com:25461/images/06641d1908b6dfcb710594724b6fe25b.png" group-title="Pack Galavision",GALAVISION PHILADELPHIA
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/34379
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION SAN FRANCISCO" tvg-logo="http://home-playtv.com:25461/images/d487a67282a39a57d0039f4b3e243718.png" group-title="Pack Galavision",GALAVISION SAN FRANCISCO
+http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/34392
