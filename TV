@@ -113,7 +113,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://lonewolftvpr.com/logos/goldenpremier.png",GOLDEN PREMIER
 http://xtreampanel.vip:2087/Fdoclaro/nDL7XtHc7I/72314
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://ky-iptv.com:25461/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png",TNT SERIES
-http://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=71&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=71&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://ky-iptv.com:25461/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png",TNT SERIES
 http://51.222.105.5:8081/tecno/TNT_Series.TecnoByte/chunks.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://fanboynation.com/wp-content/uploads/2015/04/TNT-Logo.jpg",TNT
