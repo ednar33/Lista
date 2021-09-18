@@ -124,42 +124,15 @@ https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.E-Entertainment-Logo.png.48ac164a4fda8a995b93d1917bb2fed2.png" group-title="ENTRETENIMIENTO", E! ENTERTANMENT
 http://190.210.221.119/Processor3_1_chunklist_b1300000.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="ENTRETENIMIENTO", A&E
-http://195.181.163.39:8080/LAT_A&E_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="ENTRETENIMIENTO", TNT Series
-http://195.181.163.39:8080/LAT_TNT_Series_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="ENTRETENIMIENTO", TNT
-http://195.181.163.39:8080/LAT_TNT_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
-http://195.181.163.39/ARG_HBO/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="ENTRETENIMIENTO", HBO 2
-http://195.181.163.39/ARG_HBO_2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
-http://195.181.163.39/ARG_HBO_PLUS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="ENTRETENIMIENTO", HBO Family
-http://195.181.163.39/ARG_HBO_FAMILY/index.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", DHE
 https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Syfy
-https://qlobbidev.s.llnwi.net:443/bpk-tv/SYFY/hls/SYFY-audio_132113_spa=128000-video=1900000.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Distrito Comedia
 https://qlobbidev.s.llnwi.net/bpk-tv/HISTORY2/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Las Estrellas
 https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Venus
-https://qlobbidev.s.llnwi.net/bpk-tv/VENUS/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Canal RCN
 https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
