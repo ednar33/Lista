@@ -99,9 +99,6 @@ https://qlobbidev.s.llnwi.net/bpk-tv/HISTORY2/hls/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Las Estrellas
 https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Venus
-https://qlobbidev.s.llnwi.net/bpk-tv/VENUS/hls/index.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Canal RCN
 https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
 
