@@ -15,9 +15,6 @@ http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8
 http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES", Fox Sports Argentina
-https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORTS/hls/index.m3u8
-
 
 #EXTINF:-1 tvg-logo=" " grupo-title="DEPORTES", BARZA TV
 http://91.126.138.141:1935/live/barza/playlist.m3u8
