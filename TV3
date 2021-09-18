@@ -120,16 +120,6 @@ https://qlobbidev.s.llnwi.net/bpk-tv/AZMUNDO/hls/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Canal RCN
 https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Telefé
-http://edge1.stg.cvattv.com.ar/live/live2/TelefeHD/SA_Live_fta/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", El Trece
-http://edge1.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Todo Noticias
-http://edge1.stg.cvattv.com.ar/live/live2/TodoNoticias/SA_Live_fta/index.m3u8
-
-
 
 
 
