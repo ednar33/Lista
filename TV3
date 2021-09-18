@@ -128,3 +128,438 @@ http://190.210.221.119/Processor3_1_chunklist_b1300000.m3u8
 https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
 
 
+
+#EXTINF:-1 group-title="Lista 19", Cartoon Network
+http://tv.cablelatino.xyz/hls/BICI/CARTOON.m3u8
+#EXTINF:-1 group-title="Lista 19", Disney Channel
+http://tv.cablelatino.xyz/hls/BICI/DISNEY.m3u8
+#EXTINF:-1 group-title="Lista 19", Disney XD
+http://tv.cablelatino.xyz/hls/BICI/DISNEYXD.m3u8
+#EXTINF:-1 group-title="Lista 19", Disney Jr
+http://tv.cablelatino.xyz/hls/BICI/DISNEYJR.m3u8
+#EXTINF:-1 group-title="Lista 19", NATGEO Kids
+http://tv.cablelatino.xyz/hls/BICI/NATGEOKIDS.m3u8
+#EXTINF:-1 group-title="Lista 19", NICK
+http://tv.cablelatino.xyz/hls/BICI/NICK.m3u8
+#EXTINF:-1 group-title="Lista 19", TEEN NICK
+http://tv.cablelatino.xyz/hls/BICI/TEENNICK.m3u8
+#EXTINF:-1 group-title="Lista 19", NICK MUSIC
+http://tv.cablelatino.xyz/hls/BICI/NICKMUSIC.m3u8
+#EXTINF:-1 group-title="Lista 19", NICK JR
+http://tv.cablelatino.xyz/hls/BICI/NICKJR.m3u8
+#EXTINF:-1 group-title="Lista 19", BabyTV
+http://tv.cablelatino.xyz/hls/BICI/BABYTV.m3u8
+#EXTINF:-1 group-title="Lista 19", Discovery Kids
+http://tv.cablelatino.xyz/hls/BICI/DKIDS.m3u8
+#EXTINF:-1 group-title="Lista 19", Tooncast
+http://tv.cablelatino.xyz/hls/BICI/TOONCAST.m3u8
+#EXTINF:-1 group-title="Lista 19", CNN Internacional
+http://tv.cablelatino.xyz/hls/BICI/CNNINT.m3u8
+#EXTINF:-1 group-title="Lista 19", CNN en Espanol
+http://tv.cablelatino.xyz/hls/BICI/CNNESPANOL.m3u8
+#EXTINF:-1 group-title="Lista 19", CNN en Espanol 2
+http://tv.cablelatino.xyz/hls/BICI/CNNESPANOL2.m3u8
+#EXTINF:-1 group-title="Lista 19", CNN Chile
+http://tv.cablelatino.xyz/hls/BICI/CNN_CHILE.m3u8
+#EXTINF:-1 group-title="Lista 19", 24 Horas
+http://tv.cablelatino.xyz/hls/BICI/24HORAS.m3u8
+#EXTINF:-1 group-title="Lista 19", ADN40
+http://tv.cablelatino.xyz/hls/BICI/ADN40.m3u8
+#EXTINF:-1 group-title="Lista 19", Bloomberg
+http://tv.cablelatino.xyz/hls/BICI/BLOOMBERGLAT.m3u8
+#EXTINF:-1 group-title="Lista 19", Bloomberg [2]
+http://tv.cablelatino.xyz/hls/BICI/BLOOMBERG_LAT.m3u8
+#EXTINF:-1 group-title="Lista 19", CHV
+http://tv.cablelatino.xyz/hls/BICI/CHV.m3u8
+#EXTINF:-1 group-title="Lista 19", El nueve
+http://tv.cablelatino.xyz/hls/BICI/ELNUEVE.m3u8
+#EXTINF:-1 group-title="Lista 19", Telefe
+http://tv.cablelatino.xyz/hls/BICI/TELEFE.m3u8
+#EXTINF:-1 group-title="Lista 19", El trece
+http://tv.cablelatino.xyz/hls/BICI/ELTRECE.m3u8
+#EXTINF:-1 group-title="Lista 19", Lifetime
+http://tv.cablelatino.xyz/hls/BICI/LIFETIME.m3u8
+#EXTINF:-1 group-title="Lista 19", MasChic
+http://tv.cablelatino.xyz/hls/BICI/MASCHIC.m3u8
+#EXTINF:-1 group-title="Lista 19", Hola!
+http://tv.cablelatino.xyz/hls/BICI/HOLATV.m3u8
+#EXTINF:-1 group-title="Lista 19", Telemundo
+http://tv.cablelatino.xyz/hls/BICI/TELEMUNDO.m3u8
+#EXTINF:-1 group-title="Lista 19", Tlnovelas
+http://tv.cablelatino.xyz/hls/BICI/TLNOVELAS.m3u8
+#EXTINF:-1 group-title="Lista 19", Azteca Uno
+http://tv.cablelatino.xyz/hls/BICI/AZTECA1.m3u8
+#EXTINF:-1 group-title="Lista 19", Azteca 7
+http://tv.cablelatino.xyz/hls/BICI/AZTECA7.m3u8
+#EXTINF:-1 group-title="Lista 19", Az Corazon
+http://tv.cablelatino.xyz/hls/BICI/AZCORAZON.m3u8
+#EXTINF:-1 group-title="Lista 19", Univision
+http://tv.cablelatino.xyz/hls/BICI/UNIVISION.m3u8
+#EXTINF:-1 group-title="Lista 19", Caracol TV
+http://tv.cablelatino.xyz/hls/BICI/CARACOLTV.m3u8
+#EXTINF:-1 group-title="Lista 19", Antena 3
+http://tv.cablelatino.xyz/hls/BICI/A3.m3u8
+#EXTINF:-1 group-title="Lista 19", TruTV
+http://tv.cablelatino.xyz/hls/BICI/TRUTV.m3u8
+#EXTINF:-1 group-title="Lista 19", Glitz
+http://tv.cablelatino.xyz/hls/BICI/GLITZ.m3u8
+#EXTINF:-1 group-title="Lista 19", Las Estrellas TV
+http://tv.cablelatino.xyz/hls/BICI/LASESTRELLAS.m3u8
+#EXTINF:-1 group-title="Lista 19", RCN
+http://tv.cablelatino.xyz/hls/BICI/RCN.m3u8
+#EXTINF:-1 group-title="Lista 19", Animal Planet
+http://tv.cablelatino.xyz/hls/BICI/ANIMALPLANET.m3u8
+#EXTINF:-1 group-title="Lista 19", Discovery Channel
+http://tv.cablelatino.xyz/hls/BICI/DISCOVERY.m3u8
+#EXTINF:-1 group-title="Lista 19", Discovery Turbo
+http://tv.cablelatino.xyz/hls/BICI/DTURBO.m3u8
+#EXTINF:-1 group-title="Lista 19", Discovery World
+http://tv.cablelatino.xyz/hls/BICI/DWORLD.m3u8
+#EXTINF:-1 group-title="Lista 19", Discovery Theater
+http://tv.cablelatino.xyz/hls/BICI/DTHEATER.m3u8
+#EXTINF:-1 group-title="Lista 19", Discovery Sciences
+http://tv.cablelatino.xyz/hls/BICI/DSCIENCES.m3u8
+#EXTINF:-1 group-title="Lista 19", Discovery H&H
+http://tv.cablelatino.xyz/hls/BICI/DHYH.m3u8
+#EXTINF:-1 group-title="Lista 19", Investigation Discovery
+http://tv.cablelatino.xyz/hls/BICI/ID.m3u8
+#EXTINF:-1 group-title="Lista 19", TLC
+http://tv.cablelatino.xyz/hls/BICI/TLC.m3u8
+#EXTINF:-1 group-title="Lista 19", History Channel
+http://tv.cablelatino.xyz/hls/BICI/HISTORY.m3u8
+#EXTINF:-1 group-title="Lista 19", History 2
+http://tv.cablelatino.xyz/hls/BICI/H2.m3u8
+#EXTINF:-1 group-title="Lista 19", NATGEO
+http://tv.cablelatino.xyz/hls/BICI/NATGEO.m3u8
+#EXTINF:-1 group-title="Lista 19", NATGEO Wild
+http://tv.cablelatino.xyz/hls/BICI/NATGEOWILD.m3u8
+#EXTINF:-1 group-title="Lista 19", A&E
+http://tv.cablelatino.xyz/hls/BICI/AYE.m3u8
+#EXTINF:-1 group-title="Lista 19", El Gourmet
+http://tv.cablelatino.xyz/hls/BICI/ELGOURMET.m3u8
+#EXTINF:-1 group-title="Lista 19", ComedyCentral
+http://tv.cablelatino.xyz/hls/BICI/COMEDYCENTRAL.m3u8
+#EXTINF:-1 group-title="Lista 19", Distrito Comedia
+http://tv.cablelatino.xyz/hls/BICI/DISTRITOCOMEDIA.m3u8
+#EXTINF:-1 group-title="Lista 19", Star Channel
+http://tv.cablelatino.xyz/hls/BICI/FOX.m3u8
+#EXTINF:-1 group-title="Lista 19", Star Life
+http://tv.cablelatino.xyz/hls/BICI/FOXLIFE.m3u8
+#EXTINF:-1 group-title="Lista 19", Star Action
+http://tv.cablelatino.xyz/hls/BICI/FOXACTION.m3u8
+#EXTINF:-1 group-title="Lista 19", Star Cinema
+http://tv.cablelatino.xyz/hls/BICI/FOXCINEMA.m3u8
+#EXTINF:-1 group-title="Lista 19", Star Comedy
+http://tv.cablelatino.xyz/hls/BICI/FOXCOMEDY.m3u8
+#EXTINF:-1 group-title="Lista 19", Star Classic
+http://tv.cablelatino.xyz/hls/BICI/FOXCLASSIC.m3u8
+#EXTINF:-1 group-title="Lista 19", Star Fun
+http://tv.cablelatino.xyz/hls/BICI/FOXFAMILY.m3u8
+#EXTINF:-1 group-title="Lista 19", Star Series
+http://tv.cablelatino.xyz/hls/BICI/FOXSERIES.m3u8
+#EXTINF:-1 group-title="Lista 19", Star Hits
+http://tv.cablelatino.xyz/hls/BICI/FOXMOVIES.m3u8
+#EXTINF:-1 group-title="Lista 19", HBO
+http://tv.cablelatino.xyz/hls/BICI/HBO.m3u8
+#EXTINF:-1 group-title="Lista 19", HBO2
+http://tv.cablelatino.xyz/hls/BICI/HBO2.m3u8
+#EXTINF:-1 group-title="Lista 19", HBO PLUS
+http://tv.cablelatino.xyz/hls/BICI/HBOPLUS.m3u8
+#EXTINF:-1 group-title="Lista 19", HBO FAMILY
+http://tv.cablelatino.xyz/hls/BICI/HBOFAMILY.m3u8
+#EXTINF:-1 group-title="Lista 19", HBO SIGNATURE
+http://tv.cablelatino.xyz/hls/BICI/HBOSIGNATURE.m3u8
+#EXTINF:-1 group-title="Lista 19", HBO MUNDI
+http://tv.cablelatino.xyz/hls/BICI/HBOMUNDI.m3u8
+#EXTINF:-1 group-title="Lista 19", HBO POP
+http://tv.cablelatino.xyz/hls/BICI/HBOPOP.m3u8
+#EXTINF:-1 group-title="Lista 19", HBO XTREME
+http://tv.cablelatino.xyz/hls/BICI/HBOXTREME.m3u8
+#EXTINF:-1 group-title="Lista 19", AMC
+http://tv.cablelatino.xyz/hls/BICI/AMC.m3u8
+#EXTINF:-1 group-title="Lista 19", Warner TV
+http://tv.cablelatino.xyz/hls/BICI/WARNER.m3u8
+#EXTINF:-1 group-title="Lista 19", Universal TV
+http://tv.cablelatino.xyz/hls/BICI/UNIVERSAL.m3u8
+#EXTINF:-1 group-title="Lista 19", FX
+http://tv.cablelatino.xyz/hls/BICI/FX.m3u8
+#EXTINF:-1 group-title="Lista 19", FXM
+http://tv.cablelatino.xyz/hls/BICI/FXM.m3u8
+#EXTINF:-1 group-title="Lista 19", AXN
+http://tv.cablelatino.xyz/hls/BICI/AXN.m3u8
+#EXTINF:-1 group-title="Lista 19", Sony Channel
+http://tv.cablelatino.xyz/hls/BICI/SONY.m3u8
+#EXTINF:-1 group-title="Lista 19", TNT
+http://tv.cablelatino.xyz/hls/BICI/TNT.m3u8
+#EXTINF:-1 group-title="Lista 19", TNT Series
+http://tv.cablelatino.xyz/hls/BICI/TNTSERIES.m3u8
+#EXTINF:-1 group-title="Lista 19", Space
+http://tv.cablelatino.xyz/hls/BICI/SPACE.m3u8
+#EXTINF:-1 group-title="Lista 19", Studio Universal
+http://tv.cablelatino.xyz/hls/BICI/STUDIOUNIVERSAL.m3u8
+#EXTINF:-1 group-title="Lista 19", TBS
+http://tv.cablelatino.xyz/hls/BICI/TBS.m3u8
+#EXTINF:-1 group-title="Lista 19", TCM
+http://tv.cablelatino.xyz/hls/BICI/TCM.m3u8
+#EXTINF:-1 group-title="Lista 19", Cinecanal
+http://tv.cablelatino.xyz/hls/BICI/CINECANAL.m3u8
+#EXTINF:-1 group-title="Lista 19", Cinemax
+http://tv.cablelatino.xyz/hls/BICI/CINEMAX.m3u8
+#EXTINF:-1 group-title="Lista 19", Paramount Channel
+http://tv.cablelatino.xyz/hls/BICI/PARAMOUNT.m3u8
+#EXTINF:-1 group-title="Lista 19", Golden
+http://tv.cablelatino.xyz/hls/BICI/GOLDEN.m3u8
+#EXTINF:-1 group-title="Lista 19", Golden Premier
+http://tv.cablelatino.xyz/hls/BICI/GOLDENPREMIER.m3u8
+#EXTINF:-1 group-title="Lista 19", DEPELICULA
+http://tv.cablelatino.xyz/hls/BICI/DEPELICULA.m3u8
+#EXTINF:-1 group-title="Lista 19", MTV
+http://tv.cablelatino.xyz/hls/BICI/MTV.m3u8
+#EXTINF:-1 group-title="Lista 19", MTV Live
+http://tv.cablelatino.xyz/hls/BICI/MTVLIVE.m3u8
+#EXTINF:-1 group-title="Lista 19", MTV Hits
+http://tv.cablelatino.xyz/hls/BICI/MTVHITS.m3u8
+#EXTINF:-1 group-title="Lista 19", VH1 CLASSIC
+http://tv.cablelatino.xyz/hls/BICI/VH1CLASSIC.m3u8
+#EXTINF:-1 group-title="Lista 19", VH1
+http://tv.cablelatino.xyz/hls/BICI/VH1.m3u8
+#EXTINF:-1 group-title="Lista 19", Ecuador | Canal Uno
+http://tv.cablelatino.xyz/hls/BICI/EC_CANALUNO.m3u8
+#EXTINF:-1 group-title="Lista 19", Ecuador | ECDF
+http://tv.cablelatino.xyz/hls/BICI/EC_ECDF.m3u8
+#EXTINF:-1 group-title="Lista 19", Ecuador | Ecuador TV
+http://tv.cablelatino.xyz/hls/BICI/EC_TV.m3u8
+#EXTINF:-1 group-title="Lista 19", Ecuador | Ecuavisa
+http://tv.cablelatino.xyz/hls/BICI/EC_ECUAVISA.m3u8
+#EXTINF:-1 group-title="Lista 19", Ecuador | Gamavision
+http://tv.cablelatino.xyz/hls/BICI/EC_GAMAVISION.m3u8
+#EXTINF:-1 group-title="Lista 19", Ecuador | GolTV
+http://tv.cablelatino.xyz/hls/BICI/EC_GOLTV.m3u8
+#EXTINF:-1 group-title="Lista 19", Ecuador | Oromar
+http://tv.cablelatino.xyz/hls/BICI/EC_OROMAR.m3u8
+#EXTINF:-1 group-title="Lista 19", Ecuador | RTS
+http://tv.cablelatino.xyz/hls/BICI/EC_RTS.m3u8
+#EXTINF:-1 group-title="Lista 19", Ecuador | Televicentro
+http://tv.cablelatino.xyz/hls/BICI/EC_TELEVICENTRO.m3u8
+#EXTINF:-1 group-title="Lista 19", Ecuador | GolTV_
+http://tv.cablelatino.xyz/hls/BICI/EC_GOLTV2.m3u8
+#EXTINF:-1 group-title="Lista 19", Colombia | Cablenoticias
+http://tv.cablelatino.xyz/hls/BICI/CO_CABLENOTICIAS.m3u8
+#EXTINF:-1 group-title="Lista 19", Colombia | Canal Trece
+http://tv.cablelatino.xyz/hls/BICI/CO_CANAL13.m3u8
+#EXTINF:-1 group-title="Lista 19", Colombia | Canal Uno
+http://tv.cablelatino.xyz/hls/BICI/CO_CANAL1.m3u8
+#EXTINF:-1 group-title="Lista 19", Colombia | Caracol
+http://tv.cablelatino.xyz/hls/BICI/CO_CARACOL.m3u8
+#EXTINF:-1 group-title="Lista 19", Colombia | Caracol Internacional
+http://tv.cablelatino.xyz/hls/BICI/CO_CARACOLINTERNACIONAL.m3u8
+#EXTINF:-1 group-title="Lista 19", Colombia | CityTV
+http://tv.cablelatino.xyz/hls/BICI/CO_CITYTV.m3u8
+#EXTINF:-1 group-title="Lista 19", Colombia | NTN24
+http://tv.cablelatino.xyz/hls/BICI/CO_NTN24.m3u8
+#EXTINF:-1 group-title="Lista 19", Colombia | RNC
+http://tv.cablelatino.xyz/hls/BICI/CO_RNC.m3u8
+#EXTINF:-1 group-title="Lista 19", Argentina | A24
+http://tv.cablelatino.xyz/hls/BICI/AR_A24.m3u8
+#EXTINF:-1 group-title="Lista 19", Argentina | AmericaTV
+http://tv.cablelatino.xyz/hls/BICI/AR_AMERICATV.m3u8
+#EXTINF:-1 group-title="Lista 19", Argentina | Canal 26
+http://tv.cablelatino.xyz/hls/BICI/AR_CANAL26.m3u8
+#EXTINF:-1 group-title="Lista 19", Argentina | Garage TV
+http://tv.cablelatino.xyz/hls/BICI/AR_GARAGETV.m3u8
+#EXTINF:-1 group-title="Lista 19", Argentina | El Nueve
+http://tv.cablelatino.xyz/hls/BICI/AR_ELNUEVE.m3u8
+#EXTINF:-1 group-title="Lista 19", Argentina | El Trece
+http://tv.cablelatino.xyz/hls/BICI/AR_ELTRECE.m3u8
+#EXTINF:-1 group-title="Lista 19", Argentina | Encuentro
+http://tv.cablelatino.xyz/hls/BICI/AR_ENCUENTRO.m3u8
+#EXTINF:-1 group-title="Lista 19", Argentina | Telefe
+http://tv.cablelatino.xyz/hls/BICI/AR_TELEFE.m3u8
+#EXTINF:-1 group-title="Lista 19", Argentina | Television Publica
+http://tv.cablelatino.xyz/hls/BICI/AR_TELEVISIONPUBLICA.m3u8
+#EXTINF:-1 group-title="Lista 19", Argentina | Todo Noticias
+http://tv.cablelatino.xyz/hls/BICI/AR_TODONOTICIAS.m3u8
+#EXTINF:-1 group-title="Lista 19", Argentina | TNT Sports
+http://tv.cablelatino.xyz/hls/BICI/AR_TNTSPORTS.m3u8
+#EXTINF:-1 group-title="Lista 19", Chile | 13C
+http://tv.cablelatino.xyz/hls/BICI/CL_13C.m3u8
+#EXTINF:-1 group-title="Lista 19", Chile | Canal Trece
+http://tv.cablelatino.xyz/hls/BICI/CL_CANAL13.m3u8
+#EXTINF:-1 group-title="Lista 19", Chile | Canal 24
+http://tv.cablelatino.xyz/hls/BICI/CL_CANAL24.m3u8
+#EXTINF:-1 group-title="Lista 19", Chile | TNT Sports
+http://tv.cablelatino.xyz/hls/BICI/CL_TNTSPORTS.m3u8
+#EXTINF:-1 group-title="Lista 19", Chile | TNT Sports 3
+http://tv.cablelatino.xyz/hls/BICI/CL_TNTSPORTS3.m3u8
+#EXTINF:-1 group-title="Lista 19", Chile | TNT Sports 2
+http://tv.cablelatino.xyz/hls/BICI/CL_TNTSPORTS2.m3u8
+#EXTINF:-1 group-title="Lista 19", Chile | Chilevision
+http://tv.cablelatino.xyz/hls/BICI/CL_CHILEVISION.m3u8
+#EXTINF:-1 group-title="Lista 19", Chile | CNN Chile
+http://tv.cablelatino.xyz/hls/BICI/CL_CNN.m3u8
+#EXTINF:-1 group-title="Lista 19", Chile | Mega
+http://tv.cablelatino.xyz/hls/BICI/CL_MEGA.m3u8
+#EXTINF:-1 group-title="Lista 19", Chile | Teletrak
+http://tv.cablelatino.xyz/hls/BICI/CL_TELETRAK.m3u8
+#EXTINF:-1 group-title="Lista 19", Chile | TVN
+http://tv.cablelatino.xyz/hls/BICI/CL_TVN.m3u8
+#EXTINF:-1 group-title="Lista 19", Uruguay | VTV Plus
+http://tv.cablelatino.xyz/hls/BICI/UY_VTVPLUS.m3u8
+#EXTINF:-1 group-title="Lista 19", Uruguay | VTV
+http://tv.cablelatino.xyz/hls/BICI/UY_VTV.m3u8
+#EXTINF:-1 group-title="Lista 19", Peru | AmericaTV
+http://tv.cablelatino.xyz/hls/BICI/PE_AMERICATV.m3u8
+#EXTINF:-1 group-title="Lista 19", Peru | AntaresTV
+http://tv.cablelatino.xyz/hls/BICI/PE_ANTARESTV.m3u8
+#EXTINF:-1 group-title="Lista 19", Peru | ATV
+http://tv.cablelatino.xyz/hls/BICI/PE_ATV.m3u8
+#EXTINF:-1 group-title="Lista 19", Peru | Canal IPE
+http://tv.cablelatino.xyz/hls/BICI/PE_CANALIPE.m3u8
+#EXTINF:-1 group-title="Lista 19", Peru | CANAL N
+http://tv.cablelatino.xyz/hls/BICI/PE_CANALN.m3u8
+#EXTINF:-1 group-title="Lista 19", Peru | GolPeru
+http://tv.cablelatino.xyz/hls/BICI/PE_GOLPERU.m3u8
+#EXTINF:-1 group-title="Lista 19", Peru | Movistar Deportes
+http://tv.cablelatino.xyz/hls/BICI/PE_MOVISTARDEPORTES.m3u8
+#EXTINF:-1 group-title="Lista 19", Peru | Movistar +
+http://tv.cablelatino.xyz/hls/BICI/PE_MOVISTARPLUS.m3u8
+#EXTINF:-1 group-title="Lista 19", Peru | Panamericana
+http://tv.cablelatino.xyz/hls/BICI/PE_PANAMERICANA.m3u8
+#EXTINF:-1 group-title="Lista 19", Peru | TV Peru
+http://tv.cablelatino.xyz/hls/BICI/PE_TVPERU.m3u8
+#EXTINF:-1 group-title="Lista 19", Peru | TV Magico
+http://tv.cablelatino.xyz/hls/BICI/PE_TVMAGICO.m3u8
+#EXTINF:-1 group-title="Lista 19", Peru | Telemundo
+http://tv.cablelatino.xyz/hls/BICI/PR_TELEMUNDO.m3u8
+#EXTINF:-1 group-title="Lista 19", Puerto Rico | Wapa
+http://tv.cablelatino.xyz/hls/BICI/PR_WAPA.m3u8
+#EXTINF:-1 group-title="Lista 19", Puerto Rico | Wapa America 
+http://tv.cablelatino.xyz/hls/BICI/PR_WAPAAMERICA.m3u8
+#EXTINF:-1 group-title="Lista 19", Panama | Canal 23
+http://tv.cablelatino.xyz/hls/BICI/PA_CANAL23.m3u8
+#EXTINF:-1 group-title="Lista 19", Panama | Nex Canal
+http://tv.cablelatino.xyz/hls/BICI/PA_NEXCANAL.m3u8
+#EXTINF:-1 group-title="Lista 19", Panama | RPC 4
+http://tv.cablelatino.xyz/hls/BICI/PA_RPC4.m3u8
+#EXTINF:-1 group-title="Lista 19", Panama | Ser TV
+http://tv.cablelatino.xyz/hls/BICI/PA_SERTV.m3u8
+#EXTINF:-1 group-title="Lista 19", Panama | Telemetro
+http://tv.cablelatino.xyz/hls/BICI/PA_TELEMETRO.m3u8
+#EXTINF:-1 group-title="Lista 19", Panama | Telemax
+http://tv.cablelatino.xyz/hls/BICI/PA_TVMAX.m3u8
+#EXTINF:-1 group-title="Lista 19", Panama | TVN
+http://tv.cablelatino.xyz/hls/BICI/PA_TVN.m3u8
+#EXTINF:-1 group-title="Lista 19", Panama | EcoTV
+http://tv.cablelatino.xyz/hls/BICI/PA_ECOTV.m3u8
+#EXTINF:-1 group-title="Lista 19", Costa Rica | Teletica 7
+http://tv.cablelatino.xyz/hls/BICI/CR_TELETICA7.m3u8
+#EXTINF:-1 group-title="Lista 19", Costa Rica | Repretel 4
+http://tv.cablelatino.xyz/hls/BICI/CR_REPRETEL4.m3u8
+#EXTINF:-1 group-title="Lista 19", Costa Rica | Teletica 7 _
+http://tv.cablelatino.xyz/hls/BICI/CR_TELETICA7_.m3u8
+#EXTINF:-1 group-title="Lista 19", Costa Rica | TeleUno
+http://tv.cablelatino.xyz/hls/BICI/CR_TELEUNO.m3u8
+#EXTINF:-1 group-title="Lista 19", Costa Rica | 88 Stereo
+http://tv.cablelatino.xyz/hls/BICI/CR_88STEREO.m3u8
+#EXTINF:-1 group-title="Lista 19", Costa Rica | Ticavision
+http://tv.cablelatino.xyz/hls/BICI/CR_TICAVISION52.m3u8
+#EXTINF:-1 group-title="Lista 19", Paraguay | Tigo Sports
+http://tv.cablelatino.xyz/hls/BICI/PY_TIGOSPORTS.m3u8
+#EXTINF:-1 group-title="Lista 19", Paraguay | Tigo Sports +
+http://tv.cablelatino.xyz/hls/BICI/PY_TIGOSPORTSPLUS.m3u8
+#EXTINF:-1 group-title="Lista 19", Paraguay | Unicanal
+http://tv.cablelatino.xyz/hls/BICI/PY_UNICANAL.m3u8
+#EXTINF:-1 group-title="Lista 19", Paraguay | Telefuturo
+http://tv.cablelatino.xyz/hls/BICI/PY_TELEFUTURO.m3u8
+#EXTINF:-1 group-title="Lista 19", Paraguay | Paraguay TV
+http://tv.cablelatino.xyz/hls/BICI/PY_PARAGUAYTV.m3u8
+#EXTINF:-1 group-title="Lista 19", Venezuela | Telesur
+http://tv.cablelatino.xyz/hls/BICI/PY_TELESUR.m3u8
+#EXTINF:-1 group-title="Lista 19", Venezuela | Venevision
+http://tv.cablelatino.xyz/hls/BICI/VE_VENEVISION.m3u8
+#EXTINF:-1 group-title="Lista 19", Venezuela | Venevision +
+http://tv.cablelatino.xyz/hls/BICI/VE_VENEVISIONPLUS.m3u8
+#EXTINF:-1 group-title="Lista 19", DIRECTV SPORT
+http://tv.cablelatino.xyz/hls/BICI/DIRECTV_SPORT.m3u8
+#EXTINF:-1 group-title="Lista 19", DIRECTV SPORT 2
+http://tv.cablelatino.xyz/hls/BICI/DIRECTV_SPORT2.m3u8
+#EXTINF:-1 group-title="Lista 19", DIRECTV SPORT PLUS
+http://tv.cablelatino.xyz/hls/BICI/DIRECTV_SPORTPLUS.m3u8
+#EXTINF:-1 group-title="Lista 19", AyM Sport
+http://tv.cablelatino.xyz/hls/BICI/AYMSPORT.m3u8
+#EXTINF:-1 group-title="Lista 19", Fox Sport LAT
+http://tv.cablelatino.xyz/hls/BICI/FOXSPORT_LAT.m3u8
+#EXTINF:-1 group-title="Lista 19", Fox Sport 2 LAT
+http://tv.cablelatino.xyz/hls/BICI/FOXSPORT2_LAT.m3u8
+#EXTINF:-1 group-title="Lista 19", Fox Sport 3 LAT
+http://tv.cablelatino.xyz/hls/BICI/FOXSPORT3_LAT.m3u8
+#EXTINF:-1 group-title="Lista 19", Fox Sport MEX
+http://tv.cablelatino.xyz/hls/BICI/FOXSPORT_MEX.m3u8
+#EXTINF:-1 group-title="Lista 19", Fox Sport 2 MEX
+http://tv.cablelatino.xyz/hls/BICI/FOXSPORT2_MEX.m3u8
+#EXTINF:-1 group-title="Lista 19", Fox Sport 3 MEX
+http://tv.cablelatino.xyz/hls/BICI/FOXSPORT3_MEX.m3u8
+#EXTINF:-1 group-title="Lista 19", ESPN LAT
+http://tv.cablelatino.xyz/hls/BICI/ESPN_LAT.m3u8
+#EXTINF:-1 group-title="Lista 19", ESPN 2 LAT
+http://tv.cablelatino.xyz/hls/BICI/ESPN2_LAT.m3u8
+#EXTINF:-1 group-title="Lista 19", ESPN 3 LAT
+http://tv.cablelatino.xyz/hls/BICI/ESPN3_LAT.m3u8
+#EXTINF:-1 group-title="Lista 19", ESPN EXTRA LAT
+http://tv.cablelatino.xyz/hls/BICI/ESPNPLUS_LAT.m3u8
+#EXTINF:-1 group-title="Lista 19", ESPN MEX
+http://tv.cablelatino.xyz/hls/BICI/ESPN_MEX.m3u8
+#EXTINF:-1 group-title="Lista 19", ESPN 2 MEX
+http://tv.cablelatino.xyz/hls/BICI/ESPN2_MEX.m3u8
+#EXTINF:-1 group-title="Lista 19", ESPN 3 MEX
+http://tv.cablelatino.xyz/hls/BICI/ESPN3_MEX.m3u8
+#EXTINF:-1 group-title="Lista 19", ESPN EXTRA MEX
+http://tv.cablelatino.xyz/hls/BICI/ESPNPLUS_MEX.m3u8
+#EXTINF:-1 group-title="Lista 19", ECDF : El Canal del Futbol 
+http://tv.cablelatino.xyz/hls/BICI/ECDF.m3u8
+#EXTINF:-1 group-title="Lista 19", GOLTV
+http://tv.cablelatino.xyz/hls/BICI/GOLTV.m3u8
+#EXTINF:-1 group-title="Lista 19", GOLTV ALT
+http://tv.cablelatino.xyz/hls/BICI/GOLTV2.m3u8
+#EXTINF:-1 group-title="Lista 19", CLARO SPORT
+http://tv.cablelatino.xyz/hls/BICI/CLAROSPORT.m3u8
+#EXTINF:-1 group-title="Lista 19", CLARO SPORT 2
+http://tv.cablelatino.xyz/hls/BICI/CLAROSPORT2.m3u8
+#EXTINF:-1 group-title="Lista 19", TUDN USA
+http://tv.cablelatino.xyz/hls/BICI/TUDN_USA.m3u8
+#EXTINF:-1 group-title="Lista 19", GOLF TV
+http://tv.cablelatino.xyz/hls/BICI/GOLFTV.m3u8
+#EXTINF:-1 group-title="Lista 19", GARAGE TV
+http://tv.cablelatino.xyz/hls/BICI/GARAGETV.m3u8
+#EXTINF:-1 group-title="Lista 19", 24/7 | Thunder Cats
+http://tv.cablelatino.xyz/hls/BICI/247_THUNDERCATS.m3u8
+#EXTINF:-1 group-title="Lista 19", 24/7 | Los Simpsons
+http://tv.cablelatino.xyz/hls/BICI/247_SIMPSONS.m3u8
+#EXTINF:-1 group-title="Lista 19", 24/7 | Los Simpsons [2]
+http://tv.cablelatino.xyz/hls/BICI/247_SIMPSON.m3u8
+#EXTINF:-1 group-title="Lista 19", 24/7 | Malcolm el de enmedio
+http://tv.cablelatino.xyz/hls/BICI/247_MALCOLM.m3u8
+#EXTINF:-1 group-title="Lista 19", 24/7 | Alf
+http://tv.cablelatino.xyz/hls/BICI/247_ALF.m3u8
+#EXTINF:-1 group-title="Lista 19", 24/7 | Animaniatics
+http://tv.cablelatino.xyz/hls/BICI/247_ANIMANIATICS.m3u8
+#EXTINF:-1 group-title="Lista 19", 24/7 | Bob Esponja
+http://tv.cablelatino.xyz/hls/BICI/247_BOBESPONJA.m3u8
+#EXTINF:-1 group-title="Lista 19", 24/7 | El Chavo del 8
+http://tv.cablelatino.xyz/hls/BICI/247_CHAVO.m3u8
+#EXTINF:-1 group-title="Lista 19", 24/7 | Futurama
+http://tv.cablelatino.xyz/hls/BICI/247_FUTURAMA.m3u8
+#EXTINF:-1 group-title="Lista 19", 24/7 | Pantera Rosa
+http://tv.cablelatino.xyz/hls/BICI/247_PANTERAROSA.m3u8
+#EXTINF:-1 group-title="Lista 19", 24/7 | Teoria del Bing Bang
+http://tv.cablelatino.xyz/hls/BICI/247_BINGBANG.m3u8
+#EXTINF:-1 group-title="Lista 19", 24/7 | Pokemon
+http://tv.cablelatino.xyz/hls/BICI/247_POKEMON.m3u8
+#EXTINF:-1 group-title="Lista 19", 24/7 | Smallville
+http://tv.cablelatino.xyz/hls/BICI/247_SMALLVILLE.m3u8
+#EXTINF:-1 group-title="Lista 19", 24/7 | Como conoci a tu madre
+http://tv.cablelatino.xyz/hls/BICI/247_MADRE.m3u8
+#EXTINF:-1 group-title="Lista 19", 24/7 | Supercampeones
+http://tv.cablelatino.xyz/hls/BICI/247_SUPERCAMPEONES.m3u8
+
+
