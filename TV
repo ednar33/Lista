@@ -137,13 +137,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz8
 #EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/latino/fxm.png" group-title="ENTRETENIMIENTO", FXM
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=138&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://ewscripps.brightspotcdn.com/2c/7a/2284f50e49c1b7595592ddfc51f5/hbo.png",HBO
-http://51.222.85.225:25461/3007156991/6991/3307
+http://45.225.204.7:8000/play/a021
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/HBO2HD.png",HBO 2
-http://51.222.85.225:25461/3007156991/6991/3308
+http://45.225.204.7:8000/play/a00h
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/HBOPLUS.png",HBO +
-http://51.222.85.225:25461/3007156991/6991/3413
+http://45.225.204.7:8000/play/a00i
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/HBO_FAMILY.png",HBO FAMILY
-http://iptv.tvxtremegold.com:25461/Daniel2021/TvxSiempre/38822
+http://45.225.204.7:8000/play/a00k
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/hbo_extreme.png",HBO XTREME
 http://51.222.85.225:25461/3007156991/6991/3418
 #EXTINF:-1 group-title="Cine" tvg-logo="http://ky-iptv.com:25461/images/fea2c7bc1534ae8e1371c00017050757.png",HBO POP
@@ -165,7 +165,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/49Z7vBe.png",STAR FUN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=1724&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/49Z7vBe.png",STAR FUN
-http://51.222.85.225:25461/3007156991/6991/3401
+http://45.225.204.7:8000/play/a05l
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-comedy_m.png",STAR COMEDY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=b9tuqz85jccwyf2&lchId=1725&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starcinema.png",STAR CINEMA
