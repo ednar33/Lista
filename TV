@@ -141,9 +141,9 @@ http://zeroxtv.xyz:2082/peruapps/Morosquitotv2021/71655
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/HBO2HD.png",HBO 2
 http://201.168.205.12:8000/play/a0ct/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/HBOPLUS.png",HBO +
-http://zeroxtv.xyz:2082/peruapps/Morosquitotv2021/71658
+http://201.168.205.12:8000/play/a0cv/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/HBO_FAMILY.png",HBO FAMILY
-http://zeroxtv.xyz:2082/peruapps/Morosquitotv2021/71657
+http://201.168.205.12:8000/play/a0cu/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/hbo_extreme.png",HBO XTREME
 http://zeroxtv.xyz:2082/peruapps/Morosquitotv2021/91197
 #EXTINF:-1 group-title="Cine" tvg-logo="http://ky-iptv.com:25461/images/fea2c7bc1534ae8e1371c00017050757.png",HBO POP
