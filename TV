@@ -113,7 +113,7 @@ http://zeroxtv.xyz:2082/peruapps/Morosquitotv2021/71652
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://ky-iptv.com:25461/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png",TNT SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=71&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://ky-iptv.com:25461/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png",TNT SERIES
-http://zeroxtv.xyz:2082/peruapps/Morosquitotv2021/71681
+http://201.168.205.12:8000/play/a0da/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://fanboynation.com/wp-content/uploads/2015/04/TNT-Logo.jpg",TNT
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=126&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://ky-iptv.com:25461/images/64a7b6b42fc5c3576ebf031cc07dd919.png",TCM
@@ -137,7 +137,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vi
 #EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/latino/fxm.png" group-title="ENTRETENIMIENTO", FXM
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=138&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://ewscripps.brightspotcdn.com/2c/7a/2284f50e49c1b7595592ddfc51f5/hbo.png",HBO
-http://zeroxtv.xyz:2082/peruapps/Morosquitotv2021/71655
+http://201.168.205.12:8000/play/a0c5/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/HBO2HD.png",HBO 2
 http://201.168.205.12:8000/play/a0ct/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/HBOPLUS.png",HBO +
@@ -145,7 +145,7 @@ http://201.168.205.12:8000/play/a0cv/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/HBO_FAMILY.png",HBO FAMILY
 http://201.168.205.12:8000/play/a0cu/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/hbo_extreme.png",HBO XTREME
-http://zeroxtv.xyz:2082/peruapps/Morosquitotv2021/91197
+http://201.168.205.12:8000/play/a096/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://ky-iptv.com:25461/images/fea2c7bc1534ae8e1371c00017050757.png",HBO POP
 http://zeroxtv.xyz:2082/peruapps/Morosquitotv2021/91199
 #EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/UWB6lC9.jpg",HBO MUNDI
@@ -165,7 +165,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vi
 #EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/49Z7vBe.png",STAR FUN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=1724&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://i.imgur.com/49Z7vBe.png",STAR FUN
-http://zeroxtv.xyz:2082/peruapps/Morosquitotv2021/71641
+http://201.168.205.12:8000/play/a0dn/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-comedy_m.png",STAR COMEDY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=1725&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starcinema.png",STAR CINEMA
@@ -283,7 +283,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vi
 #EXTINF:-1 group-title="Cultura" tvg-logo="http://ky-iptv.com:25461/images/ded5e060d8dab8d4317c3568834c94cf.png",HISTORY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=89&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cultura" tvg-logo="http://ky-iptv.com:25461/images/5677c2d37108e6dbf1266d4f4a61e301.PNG",H2
-http://zeroxtv.xyz:2082/peruapps/Morosquitotv2021/91209
+http://201.168.205.12:8000/play/a0dj/index.m3u8
 #EXTINF:-1 tvg-logo="http://ky-iptv.com:25461/images/2adecf47066d183750c323ff430d4704.png",ANIMAL PLANET
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=2378&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cultura" tvg-logo="http://lonewolftvpr.com/logos/garage.png",GARAGE TV
