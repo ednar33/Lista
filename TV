@@ -64,6 +64,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vi
 https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://ky-iptv.com:25461/images/1d5f8ab98adca6c1a02e0dff8c761f3f.png" ,TVC
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=2156&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://xtream-coders.com/x0/latino/televisa_puebla.png",TELEVISA MONTERREY
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=2307&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://xtream-coders.com/x0/latino/televisa_puebla.png",TELEVISA PUEBLA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=2312&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://xtream-coders.com/x0/latino/televisa_puebla.png",TELEVISA BAJÍO 
