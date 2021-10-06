@@ -220,6 +220,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vi
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=94&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://ky-iptv.com:25461/images/a9252dcb4eae3a97e0dd312d42125937.png",GLITZ
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=76&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="",TVE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=198&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://ky-iptv.com:25461/images/481dd172f2967d63bb42ae051dc95f73.png",STAR TVE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=2375&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://ky-iptv.com:25461/images/f1f3d8f737ed0f285c636273d5b52f17.png",FOOD NETWORK
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=2145&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://ky-iptv.com:25461/images/873dcae064fdbb8be90c81f1b3f93073.png",GOURMET
@@ -300,8 +304,6 @@ http://201.168.205.12:8000/play/a0dj/index.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=2378&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cultura" tvg-logo="http://lonewolftvpr.com/logos/garage.png",GARAGE TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=75&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Cultura" tvg-logo="http://ky-iptv.com:25461/images/481dd172f2967d63bb42ae051dc95f73.png",STAR TVE
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=2375&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Música" tvg-logo="http://ky-iptv.com:25461/images/510c690365435b71120db02a607408a0.png",MTV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=212&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Música" tvg-logo="http://ky-iptv.com:25461/images/d73c45a6056261b86853e4743093a0ea.png",MTV HITS
