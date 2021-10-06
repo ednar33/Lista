@@ -48,6 +48,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vi
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=1253&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png",APRENDE TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=401&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="",TV MAS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=2324&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://ky-iptv.com:25461/images/2188f3bbdbb08e268f77e21776499edf.png",CANAL 5 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=2243&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://xtream-coders.com/x0/latino/nu9ve.png",NU9VE HD
@@ -326,6 +328,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vi
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=184&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/ExcelsiorTv.pn",EXCELSIOR TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=1449&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/ExcelsiorTv.pn",NTN 24
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=194&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://xtream-coders.com/x0/latino/cnn.png",CNN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=185&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://ky-iptv.com:25461/images/2abdf53669ebe4c7ad45825c25fb8fc5.png",CNN Ñ
@@ -340,6 +344,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vi
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=190&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://ky-iptv.com:25461/images/e1ea37ac05814b4f234b53055f3d532f.png",WOBI
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=102&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://ky-iptv.com:25461/images/e1ea37ac05814b4f234b53055f3d532f.png",AL JAZEERA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=192&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://ky-iptv.com:25461/images/e1ea37ac05814b4f234b53055f3d532f.png",DW
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=203&format=HLS&f=.m3u8
 
