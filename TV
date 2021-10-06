@@ -36,6 +36,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vi
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=70&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://ky-iptv.com:25461/images/45fbcc169fb50e688aa9d95aa167f230.png",AZ MUNDO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=84&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://ky-iptv.com:25461/images/2712172e46070ead867362c4850c7b68.png",AZTECA CINEMA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=1787&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://51.222.43.170:36995/images/42eb14e424068868e6880fc45879a068.png",AZTECA 7 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=317&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://ky-iptv.com:25461/images/f8bc7bb05f3275b810bfe807df15e42c.png",IMAGEN TV
@@ -192,8 +194,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vi
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=149&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://ky-iptv.com:25461/images/2845a37bd0493a9167a7e068c2b76a00.png",PARAMOUNT CHANNEL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=1726&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="http://ky-iptv.com:25461/images/2712172e46070ead867362c4850c7b68.png",AZTECA CINEMA
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=1787&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://xtream-coders.com/x0/latino/sony_channel.png",SONY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=48&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://011011011.com:8080/images/cae76fb0e8738177e5b55075707d947f.png",WARNER
