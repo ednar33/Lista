@@ -322,6 +322,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vi
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=184&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/ExcelsiorTv.pn",EXCELSIOR TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=1449&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="",EL FINANCIERO
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=1649&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/ExcelsiorTv.pn",NTN 24
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wyrn7vinua8wslr&lchId=194&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://xtream-coders.com/x0/latino/cnn.png",CNN
