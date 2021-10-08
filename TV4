@@ -10,3 +10,5 @@ http://201.182.242.135:8001/play/a09r/index.m3u8
 http://201.182.242.135:8001/play/a09j/index.m3u8
 #EXTINF:-1,Fox Sports 3 HD
 http://201.182.242.135:8001/play/a09s/index.m3u8
+#EXTINF:-1,TNT SPORTS HD
+http://201.182.242.135:8001/play/a09c/index.m3u8
