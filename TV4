@@ -12,3 +12,7 @@ http://201.182.242.135:8001/play/a09j/index.m3u8
 http://201.182.242.135:8001/play/a09s/index.m3u8
 #EXTINF:-1,TNT SPORTS HD
 http://201.182.242.135:8001/play/a09c/index.m3u8
+#EXTINF:-1,TyC Sports HD
+http://201.182.242.135:8002/play/a0ah/index.m3u8
+#EXTINF:-1,Win Sports+ HD
+http://201.182.242.135:8002/play/a0a0/index.m3u8
