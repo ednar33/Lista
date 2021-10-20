@@ -46,6 +46,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2305&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://ky-iptv.com:25461/images/7cd1b96ae5ae87003ae5444ea8b273ff.png",MULTIMEDIOS CDMX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1253&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://ky-iptv.com:25461/images/7cd1b96ae5ae87003ae5444ea8b273ff.png",MULTIMEDIOS BAJÍO 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2352&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png",APRENDE TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=401&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="",TV MAS
