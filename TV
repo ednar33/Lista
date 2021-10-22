@@ -16,8 +16,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2264&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://ky-iptv.com:25461/images/f8bc7bb05f3275b810bfe807df15e42c.png",IMAGEN TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2298&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/7rEbKUr.png",TURISTIK TV
-https://5fa5de1a545ae.streamlock.net/turistik/turistik/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="http://ky-iptv.com:25461/images/2188f3bbdbb08e268f77e21776499edf.png",CANAL 5
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1785&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://51.222.43.170:36995/images/42eb14e424068868e6880fc45879a068.png",AZTECA 7
