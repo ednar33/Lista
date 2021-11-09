@@ -1,7 +1,9 @@
 #EXTM3U
 
 
-
+#EXTINF:-1,MultiPremier
+#EXTVLCOPT:http-user-agent=Lavf/57.71.100
+https://v3.playerlatino.live/stream/m3u8/294
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://ky-iptv.com:25461/images/9966f7cd88549ec590609184270e0501.png",AZTECA UNO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=7&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="https://totalgo.totalplay.com.mx:444/TPCOREWeb/MasterImage?mimId=2867",AZ CLIC 
