@@ -52,15 +52,15 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2149&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://ky-iptv.com:25461/images/1d5f8ab98adca6c1a02e0dff8c761f3f.png" ,TVC
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2156&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://xtream-coders.com/x0/latino/televisa_puebla.png",TELEVISA MONTERREY
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png",TELEVISA MONTERREY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2307&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://xtream-coders.com/x0/latino/televisa_puebla.png",TELEVISA PUEBLA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2312&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://xtream-coders.com/x0/latino/televisa_puebla.png",TELEVISA BAJÍO 
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png",TELEVISA BAJÍO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2355&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://xtream-coders.com/x0/latino/nu9ve.png",TELEVISA CHIHUAHUA
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png",TELEVISA CHIHUAHUA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2050&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://xtream-coders.com/x0/latino/nu9ve.png",TELEVISA QUERÉTARO 
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png",TELEVISA QUERÉTARO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2061&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Animación" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png",ONCE NIÑOS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=3315&format=HLS&f=.m3u8
