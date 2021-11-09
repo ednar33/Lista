@@ -258,7 +258,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2090&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://xtream-coders.com/x0/deportes/nbcgolf.png",GOLF
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=179&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="",HAVOC  
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/havoc.jpg",HAVOC  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2148&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="",FUEL TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2587&format=HLS&f=.m3u8
