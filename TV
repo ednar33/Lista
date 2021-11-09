@@ -304,7 +304,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=214&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Música" tvg-logo="http://ky-iptv.com:25461/images/cfd8477086b88b5799361ee317e04660.png",MTV 00S
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=334&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Música" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s73070_dark_360w_270h.png",TELEHIT MÚSICA +
+#EXTINF:-1 group-title="Música" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/thp.png",TELEHIT MÚSICA +
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=220&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Música" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rms.png",TELEHIT MÚSICA 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=218&format=HLS&f=.m3u8
