@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 ESPN
-https://centurylink-br-reg.cdn.booyah.live/hls/1500023/93183850.m3u8?SBN
 
 #EXTINF:-1 tvg-logo=" " grupo-title="DEPORTES", DIRECTV SPORTS
 http://23.237.132.90:8081/live/dt_sp_1_wirehtiwa/chunks.m3u8
