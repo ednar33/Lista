@@ -90,7 +90,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1984&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Animación" tvg-logo="http://ky-iptv.com:25461/images/93f73ccbb1b6c3e0e8ae92c4552a5542.png",BABY TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=116&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="TPLEY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngk.png",NAT GEO KIDS
+#EXTINF:-1 group-title="Animación" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngk.png",NAT GEO KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2373&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3.png",ANTENA 3
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=199&format=HLS&f=.m3u8
@@ -184,7 +184,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=48&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png",WARNER
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=52&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://ky-iptv.com:25461/images/f6e82a9344e449320812cf93cf5eaf17.png",UNIVERSAL CHANNEL
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://ky-iptv.com:25461/images/f6e82a9344e449320812cf93cf5eaf17.png",UNIVERSAL TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=57&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://ky-iptv.com:25461/images/c755e7c7d154a0ae1a30a2f3a8c31f64.png",E!
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=55&format=HLS&f=.m3u8
