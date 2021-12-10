@@ -136,7 +136,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=79&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://ky-iptv.com:25461/images/b2cdc35e0a088420655f7ea8cb172fda.png",TBS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=81&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/latino/fxm.png" group-title="ENTRETENIMIENTO", FXM
+#EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/latino/fxm.png",FXM
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=138&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://ewscripps.brightspotcdn.com/2c/7a/2284f50e49c1b7595592ddfc51f5/hbo.png",HBO
 http://170.239.150.222:8000/play/a0c5/index.m3u8
