@@ -313,7 +313,7 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://ky-iptv.com:25461/images/0944dff2981b872e609398050733518c.png",MILENIO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1252&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://ky-iptv.com:25461/images/467675b33c1fcae34c8fc4eb0f32d73e.png",FORO TV
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=700&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=4&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://ky-iptv.com:25461/images/ae02f68e3252392c0422c02a477b0e49.png",ADN 40
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=184&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/ExcelsiorTv.png",EXCELSIOR TV
