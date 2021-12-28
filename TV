@@ -238,11 +238,11 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2564&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://ky-iptv.com:25461/images/9ed7bff992d63629a4fdace761679342.png",TUDN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=174&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/deportes/afizzionados.png",AFIZZIONADOS
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://xtream-coders.com/x0/deportes/afizzionados.png",AFIZZIONADOS
 http://home-playtv.com:8080/LatinoAmericanaTV/HetyJC567sfdh/54984
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/U-Beat.svg",U-BEAT
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=3335&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/las.png",LAS 
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/las.png",LAS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2089&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://alltvpremiere.online/logo/pxsports.jpg",PX SPORTS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=950&format=HLS&f=.m3u8
@@ -264,7 +264,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=3105&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cultura" tvg-logo="http://ky-iptv.com:25461/images/f756578ec005c2ab8da7a8334173509c.png",DISCOVERY CHANNEL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=86&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://xtream-coders.com/x0/latino/discovery_hh.png",DISCOVERY H&H
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://xtream-coders.com/x0/latino/discovery_hh.png",DISCOVERY H&H
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=96&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cultura" tvg-logo="http://xtream-coders.com/x0/latino/discovery_civilization.png",DISCOVERY CIVILIZATION 
 http://mags.vip:2086/live/shenzi/shenzi/88713.m3u8
@@ -288,7 +288,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=89&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cultura" tvg-logo="http://ky-iptv.com:25461/images/5677c2d37108e6dbf1266d4f4a61e301.PNG",H2
 http://mags.vip:2086/live/shenzi/shenzi/92566.m3u8
-#EXTINF:-1 tvg-logo="http://ky-iptv.com:25461/images/2adecf47066d183750c323ff430d4704.png",ANIMAL PLANET
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://ky-iptv.com:25461/images/2adecf47066d183750c323ff430d4704.png",ANIMAL PLANET
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2378&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cultura" tvg-logo="http://lonewolftvpr.com/logos/garage.png",GARAGE TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=75&format=HLS&f=.m3u8
