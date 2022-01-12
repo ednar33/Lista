@@ -1,0 +1,1189 @@
+#EXTM3U
+#EXTINF:-1 group-title="Lista 03", EC: ECUAVISA SD
+http://tvbross.com:8090/Jose/Jose123/2
+#EXTINF:-1 group-title="Lista 03", EC: ECUAVISA FHD
+http://tvbross.com:8090/Jose/Jose123/3
+#EXTINF:-1 group-title="Lista 03", EC: ECUAVISA GYE
+http://tvbross.com:8090/Jose/Jose123/1931
+#EXTINF:-1 group-title="Lista 03", EC: ECUAVISA HD GYE
+http://tvbross.com:8090/Jose/Jose123/29181
+#EXTINF:-1 group-title="Lista 03", EC: ECUAVISA INTERNACIONAL
+http://tvbross.com:8090/Jose/Jose123/29530
+#EXTINF:-1 group-title="Lista 03", EC: RTS
+http://tvbross.com:8090/Jose/Jose123/14321
+#EXTINF:-1 group-title="Lista 03", EC: RTS FHD
+http://tvbross.com:8090/Jose/Jose123/14955
+#EXTINF:-1 group-title="Lista 03", EC: TELEAMAZONAS SD
+http://tvbross.com:8090/Jose/Jose123/5
+#EXTINF:-1 group-title="Lista 03", EC: TELEAMAZONAS HD
+http://tvbross.com:8090/Jose/Jose123/6
+#EXTINF:-1 group-title="Lista 03", EC: TELEAMAZONAS GYE
+http://tvbross.com:8090/Jose/Jose123/14956
+#EXTINF:-1 group-title="Lista 03", EC: ECUADOR TV
+http://tvbross.com:8090/Jose/Jose123/7
+#EXTINF:-1 group-title="Lista 03", EC: GAMA TV
+http://tvbross.com:8090/Jose/Jose123/9
+#EXTINF:-1 group-title="Lista 03", EC: GAMA HD
+http://tvbross.com:8090/Jose/Jose123/14957
+#EXTINF:-1 group-title="Lista 03", EC: TC TELEVISION
+http://tvbross.com:8090/Jose/Jose123/11
+#EXTINF:-1 group-title="Lista 03", EC: TC TELEVISION HD
+http://tvbross.com:8090/Jose/Jose123/12
+#EXTINF:-1 group-title="Lista 03", EC: TC TELEVISION GYE
+http://tvbross.com:8090/Jose/Jose123/13
+#EXTINF:-1 group-title="Lista 03", EC: OROMAR TV
+http://tvbross.com:8090/Jose/Jose123/16
+#EXTINF:-1 group-title="Lista 03", EC: TVC
+http://tvbross.com:8090/Jose/Jose123/2321
+#EXTINF:-1 group-title="Lista 03", EC: CANELA TV
+http://tvbross.com:8090/Jose/Jose123/46216
+#EXTINF:-1 group-title="Lista 03", CO: CARACOL SD
+http://tvbross.com:8090/Jose/Jose123/24955
+#EXTINF:-1 group-title="Lista 03", CO: CARACOL HD 
+http://tvbross.com:8090/Jose/Jose123/40
+#EXTINF:-1 group-title="Lista 03", CO: CARACOL FHD
+http://tvbross.com:8090/Jose/Jose123/39
+#EXTINF:-1 group-title="Lista 03", CO: CARACOL FHD OP2
+http://tvbross.com:8090/Jose/Jose123/54604
+#EXTINF:-1 group-title="Lista 03", CO: CARACOL INT
+http://tvbross.com:8090/Jose/Jose123/39526
+#EXTINF:-1 group-title="Lista 03", CO: CABLENOTICIAS
+http://tvbross.com:8090/Jose/Jose123/41
+#EXTINF:-1 group-title="Lista 03", CO: CABLENOTICIAS HD
+http://tvbross.com:8090/Jose/Jose123/18912
+#EXTINF:-1 group-title="Lista 03", CO: CANAL CAPITAL
+http://tvbross.com:8090/Jose/Jose123/42
+#EXTINF:-1 group-title="Lista 03", CO: CANAL UNO
+http://tvbross.com:8090/Jose/Jose123/16265
+#EXTINF:-1 group-title="Lista 03", CO: CITY TV
+http://tvbross.com:8090/Jose/Jose123/45
+#EXTINF:-1 group-title="Lista 03", CO: RCN
+http://tvbross.com:8090/Jose/Jose123/43
+#EXTINF:-1 group-title="Lista 03", CO: RCN HD
+http://tvbross.com:8090/Jose/Jose123/44
+#EXTINF:-1 group-title="Lista 03", CO: RCN HD OPC2
+http://tvbross.com:8090/Jose/Jose123/2477
+#EXTINF:-1 group-title="Lista 03", CO: RCN NOVELAS
+http://tvbross.com:8090/Jose/Jose123/31239
+#EXTINF:-1 group-title="Lista 03", CO: SEÑAL COLOMBIA
+http://tvbross.com:8090/Jose/Jose123/46
+#EXTINF:-1 group-title="Lista 03", CO: TELECARIBE
+http://tvbross.com:8090/Jose/Jose123/17514
+#EXTINF:-1 group-title="Lista 03", CO: TELEPACIFICO
+http://tvbross.com:8090/Jose/Jose123/20321
+#EXTINF:-1 group-title="Lista 03", CO: TELEANTIOQUIA
+http://tvbross.com:8090/Jose/Jose123/36776
+#EXTINF:-1 group-title="Lista 03", CO: TELEMEDELLIN
+http://tvbross.com:8090/Jose/Jose123/17135
+#EXTINF:-1 group-title="Lista 03", CO: NTN 24
+http://tvbross.com:8090/Jose/Jose123/47
+#EXTINF:-1 group-title="Lista 03", VE: VENEVISION PLUS
+http://tvbross.com:8090/Jose/Jose123/14379
+#EXTINF:-1 group-title="Lista 03", VE: VENEVISION
+http://tvbross.com:8090/Jose/Jose123/14380
+#EXTINF:-1 group-title="Lista 03", VE: VENEZOLANA
+http://tvbross.com:8090/Jose/Jose123/14381
+#EXTINF:-1 group-title="Lista 03", PE: AMERICA TV
+http://tvbross.com:8090/Jose/Jose123/48
+#EXTINF:-1 group-title="Lista 03", PE: ATV
+http://tvbross.com:8090/Jose/Jose123/49
+#EXTINF:-1 group-title="Lista 03", PE: ATV HD
+http://tvbross.com:8090/Jose/Jose123/14587
+#EXTINF:-1 group-title="Lista 03", PE: CANAL N
+http://tvbross.com:8090/Jose/Jose123/50
+#EXTINF:-1 group-title="Lista 03", PE: GOLPERU
+http://tvbross.com:8090/Jose/Jose123/51
+#EXTINF:-1 group-title="Lista 03", PE: LATINA
+http://tvbross.com:8090/Jose/Jose123/52
+#EXTINF:-1 group-title="Lista 03", PE: LATINA HD
+http://tvbross.com:8090/Jose/Jose123/53
+#EXTINF:-1 group-title="Lista 03", PE: MOVISTAR DEPORTES
+http://tvbross.com:8090/Jose/Jose123/54
+#EXTINF:-1 group-title="Lista 03", PE: PANAMERICANA
+http://tvbross.com:8090/Jose/Jose123/55
+#EXTINF:-1 group-title="Lista 03", PE: TV PERU
+http://tvbross.com:8090/Jose/Jose123/56
+#EXTINF:-1 group-title="Lista 03", PE: WILLAX
+http://tvbross.com:8090/Jose/Jose123/39783
+#EXTINF:-1 group-title="Lista 03", CHI: 24 PLAY
+http://tvbross.com:8090/Jose/Jose123/18075
+#EXTINF:-1 group-title="Lista 03", CHI: 24 PLAY HD
+http://tvbross.com:8090/Jose/Jose123/2336
+#EXTINF:-1 group-title="Lista 03", CHI: CANAL 13c
+http://tvbross.com:8090/Jose/Jose123/17
+#EXTINF:-1 group-title="Lista 03", CHI: CANAL 13 HD
+http://tvbross.com:8090/Jose/Jose123/20
+#EXTINF:-1 group-title="Lista 03", CHI: CANAL 13 HD OPC2
+http://tvbross.com:8090/Jose/Jose123/21
+#EXTINF:-1 group-title="Lista 03", CHI: CHILEVISION
+http://tvbross.com:8090/Jose/Jose123/14959
+#EXTINF:-1 group-title="Lista 03", CHI: CHILEVISION HD
+http://tvbross.com:8090/Jose/Jose123/22
+#EXTINF:-1 group-title="Lista 03", CHI: CNN
+http://tvbross.com:8090/Jose/Jose123/33
+#EXTINF:-1 group-title="Lista 03", CHI: CNN HD
+http://tvbross.com:8090/Jose/Jose123/14526
+#EXTINF:-1 group-title="Lista 03", CHI: ETC TV
+http://tvbross.com:8090/Jose/Jose123/23
+#EXTINF:-1 group-title="Lista 03", CHI: SGTV
+http://tvbross.com:8090/Jose/Jose123/48814
+#EXTINF:-1 group-title="Lista 03", CHI: TVN
+http://tvbross.com:8090/Jose/Jose123/24
+#EXTINF:-1 group-title="Lista 03", CHI: TVN HD
+http://tvbross.com:8090/Jose/Jose123/25
+#EXTINF:-1 group-title="Lista 03", CHI: TV+ 
+http://tvbross.com:8090/Jose/Jose123/26
+#EXTINF:-1 group-title="Lista 03", CHI: TV+ HD
+http://tvbross.com:8090/Jose/Jose123/44642
+#EXTINF:-1 group-title="Lista 03", CHI: MEGA
+http://tvbross.com:8090/Jose/Jose123/28
+#EXTINF:-1 group-title="Lista 03", CHI: MEGA HD
+http://tvbross.com:8090/Jose/Jose123/29
+#EXTINF:-1 group-title="Lista 03", CHI: LA RED
+http://tvbross.com:8090/Jose/Jose123/31
+#EXTINF:-1 group-title="Lista 03", CHI: LA RED HD
+http://tvbross.com:8090/Jose/Jose123/32
+#EXTINF:-1 group-title="Lista 03", CHI: TELETRAK TV
+http://tvbross.com:8090/Jose/Jose123/14503
+#EXTINF:-1 group-title="Lista 03", UR: CANAL 4
+http://tvbross.com:8090/Jose/Jose123/1199
+#EXTINF:-1 group-title="Lista 03", UR: CANAL 10
+http://tvbross.com:8090/Jose/Jose123/2344
+#EXTINF:-1 group-title="Lista 03", UR: CANAL 11
+http://tvbross.com:8090/Jose/Jose123/1934
+#EXTINF:-1 group-title="Lista 03", UR: CANAL 12
+http://tvbross.com:8090/Jose/Jose123/2345
+#EXTINF:-1 group-title="Lista 03", UR: TV CIUDAD
+http://tvbross.com:8090/Jose/Jose123/2347
+#EXTINF:-1 group-title="Lista 03", UR: VTV
+http://tvbross.com:8090/Jose/Jose123/1205
+#EXTINF:-1 group-title="Lista 03", UR: VTV OPC 2
+http://tvbross.com:8090/Jose/Jose123/2346
+#EXTINF:-1 group-title="Lista 03", UR: VTV+
+http://tvbross.com:8090/Jose/Jose123/1202
+#EXTINF:-1 group-title="Lista 03", PY: TELEFUTURO HD
+http://tvbross.com:8090/Jose/Jose123/2403
+#EXTINF:-1 group-title="Lista 03", PY: LA TELE 
+http://tvbross.com:8090/Jose/Jose123/2404
+#EXTINF:-1 group-title="Lista 03", PY: C9N
+http://tvbross.com:8090/Jose/Jose123/2513
+#EXTINF:-1 group-title="Lista 03", PY: NPY
+http://tvbross.com:8090/Jose/Jose123/623
+#EXTINF:-1 group-title="Lista 03", PY: PARAVISION
+http://tvbross.com:8090/Jose/Jose123/2512
+#EXTINF:-1 group-title="Lista 03", PY: PARAGUAY TV
+http://tvbross.com:8090/Jose/Jose123/624
+#EXTINF:-1 group-title="Lista 03", PY: RPC
+http://tvbross.com:8090/Jose/Jose123/625
+#EXTINF:-1 group-title="Lista 03", PY: SNT
+http://tvbross.com:8090/Jose/Jose123/626
+#EXTINF:-1 group-title="Lista 03", PY: SUR
+http://tvbross.com:8090/Jose/Jose123/627
+#EXTINF:-1 group-title="Lista 03", AR: A24
+http://tvbross.com:8090/Jose/Jose123/377
+#EXTINF:-1 group-title="Lista 03", AR: A24 HD (TEST)
+http://tvbross.com:8090/Jose/Jose123/2543
+#EXTINF:-1 group-title="Lista 03", AR: C5N
+http://tvbross.com:8090/Jose/Jose123/378
+#EXTINF:-1 group-title="Lista 03", AR: C5N (TEST)
+http://tvbross.com:8090/Jose/Jose123/29166
+#EXTINF:-1 group-title="Lista 03", AR: AMERICA 
+http://tvbross.com:8090/Jose/Jose123/379
+#EXTINF:-1 group-title="Lista 03", AR: TN
+http://tvbross.com:8090/Jose/Jose123/380
+#EXTINF:-1 group-title="Lista 03", AR: TN (TEST)
+http://tvbross.com:8090/Jose/Jose123/29165
+#EXTINF:-1 group-title="Lista 03", AR: TV PUBLICA
+http://tvbross.com:8090/Jose/Jose123/381
+#EXTINF:-1 group-title="Lista 03", AR: CANAL 9
+http://tvbross.com:8090/Jose/Jose123/2365
+#EXTINF:-1 group-title="Lista 03", AR: EL TRECE HD
+http://tvbross.com:8090/Jose/Jose123/14917
+#EXTINF:-1 group-title="Lista 03", AR: EL TRECE HD OPC2
+http://tvbross.com:8090/Jose/Jose123/14918
+#EXTINF:-1 group-title="Lista 03", AR: CANAL 21
+http://tvbross.com:8090/Jose/Jose123/2366
+#EXTINF:-1 group-title="Lista 03", AR: CANAL 26
+http://tvbross.com:8090/Jose/Jose123/382
+#EXTINF:-1 group-title="Lista 03", AR: LA NACION
+http://tvbross.com:8090/Jose/Jose123/29175
+#EXTINF:-1 group-title="Lista 03", AR: TELEFE
+http://tvbross.com:8090/Jose/Jose123/383
+#EXTINF:-1 group-title="Lista 03", AR: TELEFE HD
+http://tvbross.com:8090/Jose/Jose123/17044
+#EXTINF:-1 group-title="Lista 03", AR: PAKA PAKA
+http://tvbross.com:8090/Jose/Jose123/384
+#EXTINF:-1 group-title="Lista 03", AR: ENCUENTRO
+http://tvbross.com:8090/Jose/Jose123/385
+#EXTINF:-1 group-title="Lista 03", SAL: CANAL 2
+http://tvbross.com:8090/Jose/Jose123/17012
+#EXTINF:-1 group-title="Lista 03", SAL: CANAL 4
+http://tvbross.com:8090/Jose/Jose123/2702
+#EXTINF:-1 group-title="Lista 03", SAL: CANAL 6
+http://tvbross.com:8090/Jose/Jose123/57
+#EXTINF:-1 group-title="Lista 03", SAL: CANAL 10
+http://tvbross.com:8090/Jose/Jose123/38968
+#EXTINF:-1 group-title="Lista 03", SAL: CANAL 12
+http://tvbross.com:8090/Jose/Jose123/58
+#EXTINF:-1 group-title="Lista 03", SAL: CANAL 19
+http://tvbross.com:8090/Jose/Jose123/59
+#EXTINF:-1 group-title="Lista 03", SAL: CANAL 21
+http://tvbross.com:8090/Jose/Jose123/60
+#EXTINF:-1 group-title="Lista 03", SAL: CANAL 35
+http://tvbross.com:8090/Jose/Jose123/17013
+#EXTINF:-1 group-title="Lista 03", GUA: CANAL ANTIGUA
+http://tvbross.com:8090/Jose/Jose123/2299
+#EXTINF:-1 group-title="Lista 03", GUA: CANAL 3
+http://tvbross.com:8090/Jose/Jose123/2294
+#EXTINF:-1 group-title="Lista 03", GUA: CANAL 7
+http://tvbross.com:8090/Jose/Jose123/16227
+#EXTINF:-1 group-title="Lista 03", GUA: CANAL 11
+http://tvbross.com:8090/Jose/Jose123/2296
+#EXTINF:-1 group-title="Lista 03", GUA: CANAL 13
+http://tvbross.com:8090/Jose/Jose123/2298
+#EXTINF:-1 group-title="Lista 03", HON: AZTECA HONDURAS
+http://tvbross.com:8090/Jose/Jose123/2342
+#EXTINF:-1 group-title="Lista 03", HON: CANAL 5
+http://tvbross.com:8090/Jose/Jose123/2337
+#EXTINF:-1 group-title="Lista 03", HON: CANAL 11
+http://tvbross.com:8090/Jose/Jose123/2338
+#EXTINF:-1 group-title="Lista 03", HON: CANAL 6 HD
+http://tvbross.com:8090/Jose/Jose123/2339
+#EXTINF:-1 group-title="Lista 03", HON: TELECADENA
+http://tvbross.com:8090/Jose/Jose123/2340
+#EXTINF:-1 group-title="Lista 03", HON: TELESISTEMA
+http://tvbross.com:8090/Jose/Jose123/2341
+#EXTINF:-1 group-title="Lista 03", HON: HCH
+http://tvbross.com:8090/Jose/Jose123/28596
+#EXTINF:-1 group-title="Lista 03", NIC: CANAL 2
+http://tvbross.com:8090/Jose/Jose123/2423
+#EXTINF:-1 group-title="Lista 03", NIC: CANAL 4
+http://tvbross.com:8090/Jose/Jose123/2430
+#EXTINF:-1 group-title="Lista 03", NIC: CANAL 6
+http://tvbross.com:8090/Jose/Jose123/2433
+#EXTINF:-1 group-title="Lista 03", NIC: CANAL 8
+http://tvbross.com:8090/Jose/Jose123/2422
+#EXTINF:-1 group-title="Lista 03", NIC: CANAL 10
+http://tvbross.com:8090/Jose/Jose123/2427
+#EXTINF:-1 group-title="Lista 03", NIC: CANAL 13
+http://tvbross.com:8090/Jose/Jose123/2432
+#EXTINF:-1 group-title="Lista 03", NIC: CANAL 14
+http://tvbross.com:8090/Jose/Jose123/2429
+#EXTINF:-1 group-title="Lista 03", CUBAVISION
+http://tvbross.com:8090/Jose/Jose123/18603
+#EXTINF:-1 group-title="Lista 03", CUBAVISION INTERNACIONAL
+http://tvbross.com:8090/Jose/Jose123/18602
+#EXTINF:-1 group-title="Lista 03", PAN: H VISION
+http://tvbross.com:8090/Jose/Jose123/2411
+#EXTINF:-1 group-title="Lista 03", PAN: NEXT TV 21
+http://tvbross.com:8090/Jose/Jose123/2408
+#EXTINF:-1 group-title="Lista 03", PAN: RPC 4
+http://tvbross.com:8090/Jose/Jose123/2407
+#EXTINF:-1 group-title="Lista 03", PAN: SER TV CANAL 11
+http://tvbross.com:8090/Jose/Jose123/2410
+#EXTINF:-1 group-title="Lista 03", PAN: TELEMETRO 13
+http://tvbross.com:8090/Jose/Jose123/2405
+#EXTINF:-1 group-title="Lista 03", PAN: TV MAX 9
+http://tvbross.com:8090/Jose/Jose123/2409
+#EXTINF:-1 group-title="Lista 03", PAN: TVN 2
+http://tvbross.com:8090/Jose/Jose123/2406
+#EXTINF:-1 group-title="Lista 03", MEX: CANAL DE LAS ESTRELLAS
+http://tvbross.com:8090/Jose/Jose123/511
+#EXTINF:-1 group-title="Lista 03", MEX: CANAL DE LAS ESTRELLAS HD
+http://tvbross.com:8090/Jose/Jose123/510
+#EXTINF:-1 group-title="Lista 03", MEX: CANAL DE LAS ESTRELLAS HD -2h
+http://tvbross.com:8090/Jose/Jose123/509
+#EXTINF:-1 group-title="Lista 03", MEX: ADN 40 SD
+http://tvbross.com:8090/Jose/Jose123/508
+#EXTINF:-1 group-title="Lista 03", MEX: ADN 40 HD
+http://tvbross.com:8090/Jose/Jose123/507
+#EXTINF:-1 group-title="Lista 03", MEX: AZTECA 1 SD
+http://tvbross.com:8090/Jose/Jose123/506
+#EXTINF:-1 group-title="Lista 03", MEX: AZTECA 1 SD OPC2
+http://tvbross.com:8090/Jose/Jose123/505
+#EXTINF:-1 group-title="Lista 03", MEX: AZTECA 1 HD
+http://tvbross.com:8090/Jose/Jose123/504
+#EXTINF:-1 group-title="Lista 03", MEX: AZTECA CINEMA
+http://tvbross.com:8090/Jose/Jose123/502
+#EXTINF:-1 group-title="Lista 03", MEX: AZTECA CLIC
+http://tvbross.com:8090/Jose/Jose123/501
+#EXTINF:-1 group-title="Lista 03", MEX: AZTECA CLIC HD
+http://tvbross.com:8090/Jose/Jose123/500
+#EXTINF:-1 group-title="Lista 03", MEX: AZTECA CORAZON SD
+http://tvbross.com:8090/Jose/Jose123/499
+#EXTINF:-1 group-title="Lista 03", MEX: AZTECA CORAZON SD OPC2
+http://tvbross.com:8090/Jose/Jose123/498
+#EXTINF:-1 group-title="Lista 03", MEX: AZTECA MUNDO SD
+http://tvbross.com:8090/Jose/Jose123/497
+#EXTINF:-1 group-title="Lista 03", MEX: AZTECA MUNDO HD
+http://tvbross.com:8090/Jose/Jose123/496
+#EXTINF:-1 group-title="Lista 03", MEX: AZTECA 7 SD
+http://tvbross.com:8090/Jose/Jose123/495
+#EXTINF:-1 group-title="Lista 03", MEX: AZTECA 7 HD
+http://tvbross.com:8090/Jose/Jose123/494
+#EXTINF:-1 group-title="Lista 03", MEX: EL FINANCIERO BLOOMBERG
+http://tvbross.com:8090/Jose/Jose123/491
+#EXTINF:-1 group-title="Lista 03", MEX: CANAL 4
+http://tvbross.com:8090/Jose/Jose123/490
+#EXTINF:-1 group-title="Lista 03", MEX: CANAL 5
+http://tvbross.com:8090/Jose/Jose123/489
+#EXTINF:-1 group-title="Lista 03", MEX: CANAL 6
+http://tvbross.com:8090/Jose/Jose123/488
+#EXTINF:-1 group-title="Lista 03", MEX: CANAL 8
+http://tvbross.com:8090/Jose/Jose123/485
+#EXTINF:-1 group-title="Lista 03", MEX: CANAL ONCE
+http://tvbross.com:8090/Jose/Jose123/484
+#EXTINF:-1 group-title="Lista 03", MEX: GALA TV HD
+http://tvbross.com:8090/Jose/Jose123/39860
+#EXTINF:-1 group-title="Lista 03", MEX: JUSTICIA TV
+http://tvbross.com:8090/Jose/Jose123/483
+#EXTINF:-1 group-title="Lista 03", MEX: INGENIO TV
+http://tvbross.com:8090/Jose/Jose123/481
+#EXTINF:-1 group-title="Lista 03", MEX: MILENIO HD
+http://tvbross.com:8090/Jose/Jose123/480
+#EXTINF:-1 group-title="Lista 03", MEX: TLNOVELAS
+http://tvbross.com:8090/Jose/Jose123/479
+#EXTINF:-1 group-title="Lista 03", MEX: PASIONES 
+http://tvbross.com:8090/Jose/Jose123/2353
+#EXTINF:-1 group-title="Lista 03", MEX: TELEVISA
+http://tvbross.com:8090/Jose/Jose123/478
+#EXTINF:-1 group-title="Lista 03", MEX: TVC
+http://tvbross.com:8090/Jose/Jose123/477
+#EXTINF:-1 group-title="Lista 03", MEX: UNICABLE SD
+http://tvbross.com:8090/Jose/Jose123/475
+#EXTINF:-1 group-title="Lista 03", MEX: UNICABLE HD
+http://tvbross.com:8090/Jose/Jose123/474
+#EXTINF:-1 group-title="Lista 03", RD: ANTENA 7
+http://tvbross.com:8090/Jose/Jose123/18817
+#EXTINF:-1 group-title="Lista 03", RD: CDN DEPORTES
+http://tvbross.com:8090/Jose/Jose123/29193
+#EXTINF:-1 group-title="Lista 03", RD: CDN
+http://tvbross.com:8090/Jose/Jose123/1161
+#EXTINF:-1 group-title="Lista 03", RD: COLOR VISION 9
+http://tvbross.com:8090/Jose/Jose123/1162
+#EXTINF:-1 group-title="Lista 03", RD: COLOR VISION 9 SD
+http://tvbross.com:8090/Jose/Jose123/1163
+#EXTINF:-1 group-title="Lista 03", RD: DIGITAL 15
+http://tvbross.com:8090/Jose/Jose123/1164
+#EXTINF:-1 group-title="Lista 03", RD: TELESISTEMA 11
+http://tvbross.com:8090/Jose/Jose123/1165
+#EXTINF:-1 group-title="Lista 03", RD: TELEMICRO
+http://tvbross.com:8090/Jose/Jose123/1168
+#EXTINF:-1 group-title="Lista 03", RD: TELECENTRO
+http://tvbross.com:8090/Jose/Jose123/1167
+#EXTINF:-1 group-title="Lista 03", CR: REPRETEL 4
+http://tvbross.com:8090/Jose/Jose123/2356
+#EXTINF:-1 group-title="Lista 03", CR: REPRETEL 6
+http://tvbross.com:8090/Jose/Jose123/2354
+#EXTINF:-1 group-title="Lista 03", CR: TELETICA 7
+http://tvbross.com:8090/Jose/Jose123/2355
+#EXTINF:-1 group-title="Lista 03", CR: REPRETEL 11 
+http://tvbross.com:8090/Jose/Jose123/2350
+#EXTINF:-1 group-title="Lista 03", CR: FUTV
+http://tvbross.com:8090/Jose/Jose123/31152
+#EXTINF:-1 group-title="Lista 03", CR: TD +
+http://tvbross.com:8090/Jose/Jose123/46215
+#EXTINF:-1 group-title="Lista 03", ANIMAL PLANET
+http://tvbross.com:8090/Jose/Jose123/375
+#EXTINF:-1 group-title="Lista 03", ANIMAL PLANET HD
+http://tvbross.com:8090/Jose/Jose123/374
+#EXTINF:-1 group-title="Lista 03", ANIMAL PLANET HD (OPC2)
+http://tvbross.com:8090/Jose/Jose123/373
+#EXTINF:-1 group-title="Lista 03", DISCOVERY CHANNEL (MX)
+http://tvbross.com:8090/Jose/Jose123/18599
+#EXTINF:-1 group-title="Lista 03", DISCOVERY CHANNEL HD (MX)
+http://tvbross.com:8090/Jose/Jose123/372
+#EXTINF:-1 group-title="Lista 03", DISCOVERY CHANNEL 
+http://tvbross.com:8090/Jose/Jose123/18600
+#EXTINF:-1 group-title="Lista 03", DISCOVERY CHANNEL HD
+http://tvbross.com:8090/Jose/Jose123/19662
+#EXTINF:-1 group-title="Lista 03", DISCOVERY CIVILIZATION
+http://tvbross.com:8090/Jose/Jose123/370
+#EXTINF:-1 group-title="Lista 03", DISCOVERY ID
+http://tvbross.com:8090/Jose/Jose123/368
+#EXTINF:-1 group-title="Lista 03", DISCOVERY ID HD
+http://tvbross.com:8090/Jose/Jose123/367
+#EXTINF:-1 group-title="Lista 03", DISCOVERY ID FHD
+http://tvbross.com:8090/Jose/Jose123/19663
+#EXTINF:-1 group-title="Lista 03", DISCOVERY H&H
+http://tvbross.com:8090/Jose/Jose123/365
+#EXTINF:-1 group-title="Lista 03", DISCOVERY H&H HD
+http://tvbross.com:8090/Jose/Jose123/364
+#EXTINF:-1 group-title="Lista 03", DISCOVERY H&H  (MX)
+http://tvbross.com:8090/Jose/Jose123/22713
+#EXTINF:-1 group-title="Lista 03", DISCOVERY SCIENCE
+http://tvbross.com:8090/Jose/Jose123/363
+#EXTINF:-1 group-title="Lista 03", DISCOVERY SCIENCE HD
+http://tvbross.com:8090/Jose/Jose123/362
+#EXTINF:-1 group-title="Lista 03", DISCOVERY THEATER
+http://tvbross.com:8090/Jose/Jose123/361
+#EXTINF:-1 group-title="Lista 03", DISCOVERY THEATER HD
+http://tvbross.com:8090/Jose/Jose123/360
+#EXTINF:-1 group-title="Lista 03", DISCOVERY TURBO
+http://tvbross.com:8090/Jose/Jose123/359
+#EXTINF:-1 group-title="Lista 03", DISCOVERY TURBO HD
+http://tvbross.com:8090/Jose/Jose123/358
+#EXTINF:-1 group-title="Lista 03", DISCOVERY WORLD
+http://tvbross.com:8090/Jose/Jose123/357
+#EXTINF:-1 group-title="Lista 03", DISCOVERY WORLD HD DUAL
+http://tvbross.com:8090/Jose/Jose123/356
+#EXTINF:-1 group-title="Lista 03", TLC
+http://tvbross.com:8090/Jose/Jose123/355
+#EXTINF:-1 group-title="Lista 03", EL GOURMET
+http://tvbross.com:8090/Jose/Jose123/354
+#EXTINF:-1 group-title="Lista 03", EL GOURMET HD
+http://tvbross.com:8090/Jose/Jose123/353
+#EXTINF:-1 group-title="Lista 03", E! ENTERTAIMENTS
+http://tvbross.com:8090/Jose/Jose123/352
+#EXTINF:-1 group-title="Lista 03", E! ENTERTAIMENTS HD
+http://tvbross.com:8090/Jose/Jose123/351
+#EXTINF:-1 group-title="Lista 03", FOOD NETWORK
+http://tvbross.com:8090/Jose/Jose123/350
+#EXTINF:-1 group-title="Lista 03", FOOD NETWORK HD
+http://tvbross.com:8090/Jose/Jose123/349
+#EXTINF:-1 group-title="Lista 03", GLITZ
+http://tvbross.com:8090/Jose/Jose123/348
+#EXTINF:-1 group-title="Lista 03", HISTORY
+http://tvbross.com:8090/Jose/Jose123/347
+#EXTINF:-1 group-title="Lista 03", HISTORY HD
+http://tvbross.com:8090/Jose/Jose123/346
+#EXTINF:-1 group-title="Lista 03", HISTORY 2 SD
+http://tvbross.com:8090/Jose/Jose123/31362
+#EXTINF:-1 group-title="Lista 03", HISTORY 2 HD
+http://tvbross.com:8090/Jose/Jose123/345
+#EXTINF:-1 group-title="Lista 03", HOLA TV
+http://tvbross.com:8090/Jose/Jose123/344
+#EXTINF:-1 group-title="Lista 03", HOLA TV HD
+http://tvbross.com:8090/Jose/Jose123/343
+#EXTINF:-1 group-title="Lista 03", HGTV
+http://tvbross.com:8090/Jose/Jose123/18
+#EXTINF:-1 group-title="Lista 03", LIFETIME HD
+http://tvbross.com:8090/Jose/Jose123/342
+#EXTINF:-1 group-title="Lista 03", NAT GEO
+http://tvbross.com:8090/Jose/Jose123/341
+#EXTINF:-1 group-title="Lista 03", NAT GEO HD
+http://tvbross.com:8090/Jose/Jose123/340
+#EXTINF:-1 group-title="Lista 03", NAT GEO MUNDO
+http://tvbross.com:8090/Jose/Jose123/18432
+#EXTINF:-1 group-title="Lista 03", NAT GEO WILD
+http://tvbross.com:8090/Jose/Jose123/339
+#EXTINF:-1 group-title="Lista 03", NAT GEO WILD HD
+http://tvbross.com:8090/Jose/Jose123/338
+#EXTINF:-1 group-title="Lista 03", MAS CHIC
+http://tvbross.com:8090/Jose/Jose123/336
+#EXTINF:-1 group-title="Lista 03", BABYFIRST
+http://tvbross.com:8090/Jose/Jose123/140
+#EXTINF:-1 group-title="Lista 03", BABY TV SD
+http://tvbross.com:8090/Jose/Jose123/139
+#EXTINF:-1 group-title="Lista 03", BOOMERANG SD
+http://tvbross.com:8090/Jose/Jose123/138
+#EXTINF:-1 group-title="Lista 03", BOOMERANG HD
+http://tvbross.com:8090/Jose/Jose123/137
+#EXTINF:-1 group-title="Lista 03", CARTOON NETWORK
+http://tvbross.com:8090/Jose/Jose123/136
+#EXTINF:-1 group-title="Lista 03", CARTOON NETWORK (MX)
+http://tvbross.com:8090/Jose/Jose123/135
+#EXTINF:-1 group-title="Lista 03", CARTOON NETWORK HD
+http://tvbross.com:8090/Jose/Jose123/134
+#EXTINF:-1 group-title="Lista 03", CARTOON NETWORK HD (MX)
+http://tvbross.com:8090/Jose/Jose123/133
+#EXTINF:-1 group-title="Lista 03", DISNEY CHANNEL
+http://tvbross.com:8090/Jose/Jose123/132
+#EXTINF:-1 group-title="Lista 03", DISNEY CHANNEL HD (MX)
+http://tvbross.com:8090/Jose/Jose123/131
+#EXTINF:-1 group-title="Lista 03", DISNEY JR (MX)
+http://tvbross.com:8090/Jose/Jose123/130
+#EXTINF:-1 group-title="Lista 03", DISNEY JR HD
+http://tvbross.com:8090/Jose/Jose123/129
+#EXTINF:-1 group-title="Lista 03", DISNEY XD
+http://tvbross.com:8090/Jose/Jose123/128
+#EXTINF:-1 group-title="Lista 03", DISNEY XD HD
+http://tvbross.com:8090/Jose/Jose123/127
+#EXTINF:-1 group-title="Lista 03", DISCOVERY KIDS
+http://tvbross.com:8090/Jose/Jose123/126
+#EXTINF:-1 group-title="Lista 03", DISCOVERY KIDS HD
+http://tvbross.com:8090/Jose/Jose123/125
+#EXTINF:-1 group-title="Lista 03", NATGEO KIDS
+http://tvbross.com:8090/Jose/Jose123/124
+#EXTINF:-1 group-title="Lista 03", NATGEO KIDS HD
+http://tvbross.com:8090/Jose/Jose123/123
+#EXTINF:-1 group-title="Lista 03", NICK
+http://tvbross.com:8090/Jose/Jose123/122
+#EXTINF:-1 group-title="Lista 03", NICK JR
+http://tvbross.com:8090/Jose/Jose123/121
+#EXTINF:-1 group-title="Lista 03", NICK JR HD
+http://tvbross.com:8090/Jose/Jose123/120
+#EXTINF:-1 group-title="Lista 03", TEENNICK
+http://tvbross.com:8090/Jose/Jose123/119
+#EXTINF:-1 group-title="Lista 03", TOONCAST
+http://tvbross.com:8090/Jose/Jose123/117
+#EXTINF:-1 group-title="Lista 03", AMC
+http://tvbross.com:8090/Jose/Jose123/23266
+#EXTINF:-1 group-title="Lista 03", AMC HD
+http://tvbross.com:8090/Jose/Jose123/29924
+#EXTINF:-1 group-title="Lista 03", AMC HD (MX)
+http://tvbross.com:8090/Jose/Jose123/473
+#EXTINF:-1 group-title="Lista 03", A&E SD
+http://tvbross.com:8090/Jose/Jose123/472
+#EXTINF:-1 group-title="Lista 03", A&E HD
+http://tvbross.com:8090/Jose/Jose123/471
+#EXTINF:-1 group-title="Lista 03", AXN
+http://tvbross.com:8090/Jose/Jose123/17489
+#EXTINF:-1 group-title="Lista 03", AXN HD DUAL
+http://tvbross.com:8090/Jose/Jose123/470
+#EXTINF:-1 group-title="Lista 03", AXN (MX)
+http://tvbross.com:8090/Jose/Jose123/468
+#EXTINF:-1 group-title="Lista 03", CINEMAX
+http://tvbross.com:8090/Jose/Jose123/467
+#EXTINF:-1 group-title="Lista 03", CINEMAX HD
+http://tvbross.com:8090/Jose/Jose123/32631
+#EXTINF:-1 group-title="Lista 03", CINEMAX FHD
+http://tvbross.com:8090/Jose/Jose123/25161
+#EXTINF:-1 group-title="Lista 03", CINECANAL DUAL
+http://tvbross.com:8090/Jose/Jose123/466
+#EXTINF:-1 group-title="Lista 03", CINECANAL HD DUAL
+http://tvbross.com:8090/Jose/Jose123/465
+#EXTINF:-1 group-title="Lista 03", COMEDY CENTRAL
+http://tvbross.com:8090/Jose/Jose123/464
+#EXTINF:-1 group-title="Lista 03", COMEDY CENTRAL HD
+http://tvbross.com:8090/Jose/Jose123/463
+#EXTINF:-1 group-title="Lista 03", CINE LATINO
+http://tvbross.com:8090/Jose/Jose123/462
+#EXTINF:-1 group-title="Lista 03", DISTRITO COMEDIA SD
+http://tvbross.com:8090/Jose/Jose123/18655
+#EXTINF:-1 group-title="Lista 03", DISTRITO COMEDIA
+http://tvbross.com:8090/Jose/Jose123/461
+#EXTINF:-1 group-title="Lista 03", DE PELICULA
+http://tvbross.com:8090/Jose/Jose123/460
+#EXTINF:-1 group-title="Lista 03", DE PELICULA PLUS
+http://tvbross.com:8090/Jose/Jose123/459
+#EXTINF:-1 group-title="Lista 03", DE PELICULA CLASICO
+http://tvbross.com:8090/Jose/Jose123/458
+#EXTINF:-1 group-title="Lista 03", FX
+http://tvbross.com:8090/Jose/Jose123/441
+#EXTINF:-1 group-title="Lista 03", FX HD
+http://tvbross.com:8090/Jose/Jose123/440
+#EXTINF:-1 group-title="Lista 03", FX HD DUAL
+http://tvbross.com:8090/Jose/Jose123/29922
+#EXTINF:-1 group-title="Lista 03", FXM
+http://tvbross.com:8090/Jose/Jose123/439
+#EXTINF:-1 group-title="Lista 03", FXM HD
+http://tvbross.com:8090/Jose/Jose123/438
+#EXTINF:-1 group-title="Lista 03", GOLDEN
+http://tvbross.com:8090/Jose/Jose123/437
+#EXTINF:-1 group-title="Lista 03", GOLDEN PLUS
+http://tvbross.com:8090/Jose/Jose123/436
+#EXTINF:-1 group-title="Lista 03", GOLDEN PLUS HD
+http://tvbross.com:8090/Jose/Jose123/435
+#EXTINF:-1 group-title="Lista 03", GOLDEN EDGE
+http://tvbross.com:8090/Jose/Jose123/434
+#EXTINF:-1 group-title="Lista 03", GOLDEN PREMIER
+http://tvbross.com:8090/Jose/Jose123/433
+#EXTINF:-1 group-title="Lista 03", HBO DUAL
+http://tvbross.com:8090/Jose/Jose123/432
+#EXTINF:-1 group-title="Lista 03", HBO HD
+http://tvbross.com:8090/Jose/Jose123/431
+#EXTINF:-1 group-title="Lista 03", HBO HD DUAL
+http://tvbross.com:8090/Jose/Jose123/430
+#EXTINF:-1 group-title="Lista 03", HBO 2
+http://tvbross.com:8090/Jose/Jose123/429
+#EXTINF:-1 group-title="Lista 03", HBO 2 HD
+http://tvbross.com:8090/Jose/Jose123/428
+#EXTINF:-1 group-title="Lista 03", HBO 2 HD OPC2
+http://tvbross.com:8090/Jose/Jose123/427
+#EXTINF:-1 group-title="Lista 03", HBO FAMILY
+http://tvbross.com:8090/Jose/Jose123/426
+#EXTINF:-1 group-title="Lista 03", HBO FAMILY HD DUAL
+http://tvbross.com:8090/Jose/Jose123/425
+#EXTINF:-1 group-title="Lista 03", HBO MUNDI
+http://tvbross.com:8090/Jose/Jose123/421
+#EXTINF:-1 group-title="Lista 03", HBO POP HD
+http://tvbross.com:8090/Jose/Jose123/420
+#EXTINF:-1 group-title="Lista 03", HBO PLUS DUAL
+http://tvbross.com:8090/Jose/Jose123/18676
+#EXTINF:-1 group-title="Lista 03", HBO PLUS HD
+http://tvbross.com:8090/Jose/Jose123/424
+#EXTINF:-1 group-title="Lista 03", HBO PLUS HD DUAL
+http://tvbross.com:8090/Jose/Jose123/423
+#EXTINF:-1 group-title="Lista 03", HBO SIGNATURE HD
+http://tvbross.com:8090/Jose/Jose123/422
+#EXTINF:-1 group-title="Lista 03", HBO XTREME HD DUAL
+http://tvbross.com:8090/Jose/Jose123/419
+#EXTINF:-1 group-title="Lista 03", PARAMOUNT
+http://tvbross.com:8090/Jose/Jose123/418
+#EXTINF:-1 group-title="Lista 03", PARAMOUNT HD
+http://tvbross.com:8090/Jose/Jose123/417
+#EXTINF:-1 group-title="Lista 03", PARAMOUNT FHD DUAL
+http://tvbross.com:8090/Jose/Jose123/416
+#EXTINF:-1 group-title="Lista 03", SYFY
+http://tvbross.com:8090/Jose/Jose123/415
+#EXTINF:-1 group-title="Lista 03", SYFY HD
+http://tvbross.com:8090/Jose/Jose123/414
+#EXTINF:-1 group-title="Lista 03", SYFY HD DUAL
+http://tvbross.com:8090/Jose/Jose123/413
+#EXTINF:-1 group-title="Lista 03", STAR CHANNEL
+http://tvbross.com:8090/Jose/Jose123/457
+#EXTINF:-1 group-title="Lista 03", STAR CHANNEL HD MX
+http://tvbross.com:8090/Jose/Jose123/456
+#EXTINF:-1 group-title="Lista 03", STAR LIFE
+http://tvbross.com:8090/Jose/Jose123/455
+#EXTINF:-1 group-title="Lista 03", STAR LIFE HD
+http://tvbross.com:8090/Jose/Jose123/454
+#EXTINF:-1 group-title="Lista 03", STAR ACTION
+http://tvbross.com:8090/Jose/Jose123/453
+#EXTINF:-1 group-title="Lista 03", STAR ACTION HD
+http://tvbross.com:8090/Jose/Jose123/452
+#EXTINF:-1 group-title="Lista 03", STAR ACTION HD OPC2
+http://tvbross.com:8090/Jose/Jose123/451
+#EXTINF:-1 group-title="Lista 03", STAR COMEDY
+http://tvbross.com:8090/Jose/Jose123/18643
+#EXTINF:-1 group-title="Lista 03", STAR COMEDY HD
+http://tvbross.com:8090/Jose/Jose123/450
+#EXTINF:-1 group-title="Lista 03", STAR CINEMA HD
+http://tvbross.com:8090/Jose/Jose123/449
+#EXTINF:-1 group-title="Lista 03", STAR CLASSIC HD DUAL
+http://tvbross.com:8090/Jose/Jose123/448
+#EXTINF:-1 group-title="Lista 03", STAR FUN
+http://tvbross.com:8090/Jose/Jose123/29920
+#EXTINF:-1 group-title="Lista 03", STAR FUN HD DUAL
+http://tvbross.com:8090/Jose/Jose123/446
+#EXTINF:-1 group-title="Lista 03", STAR HITS
+http://tvbross.com:8090/Jose/Jose123/445
+#EXTINF:-1 group-title="Lista 03", STAR HITS HD
+http://tvbross.com:8090/Jose/Jose123/444
+#EXTINF:-1 group-title="Lista 03", STAR SERIES
+http://tvbross.com:8090/Jose/Jose123/442
+#EXTINF:-1 group-title="Lista 03", STAR SERIES HD
+http://tvbross.com:8090/Jose/Jose123/14899
+#EXTINF:-1 group-title="Lista 03", SONY
+http://tvbross.com:8090/Jose/Jose123/412
+#EXTINF:-1 group-title="Lista 03", SONY HD
+http://tvbross.com:8090/Jose/Jose123/411
+#EXTINF:-1 group-title="Lista 03", SONY FHD DUAL
+http://tvbross.com:8090/Jose/Jose123/410
+#EXTINF:-1 group-title="Lista 03", SPACE
+http://tvbross.com:8090/Jose/Jose123/409
+#EXTINF:-1 group-title="Lista 03", SPACE HD
+http://tvbross.com:8090/Jose/Jose123/408
+#EXTINF:-1 group-title="Lista 03", SPACE HD OPC2
+http://tvbross.com:8090/Jose/Jose123/407
+#EXTINF:-1 group-title="Lista 03", STUDIO UNIVERSAL
+http://tvbross.com:8090/Jose/Jose123/406
+#EXTINF:-1 group-title="Lista 03", STUDIO UNIVERSAL HD
+http://tvbross.com:8090/Jose/Jose123/405
+#EXTINF:-1 group-title="Lista 03", STUDIO UNIVERSAL FHD DUAL
+http://tvbross.com:8090/Jose/Jose123/404
+#EXTINF:-1 group-title="Lista 03", TBS
+http://tvbross.com:8090/Jose/Jose123/44508
+#EXTINF:-1 group-title="Lista 03", TCM
+http://tvbross.com:8090/Jose/Jose123/403
+#EXTINF:-1 group-title="Lista 03", TNT
+http://tvbross.com:8090/Jose/Jose123/402
+#EXTINF:-1 group-title="Lista 03", TNT HD
+http://tvbross.com:8090/Jose/Jose123/401
+#EXTINF:-1 group-title="Lista 03", TNT HD DUAL
+http://tvbross.com:8090/Jose/Jose123/400
+#EXTINF:-1 group-title="Lista 03", TNT SERIES
+http://tvbross.com:8090/Jose/Jose123/399
+#EXTINF:-1 group-title="Lista 03", TNT SERIES SD
+http://tvbross.com:8090/Jose/Jose123/23601
+#EXTINF:-1 group-title="Lista 03", TNT SERIES HD
+http://tvbross.com:8090/Jose/Jose123/398
+#EXTINF:-1 group-title="Lista 03", TNT SERIES FHD
+http://tvbross.com:8090/Jose/Jose123/397
+#EXTINF:-1 group-title="Lista 03", TRUTV
+http://tvbross.com:8090/Jose/Jose123/396
+#EXTINF:-1 group-title="Lista 03", TRUTV HD
+http://tvbross.com:8090/Jose/Jose123/395
+#EXTINF:-1 group-title="Lista 03", UNIVERSAL TV HD (MX)
+http://tvbross.com:8090/Jose/Jose123/394
+#EXTINF:-1 group-title="Lista 03", UNIVERSAL TV AR
+http://tvbross.com:8090/Jose/Jose123/25834
+#EXTINF:-1 group-title="Lista 03", UNIVERSAL TV (MX)
+http://tvbross.com:8090/Jose/Jose123/43050
+#EXTINF:-1 group-title="Lista 03", WARNER
+http://tvbross.com:8090/Jose/Jose123/387
+#EXTINF:-1 group-title="Lista 03", WARNER HD
+http://tvbross.com:8090/Jose/Jose123/15728
+#EXTINF:-1 group-title="Lista 03", WARNER HD DUAL
+http://tvbross.com:8090/Jose/Jose123/386
+#EXTINF:-1 group-title="Lista 03", AFIZZIONADOS
+http://tvbross.com:8090/Jose/Jose123/63
+#EXTINF:-1 group-title="Lista 03", ADRENALINA SPORTS
+http://tvbross.com:8090/Jose/Jose123/23145
+#EXTINF:-1 group-title="Lista 03", BEIN SPORTS Ñ HD (OFFICIAL)
+http://tvbross.com:8090/Jose/Jose123/28456
+#EXTINF:-1 group-title="Lista 03", BEIN SPORTS Ñ HD
+http://tvbross.com:8090/Jose/Jose123/64
+#EXTINF:-1 group-title="Lista 03", BEIN SPORTS Ñ OPC2
+http://tvbross.com:8090/Jose/Jose123/17450
+#EXTINF:-1 group-title="Lista 03", CDO BASICO
+http://tvbross.com:8090/Jose/Jose123/65
+#EXTINF:-1 group-title="Lista 03", CDO PREMIUM
+http://tvbross.com:8090/Jose/Jose123/39176
+#EXTINF:-1 group-title="Lista 03", CLARO SPORTS
+http://tvbross.com:8090/Jose/Jose123/68
+#EXTINF:-1 group-title="Lista 03", DIRECTV SPORTS CO HD
+http://tvbross.com:8090/Jose/Jose123/71
+#EXTINF:-1 group-title="Lista 03", DIRECTV SPORTS EC HD
+http://tvbross.com:8090/Jose/Jose123/69
+#EXTINF:-1 group-title="Lista 03", DIRECTV SPORTS CHI HD
+http://tvbross.com:8090/Jose/Jose123/70
+#EXTINF:-1 group-title="Lista 03", DIRECTV SPORTS AR HD
+http://tvbross.com:8090/Jose/Jose123/32475
+#EXTINF:-1 group-title="Lista 03", DIRECTV SPORTS 2
+http://tvbross.com:8090/Jose/Jose123/72
+#EXTINF:-1 group-title="Lista 03", DIRECTV SPORTS 2 HD
+http://tvbross.com:8090/Jose/Jose123/73
+#EXTINF:-1 group-title="Lista 03", DIRECTV SPORTS +
+http://tvbross.com:8090/Jose/Jose123/17506
+#EXTINF:-1 group-title="Lista 03", DIRECTV SPORTS + HD
+http://tvbross.com:8090/Jose/Jose123/74
+#EXTINF:-1 group-title="Lista 03", EL CANAL DEL FUTBOL SD
+http://tvbross.com:8090/Jose/Jose123/37143
+#EXTINF:-1 group-title="Lista 03", EL CANAL DEL FUTBOL
+http://tvbross.com:8090/Jose/Jose123/997
+#EXTINF:-1 group-title="Lista 03", EL CANAL DEL FUTBOL HD
+http://tvbross.com:8090/Jose/Jose123/33029
+#EXTINF:-1 group-title="Lista 03", ESPN (AR)
+http://tvbross.com:8090/Jose/Jose123/2348
+#EXTINF:-1 group-title="Lista 03", ESPN HD (AR)
+http://tvbross.com:8090/Jose/Jose123/43844
+#EXTINF:-1 group-title="Lista 03", ESPN HD (CL)
+http://tvbross.com:8090/Jose/Jose123/32014
+#EXTINF:-1 group-title="Lista 03", ESPN HD (CO)
+http://tvbross.com:8090/Jose/Jose123/17828
+#EXTINF:-1 group-title="Lista 03", ESPN 2 HD (CO)
+http://tvbross.com:8090/Jose/Jose123/76
+#EXTINF:-1 group-title="Lista 03", ESPN 2 FHD (CO)
+http://tvbross.com:8090/Jose/Jose123/16231
+#EXTINF:-1 group-title="Lista 03", ESPN 2 AR
+http://tvbross.com:8090/Jose/Jose123/18192
+#EXTINF:-1 group-title="Lista 03", ESPN 3 (CO)
+http://tvbross.com:8090/Jose/Jose123/77
+#EXTINF:-1 group-title="Lista 03", ESPN 3 HD (CO)
+http://tvbross.com:8090/Jose/Jose123/49574
+#EXTINF:-1 group-title="Lista 03", ESPN 3 (AR)
+http://tvbross.com:8090/Jose/Jose123/46356
+#EXTINF:-1 group-title="Lista 03", ESPN 3 HD (AR)
+http://tvbross.com:8090/Jose/Jose123/78
+#EXTINF:-1 group-title="Lista 03", ESPN 4 HD
+http://tvbross.com:8090/Jose/Jose123/83
+#EXTINF:-1 group-title="Lista 03", ESPN (MX)
+http://tvbross.com:8090/Jose/Jose123/1043
+#EXTINF:-1 group-title="Lista 03", ESPN HD (MX)
+http://tvbross.com:8090/Jose/Jose123/79
+#EXTINF:-1 group-title="Lista 03", ESPN 2 (MX)
+http://tvbross.com:8090/Jose/Jose123/1075
+#EXTINF:-1 group-title="Lista 03", ESPN 2 HD (MX)
+http://tvbross.com:8090/Jose/Jose123/80
+#EXTINF:-1 group-title="Lista 03", ESPN 3 HD (MX)
+http://tvbross.com:8090/Jose/Jose123/81
+#EXTINF:-1 group-title="Lista 03", ESPN 3 (MX)
+http://tvbross.com:8090/Jose/Jose123/1078
+#EXTINF:-1 group-title="Lista 03", ESPN EXTRA (MX)
+http://tvbross.com:8090/Jose/Jose123/1053
+#EXTINF:-1 group-title="Lista 03", ESPN EXTRA HD (MX)
+http://tvbross.com:8090/Jose/Jose123/82
+#EXTINF:-1 group-title="Lista 03", FOX SPORTS
+http://tvbross.com:8090/Jose/Jose123/15001
+#EXTINF:-1 group-title="Lista 03", FOX SPORTS HD OPC2
+http://tvbross.com:8090/Jose/Jose123/53316
+#EXTINF:-1 group-title="Lista 03", FOX SPORTS (AR)
+http://tvbross.com:8090/Jose/Jose123/2351
+#EXTINF:-1 group-title="Lista 03", FOX SPORTS 1 HD (CL)
+http://tvbross.com:8090/Jose/Jose123/14958
+#EXTINF:-1 group-title="Lista 03", FOX SPORTS 2
+http://tvbross.com:8090/Jose/Jose123/2352
+#EXTINF:-1 group-title="Lista 03", FOX SPORTS 2 HD
+http://tvbross.com:8090/Jose/Jose123/84
+#EXTINF:-1 group-title="Lista 03", FOX SPORTS 2 HD OPC2
+http://tvbross.com:8090/Jose/Jose123/17756
+#EXTINF:-1 group-title="Lista 03", FOX SPORTS 3 HD
+http://tvbross.com:8090/Jose/Jose123/85
+#EXTINF:-1 group-title="Lista 03", FOX SPORTS 3 FHD
+http://tvbross.com:8090/Jose/Jose123/18233
+#EXTINF:-1 group-title="Lista 03", FOX SPORTS PREMIUM
+http://tvbross.com:8090/Jose/Jose123/47185
+#EXTINF:-1 group-title="Lista 03", FOX SPORTS PREMIUM HD
+http://tvbross.com:8090/Jose/Jose123/2358
+#EXTINF:-1 group-title="Lista 03", FOX SPORTS (MX)
+http://tvbross.com:8090/Jose/Jose123/87
+#EXTINF:-1 group-title="Lista 03", FOX SPORTS HD (MX)
+http://tvbross.com:8090/Jose/Jose123/88
+#EXTINF:-1 group-title="Lista 03", FOX SPORTS 2 (MX)
+http://tvbross.com:8090/Jose/Jose123/89
+#EXTINF:-1 group-title="Lista 03", FOX SPORTS 2 HD (MX)
+http://tvbross.com:8090/Jose/Jose123/90
+#EXTINF:-1 group-title="Lista 03", FOX SPORTS 3 (MX)
+http://tvbross.com:8090/Jose/Jose123/91
+#EXTINF:-1 group-title="Lista 03", FOX SPORTS 3 HD (MX)
+http://tvbross.com:8090/Jose/Jose123/92
+#EXTINF:-1 group-title="Lista 03", GOLTV HD (UY)
+http://tvbross.com:8090/Jose/Jose123/15729
+#EXTINF:-1 group-title="Lista 03", GOLTV HD LAT
+http://tvbross.com:8090/Jose/Jose123/97
+#EXTINF:-1 group-title="Lista 03", GOLTV ECUADOR SD
+http://tvbross.com:8090/Jose/Jose123/94
+#EXTINF:-1 group-title="Lista 03", GOLTV ECUADOR HD
+http://tvbross.com:8090/Jose/Jose123/95
+#EXTINF:-1 group-title="Lista 03", GOLTV ECUADOR OPC 2
+http://tvbross.com:8090/Jose/Jose123/39818
+#EXTINF:-1 group-title="Lista 03", GOLTV ECUADOR HD OPC2
+http://tvbross.com:8090/Jose/Jose123/96
+#EXTINF:-1 group-title="Lista 03", GOL PERU HD
+http://tvbross.com:8090/Jose/Jose123/93
+#EXTINF:-1 group-title="Lista 03", TNT SPORTS (AR)
+http://tvbross.com:8090/Jose/Jose123/98
+#EXTINF:-1 group-title="Lista 03", TNT SPORTS HD (AR)
+http://tvbross.com:8090/Jose/Jose123/37542
+#EXTINF:-1 group-title="Lista 03", TNT SPORTS HD (CL.)
+http://tvbross.com:8090/Jose/Jose123/66
+#EXTINF:-1 group-title="Lista 03", TNT SPORTS HD (CL)
+http://tvbross.com:8090/Jose/Jose123/31148
+#EXTINF:-1 group-title="Lista 03", TNT SPORTS HD OPC2 (CL)
+http://tvbross.com:8090/Jose/Jose123/67
+#EXTINF:-1 group-title="Lista 03", TNT SPORTS 2 (CL)
+http://tvbross.com:8090/Jose/Jose123/2328
+#EXTINF:-1 group-title="Lista 03", TNT SPORTS 3 (CL)
+http://tvbross.com:8090/Jose/Jose123/45453
+#EXTINF:-1 group-title="Lista 03", TyC SPORTS
+http://tvbross.com:8090/Jose/Jose123/2421
+#EXTINF:-1 group-title="Lista 03", TYC SPORTS HD
+http://tvbross.com:8090/Jose/Jose123/37985
+#EXTINF:-1 group-title="Lista 03", TVC DEPORTES
+http://tvbross.com:8090/Jose/Jose123/104
+#EXTINF:-1 group-title="Lista 03", TIGO SPORTS HD (BO)
+http://tvbross.com:8090/Jose/Jose123/101
+#EXTINF:-1 group-title="Lista 03", TIGO SPORTS 2 HD (BO)
+http://tvbross.com:8090/Jose/Jose123/102
+#EXTINF:-1 group-title="Lista 03", TIGO SPORTS 3 (BO)
+http://tvbross.com:8090/Jose/Jose123/103
+#EXTINF:-1 group-title="Lista 03", TIGO SPORTS (PY)
+http://tvbross.com:8090/Jose/Jose123/14469
+#EXTINF:-1 group-title="Lista 03", TIGO SPORTS + (PY)
+http://tvbross.com:8090/Jose/Jose123/14470
+#EXTINF:-1 group-title="Lista 03", TIGO SPORTS HD (CR)
+http://tvbross.com:8090/Jose/Jose123/100
+#EXTINF:-1 group-title="Lista 03", TIGO SPORTS (GUA)
+http://tvbross.com:8090/Jose/Jose123/45021
+#EXTINF:-1 group-title="Lista 03", TUDN HD MX
+http://tvbross.com:8090/Jose/Jose123/16044
+#EXTINF:-1 group-title="Lista 03", TUDN 2 HD
+http://tvbross.com:8090/Jose/Jose123/39463
+#EXTINF:-1 group-title="Lista 03", UFC
+http://tvbross.com:8090/Jose/Jose123/17830
+#EXTINF:-1 group-title="Lista 03", GARAGE TV HD
+http://tvbross.com:8090/Jose/Jose123/107
+#EXTINF:-1 group-title="Lista 03", GOLF CHANNEL
+http://tvbross.com:8090/Jose/Jose123/108
+#EXTINF:-1 group-title="Lista 03", WIN SPORTS
+http://tvbross.com:8090/Jose/Jose123/105
+#EXTINF:-1 group-title="Lista 03", WIN SPORTS HD
+http://tvbross.com:8090/Jose/Jose123/106
+#EXTINF:-1 group-title="Lista 03", WIN SPORTS +
+http://tvbross.com:8090/Jose/Jose123/17255
+#EXTINF:-1 group-title="Lista 03", WIN SPORTS + HD
+http://tvbross.com:8090/Jose/Jose123/17254
+#EXTINF:-1 group-title="Lista 03", EUROSPORTS 1 HD
+http://tvbross.com:8090/Jose/Jose123/109
+#EXTINF:-1 group-title="Lista 03", EUROSPORTS 1 HD (H265)
+http://tvbross.com:8090/Jose/Jose123/110
+#EXTINF:-1 group-title="Lista 03", EUROSPORTS 2 HD
+http://tvbross.com:8090/Jose/Jose123/111
+#EXTINF:-1 group-title="Lista 03", LA LIGA TV
+http://tvbross.com:8090/Jose/Jose123/48284
+#EXTINF:-1 group-title="Lista 03", MOVISTAR LA LIGA TV
+http://tvbross.com:8090/Jose/Jose123/112
+#EXTINF:-1 group-title="Lista 03", LIGA DE CAMPEONES FHD
+http://tvbross.com:8090/Jose/Jose123/114
+#EXTINF:-1 group-title="Lista 03", LIGA DE CAMPEONES HD
+http://tvbross.com:8090/Jose/Jose123/115
+#EXTINF:-1 group-title="Lista 03", USA-ES: TELEMUNDO INTERNACIONAL
+http://tvbross.com:8090/Jose/Jose123/6199
+#EXTINF:-1 group-title="Lista 03", USA-ES: TELEMUNDO WEST
+http://tvbross.com:8090/Jose/Jose123/17522
+#EXTINF:-1 group-title="Lista 03", USA-ES: TELEMUNDO MIAMI
+http://tvbross.com:8090/Jose/Jose123/19645
+#EXTINF:-1 group-title="Lista 03", USA-ES: TELEMUNDO NEW YORK (TEST)
+http://tvbross.com:8090/Jose/Jose123/18852
+#EXTINF:-1 group-title="Lista 03", USA-ES: TELEMUNDO NEW YORK FHD
+http://tvbross.com:8090/Jose/Jose123/19644
+#EXTINF:-1 group-title="Lista 03", USA-ES: TELEMUNDO WASHINGTON
+http://tvbross.com:8090/Jose/Jose123/607
+#EXTINF:-1 group-title="Lista 03", USA-ES: TELEMUNDO PHILADELPHIA
+http://tvbross.com:8090/Jose/Jose123/18848
+#EXTINF:-1 group-title="Lista 03", USA-ES: TELEMUNDO SALT LAKE
+http://tvbross.com:8090/Jose/Jose123/48134
+#EXTINF:-1 group-title="Lista 03", USA-ES: TELEMUNDO BOSTON
+http://tvbross.com:8090/Jose/Jose123/18849
+#EXTINF:-1 group-title="Lista 03", USA-ES: TELEMUNDO LOS ANGELES
+http://tvbross.com:8090/Jose/Jose123/19444
+#EXTINF:-1 group-title="Lista 03", USA-ES: UNIMAS LOS ANGELES
+http://tvbross.com:8090/Jose/Jose123/14472
+#EXTINF:-1 group-title="Lista 03", USA-ES: UNIMAS NEW YORK
+http://tvbross.com:8090/Jose/Jose123/38984
+#EXTINF:-1 group-title="Lista 03", USA-ES: UNIVERSO HD
+http://tvbross.com:8090/Jose/Jose123/16225
+#EXTINF:-1 group-title="Lista 03", USA-ES: UNIVISION MIAMI
+http://tvbross.com:8090/Jose/Jose123/19443
+#EXTINF:-1 group-title="Lista 03", USA-ES: UNIVISION NEW YORK
+http://tvbross.com:8090/Jose/Jose123/32151
+#EXTINF:-1 group-title="Lista 03", USA-ES: UNIVISION SALT LAKE
+http://tvbross.com:8090/Jose/Jose123/48133
+#EXTINF:-1 group-title="Lista 03", USA-ES: UNIVISION HD
+http://tvbross.com:8090/Jose/Jose123/604
+#EXTINF:-1 group-title="Lista 03", USA-ES: UNIVISION FHD
+http://tvbross.com:8090/Jose/Jose123/20585
+#EXTINF:-1 group-title="Lista 03", USA-ES: GALAVISION 
+http://tvbross.com:8090/Jose/Jose123/16107
+#EXTINF:-1 group-title="Lista 03", USA-ES: TUDN
+http://tvbross.com:8090/Jose/Jose123/17015
+#EXTINF:-1 group-title="Lista 03", USA-ES: FOX DEPORTES
+http://tvbross.com:8090/Jose/Jose123/29451
+#EXTINF:-1 group-title="Lista 03", USA-ES: ESPN DEPORTES
+http://tvbross.com:8090/Jose/Jose123/31422
+#EXTINF:-1 group-title="Lista 03", USA-ES: ESTRELLA TV
+http://tvbross.com:8090/Jose/Jose123/36777
+#EXTINF:-1 group-title="Lista 03", AL JAZZERA
+http://tvbross.com:8090/Jose/Jose123/1680
+#EXTINF:-1 group-title="Lista 03", CNN ESP
+http://tvbross.com:8090/Jose/Jose123/1681
+#EXTINF:-1 group-title="Lista 03", CNN ING
+http://tvbross.com:8090/Jose/Jose123/1682
+#EXTINF:-1 group-title="Lista 03", DW
+http://tvbross.com:8090/Jose/Jose123/1683
+#EXTINF:-1 group-title="Lista 03", TELEMUNDO INT CENTRO
+http://tvbross.com:8090/Jose/Jose123/33027
+#EXTINF:-1 group-title="Lista 03", TELEMUNDO INT SUR
+http://tvbross.com:8090/Jose/Jose123/32957
+#EXTINF:-1 group-title="Lista 03", HTV
+http://tvbross.com:8090/Jose/Jose123/2412
+#EXTINF:-1 group-title="Lista 03", PAN: MAS TV 23
+http://tvbross.com:8090/Jose/Jose123/2413
+#EXTINF:-1 group-title="Lista 03", BANDAMAX
+http://tvbross.com:8090/Jose/Jose123/492
+#EXTINF:-1 group-title="Lista 03", MTV
+http://tvbross.com:8090/Jose/Jose123/2233
+#EXTINF:-1 group-title="Lista 03", MTV LIVE HD
+http://tvbross.com:8090/Jose/Jose123/2247
+#EXTINF:-1 group-title="Lista 03", MTV HITS
+http://tvbross.com:8090/Jose/Jose123/2235
+#EXTINF:-1 group-title="Lista 03", TELEHIT
+http://tvbross.com:8090/Jose/Jose123/2236
+#EXTINF:-1 group-title="Lista 03", TELEHIT PLUS
+http://tvbross.com:8090/Jose/Jose123/2237
+#EXTINF:-1 group-title="Lista 03", VH1
+http://tvbross.com:8090/Jose/Jose123/2252
+#EXTINF:-1 group-title="Lista 03", VH1 HD
+http://tvbross.com:8090/Jose/Jose123/2238
+#EXTINF:-1 group-title="Lista 03", VH1 CLASSIC
+http://tvbross.com:8090/Jose/Jose123/2253
+#EXTINF:-1 group-title="Lista 03", VIA X
+http://tvbross.com:8090/Jose/Jose123/47095
+#EXTINF:-1 group-title="Lista 03", ZONA LATINA
+http://tvbross.com:8090/Jose/Jose123/47094
+#EXTINF:-1 group-title="Lista 03", CINEMA PPV 01
+http://tvbross.com:8090/Jose/Jose123/2467
+#EXTINF:-1 group-title="Lista 03", CINEMA PPV 02
+http://tvbross.com:8090/Jose/Jose123/2466
+#EXTINF:-1 group-title="Lista 03", CINEMA PPV 03
+http://tvbross.com:8090/Jose/Jose123/2464
+#EXTINF:-1 group-title="Lista 03", CINEMA PPV 04
+http://tvbross.com:8090/Jose/Jose123/2463
+#EXTINF:-1 group-title="Lista 03", CINEMA PPV 05
+http://tvbross.com:8090/Jose/Jose123/2438
+#EXTINF:-1 group-title="Lista 03", CINEMA PPV 06
+http://tvbross.com:8090/Jose/Jose123/2437
+#EXTINF:-1 group-title="Lista 03", CINEMA PPV 07
+http://tvbross.com:8090/Jose/Jose123/2436
+#EXTINF:-1 group-title="Lista 03", CINEMA PPV 08
+http://tvbross.com:8090/Jose/Jose123/2434
+#EXTINF:-1 group-title="Lista 03", CINEMA PPV 09
+http://tvbross.com:8090/Jose/Jose123/2465
+#EXTINF:-1 group-title="Lista 03", CINEMA PPV 10
+http://tvbross.com:8090/Jose/Jose123/2435
+#EXTINF:-1 group-title="Lista 03", AUTOMAN 24/7
+http://tvbross.com:8090/Jose/Jose123/20434
+#EXTINF:-1 group-title="Lista 03", ALF 24/7
+http://tvbross.com:8090/Jose/Jose123/2522
+#EXTINF:-1 group-title="Lista 03", BEN 10 24/7
+http://tvbross.com:8090/Jose/Jose123/17749
+#EXTINF:-1 group-title="Lista 03", BOB ESPONJA 24/7
+http://tvbross.com:8090/Jose/Jose123/2368
+#EXTINF:-1 group-title="Lista 03", CABALLEROS DEL ZODIACO 24/7
+http://tvbross.com:8090/Jose/Jose123/2369
+#EXTINF:-1 group-title="Lista 03", BARON ROJO 24/7
+http://tvbross.com:8090/Jose/Jose123/17754
+#EXTINF:-1 group-title="Lista 03", DRAGON BALL GT HD 24/7
+http://tvbross.com:8090/Jose/Jose123/17746
+#EXTINF:-1 group-title="Lista 03", DRAGON BALL SUPER HD 24/7
+http://tvbross.com:8090/Jose/Jose123/17745
+#EXTINF:-1 group-title="Lista 03", EL CHAVO DEL 8 24/7
+http://tvbross.com:8090/Jose/Jose123/20230
+#EXTINF:-1 group-title="Lista 03", EL CHAPULIN COLORADO 24/7
+http://tvbross.com:8090/Jose/Jose123/25169
+#EXTINF:-1 group-title="Lista 03", EL CHAPULIN COLORADO ANIMADO 24/7
+http://tvbross.com:8090/Jose/Jose123/2372
+#EXTINF:-1 group-title="Lista 03", HEY ARNORLD 24/7
+http://tvbross.com:8090/Jose/Jose123/17434
+#EXTINF:-1 group-title="Lista 03", HALCONES GALACTICOS 24/7
+http://tvbross.com:8090/Jose/Jose123/17747
+#EXTINF:-1 group-title="Lista 03", LA PANTERA ROSA 24/7
+http://tvbross.com:8090/Jose/Jose123/17753
+#EXTINF:-1 group-title="Lista 03", LOONEY TUNES 24/7
+http://tvbross.com:8090/Jose/Jose123/2374
+#EXTINF:-1 group-title="Lista 03", LOONEY TUNES PLATINUM COLLECTION 24/7
+http://tvbross.com:8090/Jose/Jose123/17755
+#EXTINF:-1 group-title="Lista 03", LOS PICAPIEDRAS 24/7
+http://tvbross.com:8090/Jose/Jose123/2373
+#EXTINF:-1 group-title="Lista 03", LOS SIMPSONS 24/7
+http://tvbross.com:8090/Jose/Jose123/31990
+#EXTINF:-1 group-title="Lista 03", MALCOM 24/7
+http://tvbross.com:8090/Jose/Jose123/17744
+#EXTINF:-1 group-title="Lista 03", MI BELLA GENIO 24/7
+http://tvbross.com:8090/Jose/Jose123/18806
+#EXTINF:-1 group-title="Lista 03", PEPA PIG 24/7
+http://tvbross.com:8090/Jose/Jose123/17748
+#EXTINF:-1 group-title="Lista 03", RANMA 1/2 24/7
+http://tvbross.com:8090/Jose/Jose123/2376
+#EXTINF:-1 group-title="Lista 03", SONIC Y SU BANDA 24/7
+http://tvbross.com:8090/Jose/Jose123/17752
+#EXTINF:-1 group-title="Lista 03", SCOOBY DOO 24/7
+http://tvbross.com:8090/Jose/Jose123/2377
+#EXTINF:-1 group-title="Lista 03", TOM Y JERRY 24/7
+http://tvbross.com:8090/Jose/Jose123/16266
+#EXTINF:-1 group-title="Lista 03", QUE HAY DE NUEVO SCOOBY DOO 24/7
+http://tvbross.com:8090/Jose/Jose123/17750
+#EXTINF:-1 group-title="Lista 03", YU-GI-HO 24/7
+http://tvbross.com:8090/Jose/Jose123/2378
+#EXTINF:-1 group-title="Lista 03", CRISTOVISION
+http://tvbross.com:8090/Jose/Jose123/20640
+#EXTINF:-1 group-title="Lista 03", EWTN
+http://tvbross.com:8090/Jose/Jose123/14475
+#EXTINF:-1 group-title="Lista 03", ESPERANZA TV
+http://tvbross.com:8090/Jose/Jose123/14476
+#EXTINF:-1 group-title="Lista 03", ELIM TV
+http://tvbross.com:8090/Jose/Jose123/18815
+#EXTINF:-1 group-title="Lista 03", ENLACE TV
+http://tvbross.com:8090/Jose/Jose123/18193
+#EXTINF:-1 group-title="Lista 03", SEMBRADOR TV
+http://tvbross.com:8090/Jose/Jose123/18195
+#EXTINF:-1 group-title="Lista 03", PR: WAPA AMERICA
+http://tvbross.com:8090/Jose/Jose123/25164
+#EXTINF:-1 group-title="Lista 03", PR: WIPR
+http://tvbross.com:8090/Jose/Jose123/25165
+#EXTINF:-1 group-title="Lista 03", PR: UNIVISION (TEST)
+http://tvbross.com:8090/Jose/Jose123/25167
+#EXTINF:-1 group-title="Lista 03", PR: TELEMUNDO
+http://tvbross.com:8090/Jose/Jose123/18851
+#EXTINF:-1 group-title="Lista 03", PR: MEGA TV
+http://tvbross.com:8090/Jose/Jose123/32146
+#EXTINF:-1 group-title="Lista 03", VE: MERIDIANO
+http://tvbross.com:8090/Jose/Jose123/29167
+#EXTINF:-1 group-title="Lista 03", VE: GLOBOVISION
+http://tvbross.com:8090/Jose/Jose123/29168
+#EXTINF:-1 group-title="Lista 03", VE: TELESUR TV
+http://tvbross.com:8090/Jose/Jose123/40062
+
+
+#EXTINF:-1  group-title="Lista 03",  UNIM | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/3519
+#EXTINF:-1  group-title="Lista 03",  UNIVERSO | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/3518
+#EXTINF:-1  group-title="Lista 03",  Univision New Jersey
+http://greenstreamtv.xyz:25461/tricia/tricia/11482
+#EXTINF:-1  group-title="Lista 03",  UNIVISION TLNOVELAS | SD
+http://greenstreamtv.xyz:25461/tricia/tricia/3520
+#EXTINF:-1  group-title="Lista 03",  UNIVISION | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/3526
+#EXTINF:-1  group-title="Lista 03",  VIDEO ROLA | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/3425
+#EXTINF:-1  group-title="Lista 03",  VME KIDS | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/3426
+#EXTINF:-1  group-title="Lista 03",  Win Sports
+http://greenstreamtv.xyz:25461/tricia/tricia/11001
+#EXTINF:-1  group-title="Lista 03",  ZEE FAMILIA | SD
+http://greenstreamtv.xyz:25461/tricia/tricia/3423
+#EXTINF:-1  group-title="Lista 03",  ZEE MUNDO | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/3422
+#EXTINF:-1  group-title="Lista 03",  ZON FUTBOL | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/3537
+#EXTINF:-1  group-title="Lista 03", CCI (HON) | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/3570
+#EXTINF:-1  group-title="Lista 03", Lation: HBO Mundi
+http://greenstreamtv.xyz:25461/tricia/tricia/10994
+#EXTINF:-1  group-title="Lista 03", AZ CINEMA | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/11282
+#EXTINF:-1  group-title="Lista 03", AZ CLIC 
+http://greenstreamtv.xyz:25461/tricia/tricia/11283
+#EXTINF:-1  group-title="Lista 03", AZ MUNDO | SD
+http://greenstreamtv.xyz:25461/tricia/tricia/11284
+#EXTINF:-1  group-title="Lista 03", AZTECA 7 | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/11285
+#EXTINF:-1  group-title="Lista 03", AZTECA 7 | SD
+http://greenstreamtv.xyz:25461/tricia/tricia/11286
+#EXTINF:-1  group-title="Lista 03", AZTECA UNO | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/11291
+#EXTINF:-1  group-title="Lista 03", BANDAMAX | SD
+http://greenstreamtv.xyz:25461/tricia/tricia/11294
+#EXTINF:-1  group-title="Lista 03", BOOMERANG | SD
+http://greenstreamtv.xyz:25461/tricia/tricia/11297
+#EXTINF:-1  group-title="Lista 03", CANAL 5 | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/11300
+#EXTINF:-1  group-title="Lista 03", CANAL DE LAS ESTRELLAS | SD
+http://greenstreamtv.xyz:25461/tricia/tricia/11301
+#EXTINF:-1  group-title="Lista 03", CANAL ONCE | SD
+http://greenstreamtv.xyz:25461/tricia/tricia/11387
+#EXTINF:-1  group-title="Lista 03", CARTOON NETWORK | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/11307
+#EXTINF:-1  group-title="Lista 03", COMEDY CENTRAL | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/11310
+#EXTINF:-1  group-title="Lista 03", DE PELICULA PLUS | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/11313
+#EXTINF:-1  group-title="Lista 03", DE PELICULA | SD
+http://greenstreamtv.xyz:25461/tricia/tricia/11314
+#EXTINF:-1  group-title="Lista 03", DISCOVERY CHANNEL | SD
+http://greenstreamtv.xyz:25461/tricia/tricia/11315
+#EXTINF:-1  group-title="Lista 03", DISCOVERY H&H | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/11316
+#EXTINF:-1  group-title="Lista 03", DISCOVERY ID | SD
+http://greenstreamtv.xyz:25461/tricia/tricia/11319
+#EXTINF:-1  group-title="Lista 03", DISCOVERY SCIENCE | SD
+http://greenstreamtv.xyz:25461/tricia/tricia/11320
+#EXTINF:-1  group-title="Lista 03", DISCOVERY WORLD | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/11326
+#EXTINF:-1  group-title="Lista 03", EL GOURMET | SD
+http://greenstreamtv.xyz:25461/tricia/tricia/11329
+#EXTINF:-1  group-title="Lista 03", ESPN 2 | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/11330
+#EXTINF:-1  group-title="Lista 03", FOX CHANNEL | SD
+http://greenstreamtv.xyz:25461/tricia/tricia/11335
+#EXTINF:-1  group-title="Lista 03", GOLDEN | SD
+http://greenstreamtv.xyz:25461/tricia/tricia/11343
+#EXTINF:-1  group-title="Lista 03", LAS ESTRELLAS | SD
+http://greenstreamtv.xyz:25461/tricia/tricia/11348
+#EXTINF:-1  group-title="Lista 03", MTV LIVE | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/11388
+#EXTINF:-1  group-title="Lista 03", NTN24 | SD
+http://greenstreamtv.xyz:25461/tricia/tricia/11356
+#EXTINF:-1  group-title="Lista 03", PARAMOUNT CHANNEL | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/11357
+#EXTINF:-1  group-title="Lista 03", PX SPORTS | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/11359
+#EXTINF:-1  group-title="Lista 03", SPACE | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/11363
+#EXTINF:-1  group-title="Lista 03", SUNDANCE TV | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/11365
+#EXTINF:-1  group-title="Lista 03", TNT SERIES | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/11373
+#EXTINF:-1  group-title="Lista 03", TNT | HD
+http://greenstreamtv.xyz:25461/tricia/tricia/11374
+#EXTINF:-1  group-title="Lista 03", PR: Mega
+http://greenstreamtv.xyz:25461/tricia/tricia/5889
+#EXTINF:-1  group-title="Lista 03", Investigation Discovery
+http://greenstreamtv.xyz:25461/tricia/tricia/11753
+#EXTINF:-1  group-title="Lista 03", Wapa America
+http://greenstreamtv.xyz:25461/tricia/tricia/11777
+#EXTINF:-1  group-title="Lista 03", Unicable
+http://greenstreamtv.xyz:25461/tricia/tricia/11833
