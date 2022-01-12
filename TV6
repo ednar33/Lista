@@ -1,0 +1,839 @@
+#EXTINF:-1  group-title="Lista 07" , CDF 
+http://186.67.37.45:9000/play/a002/index.m3u8
+#EXTINF:-1  group-title="Lista 07" , CDF Basico
+http://186.67.37.45:9000/play/a00e/index.m3u8
+#EXTINF:-1  group-title="Lista 07" , Canal 13  
+http://186.67.37.45:9000/play/a00c/index.m3u8
+#EXTINF:-1  group-title="Lista 07" , Canal 2
+http://186.67.37.45:9000/play/a00a/index.m3u8
+#EXTINF:-1  group-title="Lista 07" , Canal Regional 
+http://186.67.37.45:9000/play/a004/index.m3u8
+#EXTINF:-1  group-title="Lista 07" , FMH FAMILY
+http://186.67.37.45:9000/play/a00b/index.m3u8
+#EXTINF:-1  group-title="Lista 07" , Karavana Tv
+http://186.67.37.45:9000/play/a008/index.m3u8
+#EXTINF:-1  group-title="Lista 07" , TVN HD
+http://186.67.37.45:9000/play/a00d/index.m3u8
+#EXTINF:-1  group-title="Lista 07" , Urbano
+http://186.67.37.45:9000/play/a009/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="Lista 07" , FUTURAMA
+http://bulltv.us:2999/legacy/legacy/11
+#EXTINF:-1 group-title="Lista 07" , TELEHIT
+http://bulltv.us:2999/legacy/legacy/122
+#EXTINF:-1 group-title="Lista 07" , TELEFORMULA
+http://bulltv.us:2999/legacy/legacy/121
+#EXTINF:-1 group-title="Lista 07" , TCM
+http://bulltv.us:2999/legacy/legacy/120
+#EXTINF:-1 group-title="Lista 07" , TBS
+http://bulltv.us:2999/legacy/legacy/119
+#EXTINF:-1 group-title="Lista 07" , SYFY
+http://bulltv.us:2999/legacy/legacy/118
+#EXTINF:-1 group-title="Lista 07" , Sundance
+http://bulltv.us:2999/legacy/legacy/117
+#EXTINF:-1 group-title="Lista 07" , STUDIO UNIVERSAL
+http://bulltv.us:2999/legacy/legacy/116
+#EXTINF:-1 group-title="Lista 07" , STARZ ENCORE
+http://bulltv.us:2999/legacy/legacy/115
+#EXTINF:-1 group-title="Lista 07" , STARZ
+http://bulltv.us:2999/legacy/legacy/114
+#EXTINF:-1 group-title="Lista 07" , SPACE
+http://bulltv.us:2999/legacy/legacy/113
+#EXTINF:-1 group-title="Lista 07" , SONY
+http://bulltv.us:2999/legacy/legacy/112
+#EXTINF:-1 group-title="Lista 07" , SHOWTIME
+http://bulltv.us:2999/legacy/legacy/111
+#EXTINF:-1 group-title="Lista 07" , RCN
+http://bulltv.us:2999/legacy/legacy/109
+#EXTINF:-1 group-title="Lista 07" , PASIONES
+http://bulltv.us:2999/legacy/legacy/108
+#EXTINF:-1 group-title="Lista 07" , NICKTOONS
+http://bulltv.us:2999/legacy/legacy/107
+#EXTINF:-1 group-title="Lista 07" ,  NICK JR
+http://bulltv.us:2999/legacy/legacy/106
+#EXTINF:-1 group-title="Lista 07" , NICK
+http://bulltv.us:2999/legacy/legacy/105
+#EXTINF:-1 group-title="Lista 07" , NATIONAL GEOGRAPHIC
+http://bulltv.us:2999/legacy/legacy/104
+#EXTINF:-1 group-title="Lista 07" , NAT GEO WILD
+http://bulltv.us:2999/legacy/legacy/103
+#EXTINF:-1 group-title="Lista 07" , NAT GEO MUNDO
+http://bulltv.us:2999/legacy/legacy/102
+#EXTINF:-1 group-title="Lista 07" , NAT GEO KIDS
+http://bulltv.us:2999/legacy/legacy/101
+#EXTINF:-1 group-title="Lista 07" , MULTIMEDIOS
+http://bulltv.us:2999/legacy/legacy/100
+#EXTINF:-1 group-title="Lista 07" , MEXIQUENSE
+http://bulltv.us:2999/legacy/legacy/99
+#EXTINF:-1 group-title="Lista 07" , HBO POP
+http://bulltv.us:2999/legacy/legacy/98
+#EXTINF:-1 group-title="Lista 07" , MASCHIC
+http://bulltv.us:2999/legacy/legacy/96
+#EXTINF:-1 group-title="Lista 07" , LIFETIME
+http://bulltv.us:2999/legacy/legacy/95
+#EXTINF:-1 group-title="Lista 07" , IMAGEN 
+http://bulltv.us:2999/legacy/legacy/94
+#EXTINF:-1 group-title="Lista 07" , HOLA TV
+http://bulltv.us:2999/legacy/legacy/93
+#EXTINF:-1 group-title="Lista 07" , HISTORY CHANNEL
+http://bulltv.us:2999/legacy/legacy/92
+#EXTINF:-1 group-title="Lista 07" , HISTORY 2
+http://bulltv.us:2999/legacy/legacy/91
+#EXTINF:-1 group-title="Lista 07" , HBO PLUS
+http://bulltv.us:2999/legacy/legacy/90
+#EXTINF:-1 group-title="Lista 07" , HBO FAMILY
+http://bulltv.us:2999/legacy/legacy/89
+#EXTINF:-1 group-title="Lista 07" , HBO 2
+http://bulltv.us:2999/legacy/legacy/88
+#EXTINF:-1 group-title="Lista 07" , HBO
+http://bulltv.us:2999/legacy/legacy/87
+#EXTINF:-1 group-title="Lista 07" , GOLDEN PLUS
+http://bulltv.us:2999/legacy/legacy/86
+#EXTINF:-1 group-title="Lista 07" , GOLDEN EDGE
+http://bulltv.us:2999/legacy/legacy/85
+#EXTINF:-1 group-title="Lista 07" , GOL TV
+http://bulltv.us:2999/legacy/legacy/84
+#EXTINF:-1 group-title="Lista 07" , GLITZ
+http://bulltv.us:2999/legacy/legacy/83
+#EXTINF:-1 group-title="Lista 07" , STAR FUN
+http://bulltv.us:2999/legacy/legacy/73
+#EXTINF:-1 group-title="Lista 07" , FOX LIFE
+http://bulltv.us:2999/legacy/legacy/74
+#EXTINF:-1 group-title="Lista 07" , FOX PREMIUM SERIES
+http://bulltv.us:2999/legacy/legacy/76
+#EXTINF:-1 group-title="Lista 07" , FOX SPORTS
+http://bulltv.us:2999/legacy/legacy/77
+#EXTINF:-1 group-title="Lista 07" , FOX SPORTS 2
+http://bulltv.us:2999/legacy/legacy/78
+#EXTINF:-1 group-title="Lista 07" , FOX SPORTS 3
+http://bulltv.us:2999/legacy/legacy/79
+#EXTINF:-1 group-title="Lista 07" , FX
+http://bulltv.us:2999/legacy/legacy/80
+#EXTINF:-1 group-title="Lista 07" , FXM
+http://bulltv.us:2999/legacy/legacy/81
+#EXTINF:-1 group-title="Lista 07" , GALA TV
+http://bulltv.us:2999/legacy/legacy/82
+#EXTINF:-1 group-title="Lista 07" , STAR CLASSIC
+http://bulltv.us:2999/legacy/legacy/72
+#EXTINF:-1 group-title="Lista 07" , STAR CINEMA
+http://bulltv.us:2999/legacy/legacy/71
+#EXTINF:-1 group-title="Lista 07" , FOX
+http://bulltv.us:2999/legacy/legacy/69
+#EXTINF:-1 group-title="Lista 07" , FORO TV
+http://bulltv.us:2999/legacy/legacy/68
+#EXTINF:-1 group-title="Lista 07" , FOOD NETWORK
+http://bulltv.us:2999/legacy/legacy/67
+#EXTINF:-1 group-title="Lista 07" , ESTRELLA TV
+http://bulltv.us:2999/legacy/legacy/66
+#EXTINF:-1 group-title="Lista 07" , DISCOVERY WORLD
+http://bulltv.us:2999/legacy/legacy/53
+#EXTINF:-1 group-title="Lista 07" , DISNEY CHANNEL
+http://soberon.us:8080/soberon/bulltv/82
+#EXTINF:-1 group-title="Lista 07" , DISNEY JR
+http://bulltv.us:2999/legacy/legacy/55
+#EXTINF:-1 group-title="Lista 07" , DISNEY XD
+http://bulltv.us:2999/legacy/legacy/56
+#EXTINF:-1 group-title="Lista 07" , DISTRITO COMEDIA
+http://bulltv.us:2999/legacy/legacy/57
+#EXTINF:-1 group-title="Lista 07" , E!
+http://bulltv.us:2999/legacy/legacy/58
+#EXTINF:-1 group-title="Lista 07" , EL GARAGE
+http://bulltv.us:2999/legacy/legacy/59
+#EXTINF:-1 group-title="Lista 07" , EL GOURMET
+http://bulltv.us:2999/legacy/legacy/60
+#EXTINF:-1 group-title="Lista 07" , HGTV
+http://bulltv.us:2999/legacy/legacy/43
+#EXTINF:-1 group-title="Lista 07" , DISCOVERY EN ESPAÑOL
+http://bulltv.us:2999/legacy/legacy/44
+#EXTINF:-1 group-title="Lista 07" , DISCOVERY FAMILIA
+http://bulltv.us:2999/legacy/legacy/45
+#EXTINF:-1 group-title="Lista 07" , DISCOVERY H&H
+http://bulltv.us:2999/legacy/legacy/46
+#EXTINF:-1 group-title="Lista 07" , DISCOVERY ID
+http://bulltv.us:2999/legacy/legacy/47
+#EXTINF:-1 group-title="Lista 07" , DISCOVERY KIDS 
+http://bulltv.us:2999/legacy/legacy/48
+#EXTINF:-1 group-title="Lista 07" , DISCOVERY THEATER
+http://bulltv.us:2999/legacy/legacy/50
+#EXTINF:-1 group-title="Lista 07" , DISCOVERY TLC
+http://bulltv.us:2999/legacy/legacy/51
+#EXTINF:-1 group-title="Lista 07" , DISCOVERY TURBO
+http://bulltv.us:2999/legacy/legacy/52
+#EXTINF:-1 group-title="Lista 07" , CANAL DE LAS ESTRELLAS
+http://bulltv.us:2999/legacy/legacy/33
+#EXTINF:-1 group-title="Lista 07" , CARACOL
+http://bulltv.us:2999/legacy/legacy/34
+#EXTINF:-1 group-title="Lista 07" , CARTOON NETWORK
+http://bulltv.us:2999/legacy/legacy/35
+#EXTINF:-1 group-title="Lista 07" , CINECANAL
+http://bulltv.us:2999/legacy/legacy/36
+#EXTINF:-1 group-title="Lista 07" , CINELATINO
+http://bulltv.us:2999/legacy/legacy/37
+#EXTINF:-1 group-title="Lista 07" , CINEMAX
+http://bulltv.us:2999/legacy/legacy/38
+#EXTINF:-1 group-title="Lista 07" , CNN ESPAÑOL
+http://bulltv.us:2999/legacy/legacy/39
+#EXTINF:-1 group-title="Lista 07" , DE PELICULA
+http://bulltv.us:2999/legacy/legacy/41
+#EXTINF:-1 group-title="Lista 07" , DISCOVERY CHANNEL
+http://bulltv.us:2999/legacy/legacy/42
+#EXTINF:-1 group-title="Lista 07" , El deseo de Navidad de Ángela (2020)
+http://bulltv.us:2999/movie/legacy/legacy/124.mp4
+#EXTINF:-1 group-title="Lista 07" , Orsai (2019)
+http://bulltv.us:2999/movie/legacy/legacy/125.mp4
+#EXTINF:-1 group-title="Lista 07" , Ip Man: Kung Fu Master (2019)
+http://bulltv.us:2999/movie/legacy/legacy/126.mp4
+#EXTINF:-1 group-title="Lista 07" , El árbol de los deseos (2020)
+http://bulltv.us:2999/movie/legacy/legacy/127.mp4
+#EXTINF:-1 group-title="Lista 07" , The Prom (2020)
+http://bulltv.us:2999/movie/legacy/legacy/128.mp4
+#EXTINF:-1 group-title="Lista 07" , El camino de Xico (2020)
+http://bulltv.us:2999/movie/legacy/legacy/129.mp4
+#EXTINF:-1 group-title="Lista 07" , El club de los idealistas (2020)
+http://bulltv.us:2999/movie/legacy/legacy/130.mp4
+#EXTINF:-1 group-title="Lista 07" , El día que me perdí (2020)
+http://bulltv.us:2999/movie/legacy/legacy/131.mp4
+#EXTINF:-1 group-title="Lista 07" , Strange But True (2019)
+http://bulltv.us:2999/movie/legacy/legacy/132.mp4
+#EXTINF:-1 group-title="Lista 07" , Sightless (2020)
+http://bulltv.us:2999/movie/legacy/legacy/133.mp4
+#EXTINF:-1 group-title="Lista 07" , Alex Winter (2019)
+http://bulltv.us:2999/movie/legacy/legacy/134.mp4
+#EXTINF:-1 group-title="Lista 07" , All Inclusive (2019)
+http://bulltv.us:2999/movie/legacy/legacy/135.mp4
+#EXTINF:-1 group-title="Lista 07" , Amor de Película (2019)
+http://bulltv.us:2999/movie/legacy/legacy/136.mp4
+#EXTINF:-1 group-title="Lista 07" , Amadrinadas (2020)
+http://bulltv.us:2999/movie/legacy/legacy/137.mp4
+#EXTINF:-1 group-title="Lista 07" , Ammonite (2020)
+http://bulltv.us:2999/movie/legacy/legacy/138.mp4
+#EXTINF:-1 group-title="Lista 07" , Araf 2 (2019)
+http://bulltv.us:2999/movie/legacy/legacy/139.mp4
+#EXTINF:-1 group-title="Lista 07" , Ava (2020)
+http://bulltv.us:2999/movie/legacy/legacy/140.mp4
+#EXTINF:-1 group-title="Lista 07" , Sin origen (2020)
+http://bulltv.us:2999/movie/legacy/legacy/141.mp4
+#EXTINF:-1 group-title="Lista 07" , Safety: La última línea de defensa (2020)
+http://bulltv.us:2999/movie/legacy/legacy/142.mp4
+#EXTINF:-1 group-title="Lista 07" , Spontaneous (2020)
+http://bulltv.us:2999/movie/legacy/legacy/143.mp4
+#EXTINF:-1 group-title="Lista 07" , CANAL 5
+http://bulltv.us:2999/legacy/legacy/32
+#EXTINF:-1 group-title="Lista 07" , CANAL ONCE
+http://bulltv.us:2999/legacy/legacy/31
+#EXTINF:-1 group-title="Lista 07" , BOOMERANG
+http://bulltv.us:2999/legacy/legacy/30
+#EXTINF:-1 group-title="Lista 07" , AZTECA 7
+http://bulltv.us:2999/legacy/legacy/26
+#EXTINF:-1 group-title="Lista 07" , AZTECA 1
+http://bulltv.us:2999/legacy/legacy/25
+#EXTINF:-1 group-title="Lista 07" , AZ MUNDO
+http://bulltv.us:2999/legacy/legacy/24
+#EXTINF:-1 group-title="Lista 07" , AZ CORAZON
+http://bulltv.us:2999/legacy/legacy/23
+#EXTINF:-1 group-title="Lista 07" , A3S
+http://bulltv.us:2999/legacy/legacy/13
+#EXTINF:-1 group-title="Lista 07" , ADN 40
+http://bulltv.us:2999/legacy/legacy/14
+#EXTINF:-1 group-title="Lista 07" , AFIZZIONADOS
+http://bulltv.us:2999/legacy/legacy/15
+#EXTINF:-1 group-title="Lista 07" , AMC
+http://bulltv.us:2999/legacy/legacy/16
+#EXTINF:-1 group-title="Lista 07" , ANIMAL PLANET
+http://bulltv.us:2999/legacy/legacy/17
+#EXTINF:-1 group-title="Lista 07" , ANTENA 3
+http://bulltv.us:2999/legacy/legacy/18
+#EXTINF:-1 group-title="Lista 07" , AXN
+http://bulltv.us:2999/legacy/legacy/19
+#EXTINF:-1 group-title="Lista 07" , AXN WHITE
+http://bulltv.us:2999/legacy/legacy/20
+#EXTINF:-1 group-title="Lista 07" , AYM SPORTS
+http://bulltv.us:2999/legacy/legacy/21
+#EXTINF:-1 group-title="Lista 07" , AZ CINEMA
+http://bulltv.us:2999/legacy/legacy/22
+#EXTINF:-1 group-title="Lista 07" , GOLF CHANNEL
+http://bulltv.us:2999/legacy/legacy/12
+#EXTINF:-1 group-title="Lista 07" , A&E
+http://bulltv.us:2999/legacy/legacy/6
+#EXTINF:-1 group-title="Lista 07" , Wonder Woman 1984 (2020)
+http://bulltv.us:2999/movie/legacy/legacy/150.mp4
+#EXTINF:-1 group-title="Lista 07" , BANDAMAX
+http://bulltv.us:2999/legacy/legacy/27
+#EXTINF:-1 group-title="Lista 07" , COMEDY CENTRAL
+http://bulltv.us:2999/legacy/legacy/40
+#EXTINF:-1 group-title="Lista 07" , STAR HITS
+http://bulltv.us:2999/legacy/legacy/75
+#EXTINF:-1 group-title="Lista 07" , STAR ACTION
+http://bulltv.us:2999/legacy/legacy/70
+#EXTINF:-1 group-title="Lista 07" , EL PRINCIPE DEL RAP
+http://bulltv.us:2999/legacy/legacy/156
+#EXTINF:-1 group-title="Lista 07" , LOONEY TOONS
+http://bulltv.us:2999/legacy/legacy/157
+#EXTINF:-1 group-title="Lista 07" , The Big Bang Theory
+http://bulltv.us:2999/legacy/legacy/158
+#EXTINF:-1 group-title="Lista 07" , Los Simpsons Temp 1-5
+http://bulltv.us:2999/legacy/legacy/159
+#EXTINF:-1 group-title="Lista 07" , Los Simpsons Temporada 6-10
+http://bulltv.us:2999/legacy/legacy/160
+#EXTINF:-1 group-title="Lista 07" , NARUTO
+http://bulltv.us:2999/legacy/legacy/162
+#EXTINF:-1 group-title="Lista 07" , HE MAN
+http://bulltv.us:2999/legacy/legacy/163
+#EXTINF:-1 group-title="Lista 07" , CABALLEROS DEL SODIACO
+http://bulltv.us:2999/legacy/legacy/164
+#EXTINF:-1 group-title="Lista 07" , MASINGERZ
+http://bulltv.us:2999/legacy/legacy/165
+#EXTINF:-1 group-title="Lista 07" , Megaman
+http://bulltv.us:2999/legacy/legacy/166
+#EXTINF:-1 group-title="Lista 07" , Loony toons
+http://bulltv.us:2999/legacy/legacy/167
+#EXTINF:-1 group-title="Lista 07" , La Casa de Mickey Mouse
+http://bulltv.us:2999/legacy/legacy/168
+#EXTINF:-1 group-title="Lista 07" , BOB ESPONJA
+http://bulltv.us:2999/legacy/legacy/169
+#EXTINF:-1 group-title="Lista 07" , MALCOLM
+http://bulltv.us:2999/legacy/legacy/170
+#EXTINF:-1 group-title="Lista 07" , EL COYOTE Y EL CORRECAMINOS
+http://bulltv.us:2999/legacy/legacy/171
+#EXTINF:-1 group-title="Lista 07" , FAMILIA DE BARRIO
+http://bulltv.us:2999/legacy/legacy/172
+#EXTINF:-1 group-title="Lista 07" , EL CHAVO TV
+http://bulltv.us:2999/legacy/legacy/173
+#EXTINF:-1 group-title="Lista 07" , MOUNSTRUOS DE VERDAD
+http://bulltv.us:2999/legacy/legacy/174
+#EXTINF:-1 group-title="Lista 07" , ENGLISH |  Bonanza
+http://bulltv.us:2999/legacy/legacy/175
+#EXTINF:-1 group-title="Lista 07" , ENGLISH | Sherlock Holmes
+http://bulltv.us:2999/legacy/legacy/176
+#EXTINF:-1 group-title="Lista 07" , ENGLISH | The Greatest American Hero
+http://bulltv.us:2999/legacy/legacy/177
+#EXTINF:-1 group-title="Lista 07" , ENGLISH | The Lone Ranger
+http://bulltv.us:2999/legacy/legacy/178
+#EXTINF:-1 group-title="Lista 07" , Peppa pig
+http://bulltv.us:2999/legacy/legacy/179
+#EXTINF:-1 group-title="Lista 07" , EBS Kids EN
+http://bulltv.us:2999/legacy/legacy/180
+#EXTINF:-1 group-title="Lista 07" , Bobbleheads: The Movie (2020)
+http://bulltv.us:2999/movie/legacy/legacy/197.mp4
+#EXTINF:-1 group-title="Lista 07" , The Bee Gees: How Can You Mend a Broken Heart (2020)
+http://bulltv.us:2999/movie/legacy/legacy/198.mp4
+#EXTINF:-1 group-title="Lista 07" , Soy tu mujer (2020)
+http://bulltv.us:2999/movie/legacy/legacy/199.mp4
+#EXTINF:-1 group-title="Lista 07" , Buddy Games (2019)
+http://bulltv.us:2999/movie/legacy/legacy/200.mp4
+#EXTINF:-1 group-title="Lista 07" , Cómo escapar de Búfalo (2020)
+http://bulltv.us:2999/movie/legacy/legacy/201.mp4
+#EXTINF:-1 group-title="Lista 07" , Combat Wombat (2020)
+http://bulltv.us:2999/movie/legacy/legacy/202.mp4
+#EXTINF:-1 group-title="Lista 07" , Copper Bill (2020)
+http://bulltv.us:2999/movie/legacy/legacy/203.mp4
+#EXTINF:-1 group-title="Lista 07" , Cielo de medianoche (2020)
+http://bulltv.us:2999/movie/legacy/legacy/204.mp4
+#EXTINF:-1 group-title="Lista 07" , La cita navideña de papá (2020)
+http://bulltv.us:2999/movie/legacy/legacy/205.mp4
+#EXTINF:-1 group-title="Lista 07" , Ceniza negra (2020)
+http://bulltv.us:2999/movie/legacy/legacy/206.mp4
+#EXTINF:-1 group-title="Lista 07" , The Stand In (2020)
+http://bulltv.us:2999/movie/legacy/legacy/207.mp4
+#EXTINF:-1 group-title="Lista 07" , Chichipatos: ¡qué chimba de Navidad! (2020)
+http://bulltv.us:2999/movie/legacy/legacy/208.mp4
+#EXTINF:-1 group-title="Lista 07" , Cut Throat City (2020)
+http://bulltv.us:2999/movie/legacy/legacy/209.mp4
+#EXTINF:-1 group-title="Lista 07" , La estación de la felicidad (2020)
+http://bulltv.us:2999/movie/legacy/legacy/210.mp4
+#EXTINF:-1 group-title="Lista 07" , Faith Under Fire (2020)
+http://bulltv.us:2999/movie/legacy/legacy/211.mp4
+#EXTINF:-1 group-title="Lista 07" , Fluidity (2019)
+http://bulltv.us:2999/movie/legacy/legacy/212.mp4
+#EXTINF:-1 group-title="Lista 07" , Este cuerpo me sienta de muerte (2020)
+http://bulltv.us:2999/movie/legacy/legacy/213.mp4
+#EXTINF:-1 group-title="Lista 07" , Fuego cruzado por Navidad (2020)
+http://bulltv.us:2999/movie/legacy/legacy/214.mp4
+#EXTINF:-1 group-title="Lista 07" , Host (2020)
+http://bulltv.us:2999/movie/legacy/legacy/215.mp4
+#EXTINF:-1 group-title="Lista 07" , Hex (2019)
+http://bulltv.us:2999/movie/legacy/legacy/216.mp4
+#EXTINF:-1 group-title="Lista 07" , Huachicolero (2019)
+http://bulltv.us:2999/movie/legacy/legacy/217.mp4
+#EXTINF:-1 group-title="Lista 07" , Curious George: Go West group-title="Lista 07" ,  Go Wild (2020)
+http://bulltv.us:2999/movie/legacy/legacy/218.mp4
+#EXTINF:-1 group-title="Lista 07" , Amor Mutante (2019)
+http://bulltv.us:2999/movie/legacy/legacy/219.mp4
+#EXTINF:-1 group-title="Lista 07" , La Última Fase (2020)
+http://bulltv.us:2999/movie/legacy/legacy/220.mp4
+#EXTINF:-1 group-title="Lista 07" , 13I
+http://bulltv.us:2999/legacy/legacy/221
+#EXTINF:-1 group-title="Lista 07" , 24HORAS
+http://bulltv.us:2999/legacy/legacy/222
+#EXTINF:-1 group-title="Lista 07" , CANAL 13
+http://bulltv.us:2999/legacy/legacy/223
+#EXTINF:-1 group-title="Lista 07" , CDF
+http://bulltv.us:2999/legacy/legacy/224
+#EXTINF:-1 group-title="Lista 07" , CDF BASICO
+http://bulltv.us:2999/legacy/legacy/225
+#EXTINF:-1 group-title="Lista 07" , CDF PREMIUN
+http://bulltv.us:2999/legacy/legacy/226
+#EXTINF:-1 group-title="Lista 07" , CDO BASICO
+http://bulltv.us:2999/legacy/legacy/227
+#EXTINF:-1 group-title="Lista 07" , CDO PREMIUN
+http://bulltv.us:2999/legacy/legacy/228
+#EXTINF:-1 group-title="Lista 07" , CHILEVISION
+http://bulltv.us:2999/legacy/legacy/229
+#EXTINF:-1 group-title="Lista 07" , ETC TV
+http://bulltv.us:2999/legacy/legacy/230
+#EXTINF:-1 group-title="Lista 07" , LA RED
+http://bulltv.us:2999/legacy/legacy/231
+#EXTINF:-1 group-title="Lista 07" , MEGA
+http://bulltv.us:2999/legacy/legacy/232
+#EXTINF:-1 group-title="Lista 07" , TELETRAK
+http://bulltv.us:2999/legacy/legacy/233
+#EXTINF:-1 group-title="Lista 07" , TVN
+http://bulltv.us:2999/legacy/legacy/234
+#EXTINF:-1 group-title="Lista 07" , PINGUINO TV
+http://bulltv.us:2999/legacy/legacy/235
+#EXTINF:-1 group-title="Lista 07" , Sky Cinema Comedy
+http://bulltv.us:2999/legacy/legacy/236
+#EXTINF:-1 group-title="Lista 07" , USA -L | CINE SUREÑO
+http://bulltv.us:2999/legacy/legacy/237
+#EXTINF:-1 group-title="Lista 07" , USA -L | TOP CINE 
+http://bulltv.us:2999/legacy/legacy/238
+#EXTINF:-1 group-title="Lista 07" , USA -L | JUNTOS
+http://bulltv.us:2999/legacy/legacy/239
+#EXTINF:-1 group-title="Lista 07" , USA -L | HORRORIFY
+http://bulltv.us:2999/legacy/legacy/240
+#EXTINF:-1 group-title="Lista 07" , TNT
+http://bulltv.us:2999/legacy/legacy/243
+#EXTINF:-1 group-title="Lista 07" , GOLDEN
+http://bulltv.us:2999/legacy/legacy/244
+#EXTINF:-1 group-title="Lista 07" , GOLDEN PREMIER
+http://bulltv.us:2999/legacy/legacy/245
+#EXTINF:-1 group-title="Lista 07" , HBO SIGNATURE
+http://bulltv.us:2999/legacy/legacy/246
+#EXTINF:-1 group-title="Lista 07" , STAR COMEDY
+http://bulltv.us:2999/legacy/legacy/247
+#EXTINF:-1 group-title="Lista 07" , Universal Channel
+http://bulltv.us:2999/legacy/legacy/248
+#EXTINF:-1 group-title="Lista 07" , CGTN ESPANOL
+http://bulltv.us:2999/legacy/legacy/249
+#EXTINF:-1 group-title="Lista 07" , HBO MUNDI
+http://bulltv.us:2999/legacy/legacy/250
+#EXTINF:-1 group-title="Lista 07" , Paramount
+http://bulltv.us:2999/legacy/legacy/251
+#EXTINF:-1 group-title="Lista 07" , FILMS ART
+http://bulltv.us:2999/legacy/legacy/252
+#EXTINF:-1 group-title="Lista 07" , Caracol.
+http://bulltv.us:2999/legacy/legacy/254
+#EXTINF:-1 group-title="Lista 07" , RCN.
+http://bulltv.us:2999/legacy/legacy/255
+#EXTINF:-1 group-title="Lista 07" , NTN24
+http://bulltv.us:2999/legacy/legacy/256
+#EXTINF:-1 group-title="Lista 07" , NTN24.
+http://bulltv.us:2999/legacy/legacy/257
+#EXTINF:-1 group-title="Lista 07" , CARACOL INTERNACIONAL
+http://bulltv.us:2999/legacy/legacy/258
+#EXTINF:-1 group-title="Lista 07" , CARACOL INTERNACIONAL.
+http://bulltv.us:2999/legacy/legacy/259
+#EXTINF:-1 group-title="Lista 07" , CITY TV
+http://bulltv.us:2999/legacy/legacy/260
+#EXTINF:-1 group-title="Lista 07" , CITY TV.
+http://bulltv.us:2999/legacy/legacy/261
+#EXTINF:-1 group-title="Lista 07" , EL TIEMPO
+http://bulltv.us:2999/legacy/legacy/262
+#EXTINF:-1 group-title="Lista 07" , EL TIEMPO.
+http://bulltv.us:2999/legacy/legacy/263
+#EXTINF:-1 group-title="Lista 07" , TELEANTIOQUIA
+http://bulltv.us:2999/legacy/legacy/264
+#EXTINF:-1 group-title="Lista 07" , TELECARIBE
+http://bulltv.us:2999/legacy/legacy/265
+#EXTINF:-1 group-title="Lista 07" , TELEPACIFICO
+http://bulltv.us:2999/legacy/legacy/266
+#EXTINF:-1 group-title="Lista 07" , WINSPORTS PLUS
+http://bulltv.us:2999/legacy/legacy/267
+#EXTINF:-1 group-title="Lista 07" , WINSPORTS +
+http://bulltv.us:2999/legacy/legacy/268
+#EXTINF:-1 group-title="Lista 07" , TELETICA 7
+http://bulltv.us:2999/legacy/legacy/269
+#EXTINF:-1 group-title="Lista 07" , REPRETEL 6 
+http://bulltv.us:2999/legacy/legacy/270
+#EXTINF:-1 group-title="Lista 07" , REPRETEL 11 
+http://bulltv.us:2999/legacy/legacy/271
+#EXTINF:-1 group-title="Lista 07" , TELEUNO
+http://bulltv.us:2999/legacy/legacy/272
+#EXTINF:-1 group-title="Lista 07" , CANAL 14 TV SUR
+http://bulltv.us:2999/legacy/legacy/273
+#EXTINF:-1 group-title="Lista 07" , FUTV
+http://bulltv.us:2999/legacy/legacy/274
+#EXTINF:-1 group-title="Lista 07" , CUBAVISION
+http://bulltv.us:2999/legacy/legacy/275
+#EXTINF:-1 group-title="Lista 07" , CUBAVISION INTERNACIONAL
+http://bulltv.us:2999/legacy/legacy/276
+#EXTINF:-1 group-title="Lista 07" , AMERICA TV
+http://bulltv.us:2999/legacy/legacy/277
+#EXTINF:-1 group-title="Lista 07" , MULTIVISION
+http://bulltv.us:2999/legacy/legacy/278
+#EXTINF:-1 group-title="Lista 07" , CUBAPLAY
+http://bulltv.us:2999/legacy/legacy/279
+#EXTINF:-1 group-title="Lista 07" , DISCOVERY SCIENCE
+http://bulltv.us:2999/legacy/legacy/280
+#EXTINF:-1 group-title="Lista 07" , USA | TUDN
+http://bulltv.us:2999/legacy/legacy/291
+#EXTINF:-1 group-title="Lista 07" , USA | ESPN  (opc 2)
+http://bulltv.us:2999/legacy/legacy/295
+#EXTINF:-1 group-title="Lista 07" , USA | ESPN  (opc 3)
+http://bulltv.us:2999/legacy/legacy/297
+#EXTINF:-1 group-title="Lista 07" , Fight Networ
+http://bulltv.us:2999/legacy/legacy/298
+#EXTINF:-1 group-title="Lista 07" , FOX Sports Arizona
+http://bulltv.us:2999/legacy/legacy/299
+#EXTINF:-1 group-title="Lista 07" , FOX Sports Indiana
+http://bulltv.us:2999/legacy/legacy/300
+#EXTINF:-1 group-title="Lista 07" , FOX Sports North
+http://bulltv.us:2999/legacy/legacy/301
+#EXTINF:-1 group-title="Lista 07" , FOX Sports Ohio
+http://bulltv.us:2999/legacy/legacy/302
+#EXTINF:-1 group-title="Lista 07" , FOX Sports San Diego
+http://bulltv.us:2999/legacy/legacy/303
+#EXTINF:-1 group-title="Lista 07" , FOX Sports South
+http://bulltv.us:2999/legacy/legacy/304
+#EXTINF:-1 group-title="Lista 07" , FOX Sports SouthEast
+http://bulltv.us:2999/legacy/legacy/305
+#EXTINF:-1 group-title="Lista 07" , FOX Sports SouthWest
+http://bulltv.us:2999/legacy/legacy/306
+#EXTINF:-1 group-title="Lista 07" , FOX Sports Sun
+http://bulltv.us:2999/legacy/legacy/307
+#EXTINF:-1 group-title="Lista 07" , FOX Sports West
+http://bulltv.us:2999/legacy/legacy/308
+#EXTINF:-1 group-title="Lista 07" , Eleven Sports
+http://bulltv.us:2999/legacy/legacy/309
+#EXTINF:-1 group-title="Lista 07" , NBC Sports Bay Area
+http://bulltv.us:2999/legacy/legacy/310
+#EXTINF:-1 group-title="Lista 07" , NBC Sports Boston
+http://bulltv.us:2999/legacy/legacy/311
+#EXTINF:-1 group-title="Lista 07" , NBC Sports California
+http://bulltv.us:2999/legacy/legacy/312
+#EXTINF:-1 group-title="Lista 07" , NBC Sports Chicago
+http://bulltv.us:2999/legacy/legacy/313
+#EXTINF:-1 group-title="Lista 07" , NBC Sports Northwest
+http://bulltv.us:2999/legacy/legacy/314
+#EXTINF:-1 group-title="Lista 07" , NBC Sports Philadelphia
+http://bulltv.us:2999/legacy/legacy/315
+#EXTINF:-1 group-title="Lista 07" , NBC Sports Washington
+http://bulltv.us:2999/legacy/legacy/316
+#EXTINF:-1 group-title="Lista 07" , Spectrum Sportsnet
+http://bulltv.us:2999/legacy/legacy/317
+#EXTINF:-1 group-title="Lista 07" , FOX SPORTS KANSAS CITY 
+http://bulltv.us:2999/legacy/legacy/318
+#EXTINF:-1 group-title="Lista 07" , Fox Sports Detroit
+http://bulltv.us:2999/legacy/legacy/319
+#EXTINF:-1 group-title="Lista 07" , Fox Sports Mid West
+http://bulltv.us:2999/legacy/legacy/320
+#EXTINF:-1 group-title="Lista 07" , Fox Sports New Orleans
+http://bulltv.us:2999/legacy/legacy/321
+#EXTINF:-1 group-title="Lista 07" , Fox Sports Prime Ticket
+http://bulltv.us:2999/legacy/legacy/322
+#EXTINF:-1 group-title="Lista 07" , Fox Sports South West Plus
+http://bulltv.us:2999/legacy/legacy/323
+#EXTINF:-1 group-title="Lista 07" , Fox Sports Tennessee
+http://bulltv.us:2999/legacy/legacy/324
+#EXTINF:-1 group-title="Lista 07" , NESN SPORT
+http://bulltv.us:2999/legacy/legacy/325
+#EXTINF:-1 group-title="Lista 07" , CBS SPORTS NETWORK
+http://bulltv.us:2999/legacy/legacy/326
+#EXTINF:-1 group-title="Lista 07" , SPORTNET LA
+http://bulltv.us:2999/legacy/legacy/327
+#EXTINF:-1 group-title="Lista 07" , ARGENTINA | FOX SPORTS PREMIUN
+http://bulltv.us:2999/legacy/legacy/329
+#EXTINF:-1 group-title="Lista 07" , ARGENTINA | TNT SPORTS
+http://bulltv.us:2999/legacy/legacy/330
+#EXTINF:-1 group-title="Lista 07" , COSTA RICA | TIGO SPORTS
+http://bulltv.us:2999/legacy/legacy/331
+#EXTINF:-1 group-title="Lista 07" , CANADA | Sportsnet 360
+http://bulltv.us:2999/legacy/legacy/332
+#EXTINF:-1 group-title="Lista 07" , CANADA | Sportsnet EAST
+http://bulltv.us:2999/legacy/legacy/333
+#EXTINF:-1 group-title="Lista 07" , CANADA | Sportsnet One
+http://bulltv.us:2999/legacy/legacy/334
+#EXTINF:-1 group-title="Lista 07" , CANADA | Sportsnet World
+http://bulltv.us:2999/legacy/legacy/335
+#EXTINF:-1 group-title="Lista 07" , CANADA | Sportsnet Ontario
+http://bulltv.us:2999/legacy/legacy/336
+#EXTINF:-1 group-title="Lista 07" , CANADA | Sportsnet Pacific
+http://bulltv.us:2999/legacy/legacy/337
+#EXTINF:-1 group-title="Lista 07" , CANADA | SPORTSNET WEST
+http://bulltv.us:2999/legacy/legacy/338
+#EXTINF:-1 group-title="Lista 07" , CANADA | TSN 1
+http://bulltv.us:2999/legacy/legacy/339
+#EXTINF:-1 group-title="Lista 07" , CANADA | TSN 2
+http://bulltv.us:2999/legacy/legacy/340
+#EXTINF:-1 group-title="Lista 07" , CANADA | TSN 3
+http://bulltv.us:2999/legacy/legacy/341
+#EXTINF:-1 group-title="Lista 07" , CANADA | TSN 4
+http://bulltv.us:2999/legacy/legacy/342
+#EXTINF:-1 group-title="Lista 07" , CANADA | TSN 5
+http://bulltv.us:2999/legacy/legacy/343
+#EXTINF:-1 group-title="Lista 07" , Latino | ADN40
+http://bulltv.us:2999/legacy/legacy/345
+#EXTINF:-1 group-title="Lista 07" , TVC Deportes
+http://bulltv.us:2999/legacy/legacy/347
+#EXTINF:-1 group-title="Lista 07" , TyC Sports
+http://bulltv.us:2999/legacy/legacy/348
+#EXTINF:-1 group-title="Lista 07" , Win Sports
+http://bulltv.us:2999/legacy/legacy/349
+#EXTINF:-1 group-title="Lista 07" , DIRECTV SPORTS 2
+http://bulltv.us:2999/legacy/legacy/350
+#EXTINF:-1 group-title="Lista 07" , DIRECTV SPORTS 1
+http://bulltv.us:2999/legacy/legacy/351
+#EXTINF:-1 group-title="Lista 07" , DIRECTV SPORTS +
+http://bulltv.us:2999/legacy/legacy/352
+#EXTINF:-1 group-title="Lista 07" , Adrenalina Sport Network
+http://bulltv.us:2999/legacy/legacy/353
+#EXTINF:-1 group-title="Lista 07" , CANAL UNO
+http://bulltv.us:2999/legacy/legacy/355
+#EXTINF:-1 group-title="Lista 07" , ECUADOR TV
+http://bulltv.us:2999/legacy/legacy/356
+#EXTINF:-1 group-title="Lista 07" , ECUADOR TV INTERNACIONAL
+http://bulltv.us:2999/legacy/legacy/357
+#EXTINF:-1 group-title="Lista 07" , ECUAVISA
+http://bulltv.us:2999/legacy/legacy/358
+#EXTINF:-1 group-title="Lista 07" , ECUAVISA INTERNACIONAL
+http://bulltv.us:2999/legacy/legacy/359
+#EXTINF:-1 group-title="Lista 07" , GAMAVISION
+http://bulltv.us:2999/legacy/legacy/360
+#EXTINF:-1 group-title="Lista 07" , RTS
+http://bulltv.us:2999/legacy/legacy/361
+#EXTINF:-1 group-title="Lista 07" , TC TELEVISION
+http://bulltv.us:2999/legacy/legacy/362
+#EXTINF:-1 group-title="Lista 07" , TELEAMAZONAS
+http://bulltv.us:2999/legacy/legacy/363
+#EXTINF:-1 group-title="Lista 07" , TELEVICENTRO
+http://bulltv.us:2999/legacy/legacy/364
+#EXTINF:-1 group-title="Lista 07" , TNT Series
+http://bulltv.us:2999/legacy/legacy/365
+#EXTINF:-1 group-title="Lista 07" , WARNER
+http://bulltv.us:2999/legacy/legacy/366
+#EXTINF:-1 group-title="Lista 07" , TruTV
+http://bulltv.us:2999/legacy/legacy/367
+#EXTINF:-1 group-title="Lista 07" , Unicable
+http://bulltv.us:2999/legacy/legacy/368
+#EXTINF:-1 group-title="Lista 07" , UNIMAS
+http://bulltv.us:2999/legacy/legacy/369
+#EXTINF:-1 group-title="Lista 07" , TLnovelas
+http://bulltv.us:2999/legacy/legacy/370
+#EXTINF:-1 group-title="Lista 07" , UNIVISION TLENOVELAS
+http://bulltv.us:2999/legacy/legacy/371
+#EXTINF:-1 group-title="Lista 07" , TOROS TV
+http://bulltv.us:2999/legacy/legacy/372
+#EXTINF:-1 group-title="Lista 07" , REAL MADRID TV
+http://bulltv.us:2999/legacy/legacy/373
+#EXTINF:-1 group-title="Lista 07" , LIFE TV
+http://bulltv.us:2999/legacy/legacy/374
+#EXTINF:-1 group-title="Lista 07" , MEDIA TV
+http://bulltv.us:2999/legacy/legacy/375
+#EXTINF:-1 group-title="Lista 07" , Tooncast
+http://bulltv.us:2999/legacy/legacy/376
+#EXTINF:-1 group-title="Lista 07" , BABY FIRTS
+http://bulltv.us:2999/legacy/legacy/377
+#EXTINF:-1 group-title="Lista 07" , NICK 2
+http://bulltv.us:2999/legacy/legacy/378
+#EXTINF:-1 group-title="Lista 07" , NICKELODEON
+http://bulltv.us:2999/legacy/legacy/379
+#EXTINF:-1 group-title="Lista 07" , BABY TV
+http://bulltv.us:2999/legacy/legacy/380
+#EXTINF:-1 group-title="Lista 07" , LOCOMOTION
+http://bulltv.us:2999/legacy/legacy/381
+#EXTINF:-1 group-title="Lista 07" , BOING
+http://bulltv.us:2999/legacy/legacy/382
+
+#EXTINF:-1 group-title="Lista 07" , TELEMUNDO INTERNACIONAL
+http://bulltv.us:2999/legacy/legacy/567
+#EXTINF:-1 group-title="Lista 07" , TELEMUNDO CONECTICUT
+http://bulltv.us:2999/legacy/legacy/569
+#EXTINF:-1 group-title="Lista 07" , TELEMUNDO
+http://bulltv.us:2999/legacy/legacy/570
+#EXTINF:-1 group-title="Lista 07" , TELEMUNDO CHICAGO
+http://bulltv.us:2999/legacy/legacy/571
+#EXTINF:-1 group-title="Lista 07" , TELEMUNDO LOS ANGELES
+http://bulltv.us:2999/legacy/legacy/572
+#EXTINF:-1 group-title="Lista 07" , TELEMUNDO MIAMI
+http://bulltv.us:2999/legacy/legacy/573
+#EXTINF:-1 group-title="Lista 07" , TELEMUNDO TEXAS
+http://bulltv.us:2999/legacy/legacy/574
+#EXTINF:-1 group-title="Lista 07" , TELEMUNDO SANANTONIO
+http://bulltv.us:2999/legacy/legacy/579
+#EXTINF:-1 group-title="Lista 07" , TELEMUNDO NEWYORK
+http://bulltv.us:2999/legacy/legacy/580
+#EXTINF:-1 group-title="Lista 07" , UNIMAS PHILADELPHIA
+http://bulltv.us:2999/legacy/legacy/581
+#EXTINF:-1 group-title="Lista 07" , UNIMAS DALLAS
+http://bulltv.us:2999/legacy/legacy/582
+#EXTINF:-1 group-title="Lista 07" , UNIMAS MIAMI
+http://bulltv.us:2999/legacy/legacy/583
+#EXTINF:-1 group-title="Lista 07" , UNIMAS NEW YORK
+http://bulltv.us:2999/legacy/legacy/584
+#EXTINF:-1 group-title="Lista 07" , UNIMAS LOS ANGELES
+http://bulltv.us:2999/legacy/legacy/585
+#EXTINF:-1 group-title="Lista 07" , GALAVISION ALBUQUERQUE
+http://bulltv.us:2999/legacy/legacy/586
+#EXTINF:-1 group-title="Lista 07" , GALAVISION ATLANTA
+http://bulltv.us:2999/legacy/legacy/587
+#EXTINF:-1 group-title="Lista 07" , GALAVISION AUSTIN
+http://bulltv.us:2999/legacy/legacy/588
+#EXTINF:-1 group-title="Lista 07" , GALAVISION DALLAS
+http://bulltv.us:2999/legacy/legacy/590
+#EXTINF:-1 group-title="Lista 07" , GALAVISION EAST
+http://bulltv.us:2999/legacy/legacy/591
+#EXTINF:-1 group-title="Lista 07" , GALAVISION FRESNO
+http://bulltv.us:2999/legacy/legacy/592
+#EXTINF:-1 group-title="Lista 07" , GALAVISION LA
+http://bulltv.us:2999/legacy/legacy/594
+#EXTINF:-1 group-title="Lista 07" , GALAVISION MIAMI
+http://bulltv.us:2999/legacy/legacy/596
+#EXTINF:-1 group-title="Lista 07" , GALAVISION PHOENIX
+http://bulltv.us:2999/legacy/legacy/599
+#EXTINF:-1 group-title="Lista 07" , GALAVISION SACRAMENTO
+http://bulltv.us:2999/legacy/legacy/601
+#EXTINF:-1 group-title="Lista 07" , GALAVISION SALTLAKE
+http://bulltv.us:2999/legacy/legacy/602
+#EXTINF:-1 group-title="Lista 07" , GALAVISION SAN ANTONIO
+http://bulltv.us:2999/legacy/legacy/603
+#EXTINF:-1 group-title="Lista 07" , GALAVISION WEST
+http://bulltv.us:2999/legacy/legacy/605
+#EXTINF:-1 group-title="Lista 07" , Univision PR
+http://bulltv.us:2999/legacy/legacy/606
+#EXTINF:-1 group-title="Lista 07" , USA | UNIVISION LOS ANGELES
+http://bulltv.us:2999/legacy/legacy/607
+#EXTINF:-1 group-title="Lista 07" , USA | UNIVISION MIAMI
+http://bulltv.us:2999/legacy/legacy/608
+#EXTINF:-1 group-title="Lista 07" , USA | UNIVISION NEWYORK
+http://bulltv.us:2999/legacy/legacy/609
+#EXTINF:-1 group-title="Lista 07" , USA | UNIVISION DALLAS
+http://bulltv.us:2999/legacy/legacy/610
+#EXTINF:-1 group-title="Lista 07" , USA | UNIVISION SAN FRANCISCO
+http://bulltv.us:2999/legacy/legacy/611
+#EXTINF:-1 group-title="Lista 07" , USA | UNIVISION
+http://bulltv.us:2999/legacy/legacy/612
+#EXTINF:-1 group-title="Lista 07" , TELEVISA MONTEREY
+http://bulltv.us:2999/legacy/legacy/613
+#EXTINF:-1 group-title="Lista 07" , MILENIO TV
+http://bulltv.us:2999/legacy/legacy/614
+#EXTINF:-1 group-title="Lista 07" , Film And Arts
+http://bulltv.us:2999/legacy/legacy/615
+#EXTINF:-1 group-title="Lista 07" , Azteca Plus
+http://bulltv.us:2999/legacy/legacy/616
+#EXTINF:-1 group-title="Lista 07" , RTQ QUERETARO
+http://bulltv.us:2999/legacy/legacy/617
+#EXTINF:-1 group-title="Lista 07" , RCG SALTILLO
+http://bulltv.us:2999/legacy/legacy/618
+#EXTINF:-1 group-title="Lista 07" , EXTREMA X
+http://bulltv.us:2999/legacy/legacy/619
+#EXTINF:-1 group-title="Lista 07" , CANAL 10 CANCUN
+http://bulltv.us:2999/legacy/legacy/620
+#EXTINF:-1 group-title="Lista 07" , CANAL 4 SALTILLO
+http://bulltv.us:2999/legacy/legacy/621
+#EXTINF:-1 group-title="Lista 07" , PRESUMIENDO MEXICO
+http://bulltv.us:2999/legacy/legacy/622
+#EXTINF:-1 group-title="Lista 07" , INGENIO TV
+http://bulltv.us:2999/legacy/legacy/623
+
+#EXTINF:-1 group-title="Lista 07" , Dance/EDM
+http://bulltv.us:2999/legacy/legacy/652
+#EXTINF:-1 group-title="Lista 07" , Kidz Only!
+http://bulltv.us:2999/legacy/legacy/656
+#EXTINF:-1 group-title="Lista 07" , VH1
+http://bulltv.us:2999/legacy/legacy/673
+#EXTINF:-1 group-title="Lista 07" , VH1 Classic
+http://bulltv.us:2999/legacy/legacy/674
+#EXTINF:-1 group-title="Lista 07" , MTV LIVE
+http://bulltv.us:2999/legacy/legacy/675
+#EXTINF:-1 group-title="Lista 07" , MTV
+http://bulltv.us:2999/legacy/legacy/676
+#EXTINF:-1 group-title="Lista 07" , MELODY CHANNEL
+http://bulltv.us:2999/legacy/legacy/677
+#EXTINF:-1 group-title="Lista 07" , CNN ENG
+http://bulltv.us:2999/legacy/legacy/678
+#EXTINF:-1 group-title="Lista 07" , TV PE NOTICIAS
+http://bulltv.us:2999/legacy/legacy/679
+#EXTINF:-1 group-title="Lista 07" , TV PERU NOTICIAS
+http://bulltv.us:2999/legacy/legacy/680
+#EXTINF:-1 group-title="Lista 07" , WILLAX TV
+http://bulltv.us:2999/legacy/legacy/681
+#EXTINF:-1 group-title="Lista 07" , ATV +
+http://bulltv.us:2999/legacy/legacy/682
+#EXTINF:-1 group-title="Lista 07" , ATV
+http://bulltv.us:2999/legacy/legacy/683
+#EXTINF:-1 group-title="Lista 07" , PANAMERICANA
+http://bulltv.us:2999/legacy/legacy/684
+#EXTINF:-1 group-title="Lista 07" , PERU MAGICO
+http://bulltv.us:2999/legacy/legacy/685
+#EXTINF:-1 group-title="Lista 07" , GOL PERU
+http://bulltv.us:2999/legacy/legacy/686
+#EXTINF:-1 group-title="Lista 07" , GOL PERU.
+http://bulltv.us:2999/legacy/legacy/687
+#EXTINF:-1 group-title="Lista 07" , MOVISTAR DEPORTES
+http://bulltv.us:2999/legacy/legacy/688
+#EXTINF:-1 group-title="Lista 07" , MOVISTAR DEPORTES.
+http://bulltv.us:2999/legacy/legacy/689
+#EXTINF:-1 group-title="Lista 07" , CANAL IPE
+http://bulltv.us:2999/legacy/legacy/690
+#EXTINF:-1 group-title="Lista 07" , LATINA
+http://bulltv.us:2999/legacy/legacy/691
+#EXTINF:-1 group-title="Lista 07" , AMERICA TV 
+http://bulltv.us:2999/legacy/legacy/692
+#EXTINF:-1 group-title="Lista 07" , BHTV
+http://bulltv.us:2999/legacy/legacy/693
+#EXTINF:-1 group-title="Lista 07" , ANTARES TV
+http://bulltv.us:2999/legacy/legacy/694
+#EXTINF:-1 group-title="Lista 07" , CULTURA 24
+http://bulltv.us:2999/legacy/legacy/695
+#EXTINF:-1 group-title="Lista 07" , CANAL N
+http://bulltv.us:2999/legacy/legacy/696
+#EXTINF:-1 group-title="Lista 07" , RPP
+http://bulltv.us:2999/legacy/legacy/697
+#EXTINF:-1 group-title="Lista 07" , MEGA TV
+http://bulltv.us:2999/legacy/legacy/699
+#EXTINF:-1 group-title="Lista 07" , Punto 2
+http://bulltv.us:2999/legacy/legacy/700
+#EXTINF:-1 group-title="Lista 07" , Univision PR
+http://bulltv.us:2999/legacy/legacy/701
+#EXTINF:-1 group-title="Lista 07" , WAPA
+http://bulltv.us:2999/legacy/legacy/703
+#EXTINF:-1 group-title="Lista 07" , WAPA 2
+http://bulltv.us:2999/legacy/legacy/704
+#EXTINF:-1 group-title="Lista 07" , WAPA 2.
+http://bulltv.us:2999/legacy/legacy/705
+#EXTINF:-1 group-title="Lista 07" , WAPA AMERICA.
+http://bulltv.us:2999/legacy/legacy/706
+#EXTINF:-1 group-title="Lista 07" , WAPA AMERICA
+http://bulltv.us:2999/legacy/legacy/707
+#EXTINF:-1 group-title="Lista 07" , TELEMUNDO PR
+http://bulltv.us:2999/legacy/legacy/708
+#EXTINF:-1 group-title="Lista 07" , TELEMUNDO PR.
+http://bulltv.us:2999/legacy/legacy/709
+#EXTINF:-1 group-title="Lista 07" , WIPR
+http://bulltv.us:2999/legacy/legacy/710
+
+
+
+
+
+#EXTINF:-1  group-title="Lista 07" , 1
+http://190.210.221.119/Processor3_1_chunklist_b1300000.m3u8
+#EXTINF:-1  group-title="Lista 07" , 2
+http://190.210.221.119/Processor3_2_chunklist_b1300000.m3u8
+#EXTINF:-1  group-title="Lista 07" , Directv sport
+http://190.210.221.119/Processor3_3_chunklist_b1300000.m3u8
+#EXTINF:-1  group-title="Lista 07" , ESPN
+http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
+#EXTINF:-1  group-title="Lista 07" , Directv
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1  group-title="Lista 07" , TNT sports
+http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
+#EXTINF:-1  group-title="Lista 07" , Tele
+http://190.210.221.119/Processor3_11_chunklist_b1300000.m3u8
+#EXTINF:-1  group-title="Lista 07" ,  TBS
+http://190.210.221.119:8080/recorder7_9_chunklist_b1300000.m3u8
+#EXTINF:-1  group-title="Lista 07" ,  TBS
+http://190.210.221.119:8080/recorder7_0_chunklist_b1300000.m3u8
+#EXTINF:-1  group-title="Lista 07" , 79-
+http://190.210.221.119/recorder7_9_chunklist_b1300000.m3u8
