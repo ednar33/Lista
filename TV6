@@ -4,20 +4,6 @@
 http://186.67.37.45:9000/play/a002/index.m3u8
 #EXTINF:-1  group-title="Lista 07" , CDF Basico
 http://186.67.37.45:9000/play/a00e/index.m3u8
-#EXTINF:-1  group-title="Lista 07" , Canal 13  
-http://186.67.37.45:9000/play/a00c/index.m3u8
-#EXTINF:-1  group-title="Lista 07" , Canal 2
-http://186.67.37.45:9000/play/a00a/index.m3u8
-#EXTINF:-1  group-title="Lista 07" , Canal Regional 
-http://186.67.37.45:9000/play/a004/index.m3u8
-#EXTINF:-1  group-title="Lista 07" , FMH FAMILY
-http://186.67.37.45:9000/play/a00b/index.m3u8
-#EXTINF:-1  group-title="Lista 07" , Karavana Tv
-http://186.67.37.45:9000/play/a008/index.m3u8
-#EXTINF:-1  group-title="Lista 07" , TVN HD
-http://186.67.37.45:9000/play/a00d/index.m3u8
-#EXTINF:-1  group-title="Lista 07" , Urbano
-http://186.67.37.45:9000/play/a009/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="Lista 07" , FUTURAMA
@@ -180,46 +166,6 @@ http://bulltv.us:2999/legacy/legacy/39
 http://bulltv.us:2999/legacy/legacy/41
 #EXTINF:-1 group-title="Lista 07" , DISCOVERY CHANNEL
 http://bulltv.us:2999/legacy/legacy/42
-#EXTINF:-1 group-title="Lista 07" , El deseo de Navidad de Ángela (2020)
-http://bulltv.us:2999/movie/legacy/legacy/124.mp4
-#EXTINF:-1 group-title="Lista 07" , Orsai (2019)
-http://bulltv.us:2999/movie/legacy/legacy/125.mp4
-#EXTINF:-1 group-title="Lista 07" , Ip Man: Kung Fu Master (2019)
-http://bulltv.us:2999/movie/legacy/legacy/126.mp4
-#EXTINF:-1 group-title="Lista 07" , El árbol de los deseos (2020)
-http://bulltv.us:2999/movie/legacy/legacy/127.mp4
-#EXTINF:-1 group-title="Lista 07" , The Prom (2020)
-http://bulltv.us:2999/movie/legacy/legacy/128.mp4
-#EXTINF:-1 group-title="Lista 07" , El camino de Xico (2020)
-http://bulltv.us:2999/movie/legacy/legacy/129.mp4
-#EXTINF:-1 group-title="Lista 07" , El club de los idealistas (2020)
-http://bulltv.us:2999/movie/legacy/legacy/130.mp4
-#EXTINF:-1 group-title="Lista 07" , El día que me perdí (2020)
-http://bulltv.us:2999/movie/legacy/legacy/131.mp4
-#EXTINF:-1 group-title="Lista 07" , Strange But True (2019)
-http://bulltv.us:2999/movie/legacy/legacy/132.mp4
-#EXTINF:-1 group-title="Lista 07" , Sightless (2020)
-http://bulltv.us:2999/movie/legacy/legacy/133.mp4
-#EXTINF:-1 group-title="Lista 07" , Alex Winter (2019)
-http://bulltv.us:2999/movie/legacy/legacy/134.mp4
-#EXTINF:-1 group-title="Lista 07" , All Inclusive (2019)
-http://bulltv.us:2999/movie/legacy/legacy/135.mp4
-#EXTINF:-1 group-title="Lista 07" , Amor de Película (2019)
-http://bulltv.us:2999/movie/legacy/legacy/136.mp4
-#EXTINF:-1 group-title="Lista 07" , Amadrinadas (2020)
-http://bulltv.us:2999/movie/legacy/legacy/137.mp4
-#EXTINF:-1 group-title="Lista 07" , Ammonite (2020)
-http://bulltv.us:2999/movie/legacy/legacy/138.mp4
-#EXTINF:-1 group-title="Lista 07" , Araf 2 (2019)
-http://bulltv.us:2999/movie/legacy/legacy/139.mp4
-#EXTINF:-1 group-title="Lista 07" , Ava (2020)
-http://bulltv.us:2999/movie/legacy/legacy/140.mp4
-#EXTINF:-1 group-title="Lista 07" , Sin origen (2020)
-http://bulltv.us:2999/movie/legacy/legacy/141.mp4
-#EXTINF:-1 group-title="Lista 07" , Safety: La última línea de defensa (2020)
-http://bulltv.us:2999/movie/legacy/legacy/142.mp4
-#EXTINF:-1 group-title="Lista 07" , Spontaneous (2020)
-http://bulltv.us:2999/movie/legacy/legacy/143.mp4
 #EXTINF:-1 group-title="Lista 07" , CANAL 5
 http://bulltv.us:2999/legacy/legacy/32
 #EXTINF:-1 group-title="Lista 07" , CANAL ONCE
@@ -258,8 +204,6 @@ http://bulltv.us:2999/legacy/legacy/22
 http://bulltv.us:2999/legacy/legacy/12
 #EXTINF:-1 group-title="Lista 07" , A&E
 http://bulltv.us:2999/legacy/legacy/6
-#EXTINF:-1 group-title="Lista 07" , Wonder Woman 1984 (2020)
-http://bulltv.us:2999/movie/legacy/legacy/150.mp4
 #EXTINF:-1 group-title="Lista 07" , BANDAMAX
 http://bulltv.us:2999/legacy/legacy/27
 #EXTINF:-1 group-title="Lista 07" , COMEDY CENTRAL
@@ -304,72 +248,6 @@ http://bulltv.us:2999/legacy/legacy/172
 http://bulltv.us:2999/legacy/legacy/173
 #EXTINF:-1 group-title="Lista 07" , MOUNSTRUOS DE VERDAD
 http://bulltv.us:2999/legacy/legacy/174
-#EXTINF:-1 group-title="Lista 07" , ENGLISH |  Bonanza
-http://bulltv.us:2999/legacy/legacy/175
-#EXTINF:-1 group-title="Lista 07" , ENGLISH | Sherlock Holmes
-http://bulltv.us:2999/legacy/legacy/176
-#EXTINF:-1 group-title="Lista 07" , ENGLISH | The Greatest American Hero
-http://bulltv.us:2999/legacy/legacy/177
-#EXTINF:-1 group-title="Lista 07" , ENGLISH | The Lone Ranger
-http://bulltv.us:2999/legacy/legacy/178
-#EXTINF:-1 group-title="Lista 07" , Peppa pig
-http://bulltv.us:2999/legacy/legacy/179
-#EXTINF:-1 group-title="Lista 07" , EBS Kids EN
-http://bulltv.us:2999/legacy/legacy/180
-#EXTINF:-1 group-title="Lista 07" , Bobbleheads: The Movie (2020)
-http://bulltv.us:2999/movie/legacy/legacy/197.mp4
-#EXTINF:-1 group-title="Lista 07" , The Bee Gees: How Can You Mend a Broken Heart (2020)
-http://bulltv.us:2999/movie/legacy/legacy/198.mp4
-#EXTINF:-1 group-title="Lista 07" , Soy tu mujer (2020)
-http://bulltv.us:2999/movie/legacy/legacy/199.mp4
-#EXTINF:-1 group-title="Lista 07" , Buddy Games (2019)
-http://bulltv.us:2999/movie/legacy/legacy/200.mp4
-#EXTINF:-1 group-title="Lista 07" , Cómo escapar de Búfalo (2020)
-http://bulltv.us:2999/movie/legacy/legacy/201.mp4
-#EXTINF:-1 group-title="Lista 07" , Combat Wombat (2020)
-http://bulltv.us:2999/movie/legacy/legacy/202.mp4
-#EXTINF:-1 group-title="Lista 07" , Copper Bill (2020)
-http://bulltv.us:2999/movie/legacy/legacy/203.mp4
-#EXTINF:-1 group-title="Lista 07" , Cielo de medianoche (2020)
-http://bulltv.us:2999/movie/legacy/legacy/204.mp4
-#EXTINF:-1 group-title="Lista 07" , La cita navideña de papá (2020)
-http://bulltv.us:2999/movie/legacy/legacy/205.mp4
-#EXTINF:-1 group-title="Lista 07" , Ceniza negra (2020)
-http://bulltv.us:2999/movie/legacy/legacy/206.mp4
-#EXTINF:-1 group-title="Lista 07" , The Stand In (2020)
-http://bulltv.us:2999/movie/legacy/legacy/207.mp4
-#EXTINF:-1 group-title="Lista 07" , Chichipatos: ¡qué chimba de Navidad! (2020)
-http://bulltv.us:2999/movie/legacy/legacy/208.mp4
-#EXTINF:-1 group-title="Lista 07" , Cut Throat City (2020)
-http://bulltv.us:2999/movie/legacy/legacy/209.mp4
-#EXTINF:-1 group-title="Lista 07" , La estación de la felicidad (2020)
-http://bulltv.us:2999/movie/legacy/legacy/210.mp4
-#EXTINF:-1 group-title="Lista 07" , Faith Under Fire (2020)
-http://bulltv.us:2999/movie/legacy/legacy/211.mp4
-#EXTINF:-1 group-title="Lista 07" , Fluidity (2019)
-http://bulltv.us:2999/movie/legacy/legacy/212.mp4
-#EXTINF:-1 group-title="Lista 07" , Este cuerpo me sienta de muerte (2020)
-http://bulltv.us:2999/movie/legacy/legacy/213.mp4
-#EXTINF:-1 group-title="Lista 07" , Fuego cruzado por Navidad (2020)
-http://bulltv.us:2999/movie/legacy/legacy/214.mp4
-#EXTINF:-1 group-title="Lista 07" , Host (2020)
-http://bulltv.us:2999/movie/legacy/legacy/215.mp4
-#EXTINF:-1 group-title="Lista 07" , Hex (2019)
-http://bulltv.us:2999/movie/legacy/legacy/216.mp4
-#EXTINF:-1 group-title="Lista 07" , Huachicolero (2019)
-http://bulltv.us:2999/movie/legacy/legacy/217.mp4
-#EXTINF:-1 group-title="Lista 07" , Curious George: Go West group-title="Lista 07" ,  Go Wild (2020)
-http://bulltv.us:2999/movie/legacy/legacy/218.mp4
-#EXTINF:-1 group-title="Lista 07" , Amor Mutante (2019)
-http://bulltv.us:2999/movie/legacy/legacy/219.mp4
-#EXTINF:-1 group-title="Lista 07" , La Última Fase (2020)
-http://bulltv.us:2999/movie/legacy/legacy/220.mp4
-#EXTINF:-1 group-title="Lista 07" , 13I
-http://bulltv.us:2999/legacy/legacy/221
-#EXTINF:-1 group-title="Lista 07" , 24HORAS
-http://bulltv.us:2999/legacy/legacy/222
-#EXTINF:-1 group-title="Lista 07" , CANAL 13
-http://bulltv.us:2999/legacy/legacy/223
 #EXTINF:-1 group-title="Lista 07" , CDF
 http://bulltv.us:2999/legacy/legacy/224
 #EXTINF:-1 group-title="Lista 07" , CDF BASICO
@@ -380,30 +258,6 @@ http://bulltv.us:2999/legacy/legacy/226
 http://bulltv.us:2999/legacy/legacy/227
 #EXTINF:-1 group-title="Lista 07" , CDO PREMIUN
 http://bulltv.us:2999/legacy/legacy/228
-#EXTINF:-1 group-title="Lista 07" , CHILEVISION
-http://bulltv.us:2999/legacy/legacy/229
-#EXTINF:-1 group-title="Lista 07" , ETC TV
-http://bulltv.us:2999/legacy/legacy/230
-#EXTINF:-1 group-title="Lista 07" , LA RED
-http://bulltv.us:2999/legacy/legacy/231
-#EXTINF:-1 group-title="Lista 07" , MEGA
-http://bulltv.us:2999/legacy/legacy/232
-#EXTINF:-1 group-title="Lista 07" , TELETRAK
-http://bulltv.us:2999/legacy/legacy/233
-#EXTINF:-1 group-title="Lista 07" , TVN
-http://bulltv.us:2999/legacy/legacy/234
-#EXTINF:-1 group-title="Lista 07" , PINGUINO TV
-http://bulltv.us:2999/legacy/legacy/235
-#EXTINF:-1 group-title="Lista 07" , Sky Cinema Comedy
-http://bulltv.us:2999/legacy/legacy/236
-#EXTINF:-1 group-title="Lista 07" , USA -L | CINE SUREÑO
-http://bulltv.us:2999/legacy/legacy/237
-#EXTINF:-1 group-title="Lista 07" , USA -L | TOP CINE 
-http://bulltv.us:2999/legacy/legacy/238
-#EXTINF:-1 group-title="Lista 07" , USA -L | JUNTOS
-http://bulltv.us:2999/legacy/legacy/239
-#EXTINF:-1 group-title="Lista 07" , USA -L | HORRORIFY
-http://bulltv.us:2999/legacy/legacy/240
 #EXTINF:-1 group-title="Lista 07" , TNT
 http://bulltv.us:2999/legacy/legacy/243
 #EXTINF:-1 group-title="Lista 07" , GOLDEN
@@ -550,30 +404,6 @@ http://bulltv.us:2999/legacy/legacy/329
 http://bulltv.us:2999/legacy/legacy/330
 #EXTINF:-1 group-title="Lista 07" , COSTA RICA | TIGO SPORTS
 http://bulltv.us:2999/legacy/legacy/331
-#EXTINF:-1 group-title="Lista 07" , CANADA | Sportsnet 360
-http://bulltv.us:2999/legacy/legacy/332
-#EXTINF:-1 group-title="Lista 07" , CANADA | Sportsnet EAST
-http://bulltv.us:2999/legacy/legacy/333
-#EXTINF:-1 group-title="Lista 07" , CANADA | Sportsnet One
-http://bulltv.us:2999/legacy/legacy/334
-#EXTINF:-1 group-title="Lista 07" , CANADA | Sportsnet World
-http://bulltv.us:2999/legacy/legacy/335
-#EXTINF:-1 group-title="Lista 07" , CANADA | Sportsnet Ontario
-http://bulltv.us:2999/legacy/legacy/336
-#EXTINF:-1 group-title="Lista 07" , CANADA | Sportsnet Pacific
-http://bulltv.us:2999/legacy/legacy/337
-#EXTINF:-1 group-title="Lista 07" , CANADA | SPORTSNET WEST
-http://bulltv.us:2999/legacy/legacy/338
-#EXTINF:-1 group-title="Lista 07" , CANADA | TSN 1
-http://bulltv.us:2999/legacy/legacy/339
-#EXTINF:-1 group-title="Lista 07" , CANADA | TSN 2
-http://bulltv.us:2999/legacy/legacy/340
-#EXTINF:-1 group-title="Lista 07" , CANADA | TSN 3
-http://bulltv.us:2999/legacy/legacy/341
-#EXTINF:-1 group-title="Lista 07" , CANADA | TSN 4
-http://bulltv.us:2999/legacy/legacy/342
-#EXTINF:-1 group-title="Lista 07" , CANADA | TSN 5
-http://bulltv.us:2999/legacy/legacy/343
 #EXTINF:-1 group-title="Lista 07" , Latino | ADN40
 http://bulltv.us:2999/legacy/legacy/345
 #EXTINF:-1 group-title="Lista 07" , TVC Deportes
@@ -814,28 +644,3 @@ http://bulltv.us:2999/legacy/legacy/708
 http://bulltv.us:2999/legacy/legacy/709
 #EXTINF:-1 group-title="Lista 07" , WIPR
 http://bulltv.us:2999/legacy/legacy/710
-
-
-
-
-
-#EXTINF:-1  group-title="Lista 07" , 1
-http://190.210.221.119/Processor3_1_chunklist_b1300000.m3u8
-#EXTINF:-1  group-title="Lista 07" , 2
-http://190.210.221.119/Processor3_2_chunklist_b1300000.m3u8
-#EXTINF:-1  group-title="Lista 07" , Directv sport
-http://190.210.221.119/Processor3_3_chunklist_b1300000.m3u8
-#EXTINF:-1  group-title="Lista 07" , ESPN
-http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
-#EXTINF:-1  group-title="Lista 07" , Directv
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
-#EXTINF:-1  group-title="Lista 07" , TNT sports
-http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
-#EXTINF:-1  group-title="Lista 07" , Tele
-http://190.210.221.119/Processor3_11_chunklist_b1300000.m3u8
-#EXTINF:-1  group-title="Lista 07" ,  TBS
-http://190.210.221.119:8080/recorder7_9_chunklist_b1300000.m3u8
-#EXTINF:-1  group-title="Lista 07" ,  TBS
-http://190.210.221.119:8080/recorder7_0_chunklist_b1300000.m3u8
-#EXTINF:-1  group-title="Lista 07" , 79-
-http://190.210.221.119/recorder7_9_chunklist_b1300000.m3u8
